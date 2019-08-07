@@ -1,0 +1,2000 @@
+The Pitch & Roll - VA,12:30,23:00,9299526,Phenix City,VA,138228858,9862 Wentworth St.
+Rob Roy - PA,3:30,23:00,2297816,Clanton,PA,638993129,50 East Vine Drive
+Atomic Liquors - TN,4:30,23:30,7696306,Guntersville,TN,587417452,9862 Wentworth St.
+The Bourbon Bar - LA,12:30,23:30,5354104,Mobile,LA,958131729,12 Blackburn Ave
+Hazlewood - MD,4:30,22:00,4279196,Ozark,MD,681988753,60 East Vine Drive
+Ozzies - VA,12:30,22:30,7120754,Fort Payne,VA,874414410,11 Blackburn Ave
+Tin n Lint - VA,3:30,23:00,4674249,Greenville,VA,622433275,12 Blackburn Ave
+The Surly Wench Pub - IA,4:00,21:30,9355380,Decatur,IA,573273746,60 East Vine Drive
+Fat Angel - NV,4:00,24:00,6949383,Demopolis,NV,635959888,11 Blackburn Ave
+The Grizzled Wizard - MN,3:00,21:30,2986236,Chickasaw,MN,266785656,97 East Vine Drive
+Ballard Loft - FL,2:00,22:30,9095434,Decatur,FL,961492101,7 Blackburn Ave
+The Jack Saloon - GA,2:30,22:00,5830133,Prichard,GA,985451064,12 Blackburn Ave
+The Pitch & Roll - NJ,4:00,23:30,2244513,Greenville,NJ,545652123,8 Blackburn Ave
+Tempest Bar - CA,3:30,23:30,7304129,Marion,CA,197388403,12 Blackburn Ave
+Happy Birthday Bar - IL,1:30,22:00,3604110,Selma,IL,762785151,733 Myrtle St. 
+Liberty - NM,4:30,22:00,5886379,Talladega,NM,935203460,40 East Vine Drive
+Hooverville Bar - UT,2:30,22:30,1353857,Auburn,UT,103590439,17 East Vine Drive
+Men at Wok - NY,2:00,21:30,6574075,Sheffield,NY,928672781,9862 Wentworth St.
+Fat Angel - HI,2:00,23:30,5530329,Fort Payne,HI,540496655,17 East Vine Drive
+Grumpys Goat Shack - IN,3:30,21:30,7204021,Scottsboro,IN,757698578,601 Shirley Ave
+The Surly Wench Pub - NH,1:30,24:00,6460772,Decatur,NH,650466551,17 East Vine Drive
+Grumpys Goat Shack - TN,1:30,22:00,9524844,Gadsden,TN,330955384,601 Shirley Ave
+The Pitch & Roll - TX,1:30,24:00,8686544,Andalusia,TX,683613978,11 Blackburn Ave
+Tin n Lint - OR,1:00,22:30,3036753,Fort Payne,OR,183423536,1 Blackburn Ave
+The Cask - PA,3:00,23:30,1589076,Prichard,PA,968126308,9862 Wentworth St.
+Mustards Last Stand - OR,3:00,22:00,6650335,Sylacauga,OR,807973777,60 East Vine Drive
+Jumbos Clown Room - ND,2:30,22:30,9196705,Chickasaw,ND,558527996,7 Blackburn Ave
+Double A - ME,4:30,23:00,9880365,Bessemer,ME,389602389,601 Shirley Ave
+Crimson Lounge - FL,1:00,22:00,7129109,Dothan,FL,166346518,8 Blackburn Ave
+Ballard Loft - ID,4:30,24:00,5413218,Scottsboro,ID,416962900,7 Blackburn Ave
+Double A - AK,1:30,21:30,7434077,Bessemer,AK,601708958,8 Blackburn Ave
+Rossis - MA,4:30,21:30,9631027,Phenix City,MA,436318119,97 East Vine Drive
+Happy Daze - MT,3:30,23:00,2460041,Greenville,MT,566159888,38 Kirkland Street
+Boxcar Ale House - MI,3:30,22:00,2322519,Bessemer,MI,301151166,601 Shirley Ave
+Atomic Liquors - MI,2:00,22:00,8657659,Andalusia,MI,825267873,8 Blackburn Ave
+The Tasting Room - ME,4:00,22:30,9031538,Scottsboro,ME,275252725,9862 Wentworth St.
+Bandits Bar - NY,3:00,24:00,8201257,Andalusia,NY,653692420,50 East Vine Drive
+Hooverville Bar - IL,1:30,23:00,1967296,Scottsboro,IL,986070065,11 Blackburn Ave
+Ozzies - TN,3:30,24:00,5808564,Selma,TN,960916290,88 Blackburn Ave
+Boxcar Ale House - PA,3:00,21:30,2516028,Talladega,PA,402147917,10 East Vine Drive
+Fireside Bar - MS,4:30,22:30,3982775,Clanton,MS,743970428,38 Kirkland Street
+The Grizzled Wizard - MI,2:30,22:30,5992465,Athens,MI,470117857,17 East Vine Drive
+Brew Ha Ha - IL,4:30,21:30,8928600,Scottsboro,IL,800488767,60 East Vine Drive
+Boxcar Ale House - WV,2:00,22:00,7533632,Chickasaw,WV,349529073,50 East Vine Drive
+Lava Lounge - MO,4:00,22:00,6575707,Marion,MO,675235392,97 East Vine Drive
+Mongoose Versus Cobra - CA,3:00,24:00,5093561,Huntsville,CA,289065496,17 East Vine Drive
+The Peoples Republik - OR,4:30,23:00,4876854,Birmingham,OR,173117211,97 East Vine Drive
+Comet Tavern - AZ,3:30,23:00,1946609,Decatur,AZ,502184703,97 East Vine Drive
+Amelie - ND,12:30,22:00,4540168,Scottsboro,ND,275235157,17 East Vine Drive
+Lenys Place - NM,2:30,21:30,5706101,Fort Payne,NM,379849711,601 Shirley Ave
+Bubbas Sulky Lounge - WV,12:30,24:00,4607241,Auburn,WV,162843010,733 Myrtle St. 
+Wish You Were Beer - NY,1:30,24:00,2551415,Clanton,NY,930117756,50 East Vine Drive
+Double A - PA,2:00,23:30,3320837,Greenville,PA,997151138,9862 Wentworth St.
+Quarter Lounge - NC,12:30,22:30,8793870,Andalusia,NC,387467199,1 Blackburn Ave
+Rye - MT,1:30,23:00,9821562,Atmore,MT,235970897,11 Blackburn Ave
+Happy Birthday Bar - IA,1:30,24:00,7093178,Talladega,IA,113527918,1 Blackburn Ave
+Hard Times & Misery Saloon - MO,12:30,22:30,2627313,Prichard,MO,887641338,60 East Vine Drive
+Bar Cotto - SC,1:30,22:30,3492367,Selma,SC,729697939,8 Blackburn Ave
+Duchess Tavern - MT,1:30,23:00,5041914,Phenix City,MT,621656190,9862 Wentworth St.
+Brotherhood of Thieves - OR,4:30,21:30,8349195,Cullman,OR,184659117,9862 Wentworth St.
+Grumpys Goat Shack - MN,4:00,22:00,4145878,Gadsden,MN,400776792,9862 Wentworth St.
+Bar Cotto - GA,12:30,23:00,4964824,Florence,GA,596528126,97 East Vine Drive
+Elixir - NY,4:30,23:30,7698243,Decatur,NY,796920638,11 Blackburn Ave
+Over the Tapas - VA,1:30,21:30,5249290,Dothan,VA,917283101,7 Blackburn Ave
+Wish You Were Beer - NM,4:00,22:30,5135144,Fort Payne,NM,166686480,17 East Vine Drive
+Smog Cutter - NC,3:00,22:30,1183479,Auburn,NC,322299991,12 Blackburn Ave
+Rob Roy - ME,3:30,21:30,6164122,Sheffield,ME,100192588,40 East Vine Drive
+Bloodhound - TN,4:00,23:00,7338164,Ozark,TN,534397453,733 Myrtle St. 
+Jumbos Clown Room - MO,2:30,22:00,4153124,Marion,MO,661278667,11 Blackburn Ave
+Triangle Pub - NM,2:30,23:30,5574415,Scottsboro,NM,114364817,601 Shirley Ave
+Hot Bird - MN,3:30,24:00,2098360,Bessemer,MN,997334777,97 East Vine Drive
+Thai & Mighty - SD,4:30,22:30,2995515,Fort Payne,SD,484265692,88 Blackburn Ave
+Aesops Tables - MS,3:30,22:30,9031141,Gadsden,MS,991051380,17 East Vine Drive
+The Bourbon Bar - AR,3:00,24:00,7529610,Andalusia,AR,995632094,10 East Vine Drive
+Happy Birthday Bar - ND,2:00,23:00,9831725,Atmore,ND,260591036,7 Blackburn Ave
+Mecca Cafe - WV,2:30,23:30,6487627,Cullman,WV,569172415,17 East Vine Drive
+The Boardroom - NV,2:30,23:00,6457984,Andalusia,NV,230851341,97 East Vine Drive
+Lenys Place - HI,3:30,24:00,8036806,Sylacauga,HI,797126501,60 East Vine Drive
+Lone Palm - NJ,1:00,24:00,8019047,Demopolis,NJ,467339127,11 Blackburn Ave
+Corner Pocket - MS,3:30,21:30,7350887,Gadsden,MS,297749471,733 Myrtle St. 
+Unphogettable - ND,2:30,21:30,7663802,Jasper,ND,332475086,60 East Vine Drive
+Mustards Last Stand - TX,2:00,21:30,4629438,Prichard,TX,317508896,8 Blackburn Ave
+Heartbeat - DE,1:00,23:00,7312066,Guntersville,DE,182290309,17 East Vine Drive
+Rossis - NJ,1:30,24:00,2258298,Opelika,NJ,203160983,60 East Vine Drive
+The Tipsy Cow - AR,12:30,21:30,6328803,Gadsden,AR,123456965,38 Kirkland Street
+Elixir - MN,3:00,21:30,7522841,Opelika,MN,302734629,97 East Vine Drive
+Lenys Place - KS,3:00,21:30,8812843,Scottsboro,KS,877228723,50 East Vine Drive
+Boxcar Ale House - AZ,4:30,22:30,5726616,Cullman,AZ,312682259,17 East Vine Drive
+Rossis - VA,2:00,21:30,9287224,Decatur,VA,172787703,17 East Vine Drive
+Cantina - NH,4:30,23:00,6856006,Guntersville,NH,759019536,17 East Vine Drive
+Tempest Bar - ME,4:00,22:30,8956001,Opelika,ME,694217804,38 Kirkland Street
+Aesops Tables - TN,4:00,22:30,5982940,Athens,TN,812752369,38 Kirkland Street
+Rossis - PA,3:30,22:30,9775393,Sheffield,PA,790420077,7 Blackburn Ave
+The Jack Saloon - KY,12:30,21:30,8019743,Fort Payne,KY,817561825,1 Blackburn Ave
+Beer and Loathing in Dundee - SD,1:30,23:00,7296125,Greenville,SD,929154897,40 East Vine Drive
+Comet Tavern - WV,1:30,23:30,5008485,Enterprise,WV,922385319,38 Kirkland Street
+Jumbos Clown Room - IA,3:00,23:30,6726502,Anniston,IA,417494615,10 East Vine Drive
+Bar Cotto - MD,4:30,22:30,4685192,Huntsville,MD,953450247,60 East Vine Drive
+Olde 99 - NY,2:00,23:30,6953001,Sylacauga,NY,744204649,733 Myrtle St. 
+Double A - NE,1:00,23:00,7807134,Huntsville,NE,846994407,40 East Vine Drive
+Noc Noc - AZ,4:30,23:30,9004961,Sylacauga,AZ,337120237,60 East Vine Drive
+Ballard Loft - AZ,4:00,21:30,8298776,Talladega,AZ,498665294,17 East Vine Drive
+Boxcar Ale House - SD,3:00,23:00,8165752,Gadsden,SD,467601436,601 Shirley Ave
+Rossis - MS,1:30,23:00,9538050,Opelika,MS,178118995,17 East Vine Drive
+Grumpys Goat Shack - SD,1:30,21:30,9980101,Jasper,SD,680478535,733 Myrtle St. 
+Happy Daze - PA,2:00,24:00,9827635,Jasper,PA,136970337,1 Blackburn Ave
+Last Call Bar - CO,3:30,23:30,6455322,Opelika,CO,295768226,8 Blackburn Ave
+The Twilight Exit - OH,12:30,22:00,3236123,Fort Payne,OH,397451079,60 East Vine Drive
+The Boardroom - SD,12:30,23:30,1417740,Sylacauga,SD,666948058,733 Myrtle St. 
+Streamline Tavern - VA,12:30,21:30,7214973,Atmore,VA,990879455,17 East Vine Drive
+Over the Tapas - ME,2:30,23:30,7053801,Demopolis,ME,678939657,10 East Vine Drive
+Streamline Tavern - VT,2:00,23:30,9856270,Greenville,VT,683919562,7 Blackburn Ave
+21 & Cup - NY,2:00,23:00,9648857,Scottsboro,NY,758657864,733 Myrtle St. 
+Brew Ha Ha - KS,3:00,24:00,9340873,Selma,KS,119165867,11 Blackburn Ave
+The Monkey Farm Cafe - NC,1:00,22:30,6105739,Andalusia,NC,227858846,17 East Vine Drive
+Mustards Last Stand - IA,2:30,23:00,3784013,Montgomery,IA,685145883,733 Myrtle St. 
+Grumpys Goat Shack - WA,4:00,24:00,8119539,Chickasaw,WA,711551014,17 East Vine Drive
+Men at Wok - WA,3:00,22:00,9757839,Anniston,WA,647849630,12 Blackburn Ave
+The Tipsy Cow - NH,3:00,22:30,1727328,Guntersville,NH,162232391,601 Shirley Ave
+Brew Ha Ha - TX,4:30,22:00,3608313,Decatur,TX,151074307,17 East Vine Drive
+The Library Sports Bar - OH,2:00,24:00,5726951,Chickasaw,OH,240329294,50 East Vine Drive
+Bar of the Gods - KS,1:00,23:00,7326737,Andalusia,KS,744688238,88 Blackburn Ave
+Atomic Liquors - TX,1:30,24:00,6569741,Selma,TX,331042187,97 East Vine Drive
+The Library Sports Bar - MI,1:30,24:00,7479804,Opelika,MI,407637997,17 East Vine Drive
+The Red, White, and Brew - KY,2:00,23:30,6302826,Opelika,KY,523062364,601 Shirley Ave
+Mecca Cafe - UT,2:00,21:30,9536047,Greenville,UT,223034914,50 East Vine Drive
+The Red, White, and Brew - TX,4:30,23:30,6264887,Greenville,TX,375317342,12 Blackburn Ave
+The Peoples Republik - OH,1:30,21:30,5584808,Guntersville,OH,857177313,8 Blackburn Ave
+Angels and Kings - HI,2:30,22:00,7852540,Florence,HI,917645104,733 Myrtle St. 
+The Grizzled Wizard - DE,1:00,24:00,5604334,Clanton,DE,684695502,97 East Vine Drive
+The Peoples Republik - NY,3:00,22:00,2298467,Auburn,NY,921519554,50 East Vine Drive
+The Pitch & Roll - VT,3:30,23:00,6627922,Demopolis,VT,466992877,88 Blackburn Ave
+Brotherhood of Thieves - FL,1:00,23:30,2405383,Chickasaw,FL,454491388,50 East Vine Drive
+Thai & Mighty - MD,1:30,21:30,7561701,Eufaula,MD,830526535,12 Blackburn Ave
+Moon Work - NC,2:00,22:00,9092306,Decatur,NC,731413315,38 Kirkland Street
+Duchess Tavern - SC,3:00,22:30,1709486,Demopolis,SC,551475466,9862 Wentworth St.
+Unphogettable - IN,4:00,24:00,2085287,Talladega,IN,324796204,60 East Vine Drive
+The Grackle - WA,3:30,23:00,2081450,Enterprise,WA,347007735,17 East Vine Drive
+Ballard Loft - DE,3:30,24:00,6023256,Enterprise,DE,484588721,8 Blackburn Ave
+The Crescent Lounge - GA,2:30,24:00,6342999,Florence,GA,149222041,8 Blackburn Ave
+Hooverville Bar - DE,2:30,23:30,1157345,Auburn,DE,539909247,10 East Vine Drive
+Potters Lounde - NE,4:30,24:00,8265231,Sheffield,NE,932451507,7 Blackburn Ave
+Double A - OR,1:00,21:30,1233393,Talladega,OR,759414481,17 East Vine Drive
+Heartbeat - MO,3:00,22:00,3928734,Andalusia,MO,735577807,10 East Vine Drive
+Vitos - ID,12:30,22:30,7094361,Fort Payne,ID,524416122,11 Blackburn Ave
+Corner Pocket - MN,1:00,21:30,6729978,Sheffield,MN,855391860,17 East Vine Drive
+Double A - TX,2:30,23:30,1743522,Andalusia,TX,876199155,11 Blackburn Ave
+Last Call Bar - AR,3:30,22:00,2223247,Greenville,AR,573196155,7 Blackburn Ave
+Death & Co. - TX,1:00,22:30,3474618,Opelika,TX,678334516,60 East Vine Drive
+Fat Angel - ID,4:30,23:00,4928119,Greenville,ID,276018140,11 Blackburn Ave
+The Brewseum - TN,2:30,24:00,2628774,Phenix City,TN,495832794,8 Blackburn Ave
+Hazlewood - ME,3:00,22:00,7066729,Chickasaw,ME,817486675,17 East Vine Drive
+Mustards Last Stand - KS,2:00,22:00,9015209,Mobile,KS,629817093,60 East Vine Drive
+Wish You Were Beer - ID,1:30,22:30,6649855,Bessemer,ID,637240966,601 Shirley Ave
+The Sitting Room - AR,2:00,21:30,3933928,Birmingham,AR,113417254,17 East Vine Drive
+The Brewseum - RI,2:00,23:30,6256398,Chickasaw,RI,422046041,17 East Vine Drive
+Moon Work - WV,1:00,22:30,7454319,Birmingham,WV,109405729,12 Blackburn Ave
+Over the Tapas - VT,4:30,22:00,4115126,Decatur,VT,986090772,50 East Vine Drive
+Brotherhood of Thieves - CA,2:30,21:30,1720256,Athens,CA,388050270,601 Shirley Ave
+Crimson Lounge - AK,2:30,23:00,5889831,Demopolis,AK,993584477,38 Kirkland Street
+Bubbas Sulky Lounge - ME,3:30,21:30,8367400,Scottsboro,ME,612596365,17 East Vine Drive
+The Grizzled Wizard - KY,12:30,24:00,9918768,Chickasaw,KY,352599179,88 Blackburn Ave
+Jumbos Clown Room - VT,4:00,23:30,6480759,Chickasaw,VT,322264434,38 Kirkland Street
+The Surly Wench Pub - AK,1:30,23:30,6327665,Auburn,AK,338892061,7 Blackburn Ave
+Moon Work - UT,3:30,24:00,4666278,Dothan,UT,280252664,11 Blackburn Ave
+Tempest Bar - CO,12:30,21:30,8791589,Ozark,CO,225650090,8 Blackburn Ave
+Tempest Bar - GA,3:30,21:30,2595139,Cullman,GA,830373121,40 East Vine Drive
+95 Slide - VA,2:00,23:00,7891343,Greenville,VA,488900272,40 East Vine Drive
+The Jack Saloon - NE,2:00,22:00,1998689,Atmore,NE,608637619,10 East Vine Drive
+Bloodhound - MN,4:30,22:30,9526143,Andalusia,MN,553276891,8 Blackburn Ave
+The Bourbon Bar - MA,2:30,24:00,9084900,Cullman,MA,352427116,10 East Vine Drive
+Heartbeat - AK,2:00,23:30,2405724,Talladega,AK,823949656,12 Blackburn Ave
+The Surly Wench Pub - FL,3:30,23:00,1352780,Jasper,FL,753679711,50 East Vine Drive
+The Pastry War - MN,3:00,22:00,4510131,Talladega,MN,697088872,60 East Vine Drive
+Dutch Kills - OH,4:30,21:30,6057655,Huntsville,OH,180172157,12 Blackburn Ave
+Bean Me Up - CO,12:30,23:00,2109521,Andalusia,CO,444330671,8 Blackburn Ave
+Tempest Bar - UT,1:30,23:00,6183564,Demopolis,UT,447691102,12 Blackburn Ave
+Mongoose Versus Cobra - WA,2:00,22:30,8342246,Anniston,WA,939759111,8 Blackburn Ave
+Thai & Mighty - AZ,1:30,21:30,4417790,Marion,AZ,472878737,11 Blackburn Ave
+Hazlewood - MA,12:30,22:30,2172573,Birmingham,MA,785832570,17 East Vine Drive
+Palmer Place - LA,2:30,24:00,9902455,Huntsville,LA,843929315,60 East Vine Drive
+Madison Pub - WA,2:30,22:30,8089919,Birmingham,WA,784228094,40 East Vine Drive
+Bubbas Sulky Lounge - LA,4:30,24:00,5648534,Enterprise,LA,323835493,9862 Wentworth St.
+Basic Kneads Pizza - UT,3:00,22:30,1552093,Selma,UT,269348758,8 Blackburn Ave
+The Twilight Exit - CO,1:00,23:00,8491410,Eufaula,CO,413939608,10 East Vine Drive
+95 Slide - HI,4:00,24:00,6900002,Eufaula,HI,926827911,40 East Vine Drive
+Brew Ha Ha - NE,12:30,22:30,9867833,Bessemer,NE,732046292,7 Blackburn Ave
+The Library Sports Bar - NM,1:00,22:30,6506557,Mobile,NM,952576001,17 East Vine Drive
+The Jack Saloon - IA,2:30,22:00,5276763,Eufaula,IA,430676677,7 Blackburn Ave
+Bar of the Gods - MI,2:30,22:00,7027872,Demopolis,MI,746242604,8 Blackburn Ave
+The Twilight Exit - NM,3:00,21:30,2638077,Scottsboro,NM,850752939,60 East Vine Drive
+Bandits Bar - OH,4:00,24:00,6112926,Ozark,OH,473915094,38 Kirkland Street
+Brotherhood of Thieves - RI,2:00,23:30,6655836,Andalusia,RI,129713652,1 Blackburn Ave
+21 & Cup - NE,4:00,22:30,6001580,Sheffield,NE,934931884,8 Blackburn Ave
+Bar of the Gods - MA,4:30,23:00,9694028,Decatur,MA,684973750,40 East Vine Drive
+Brew Ha Ha - NY,12:30,23:30,2287892,Sheffield,NY,139447561,17 East Vine Drive
+Jumbos Clown Room - IL,12:30,24:00,1612004,Enterprise,IL,179651794,7 Blackburn Ave
+Angels and Kings - NH,3:30,21:30,5974287,Scottsboro,NH,103390138,40 East Vine Drive
+Mecca Cafe - IL,4:00,22:30,3811123,Demopolis,IL,240610874,12 Blackburn Ave
+Duchess Tavern - KS,4:30,22:00,5185593,Scottsboro,KS,961327715,12 Blackburn Ave
+Men at Wok - TX,1:30,22:00,4426613,Opelika,TX,486221176,8 Blackburn Ave
+21 & Cup - NV,4:30,22:00,4064983,Opelika,NV,258062565,17 East Vine Drive
+Lone Palm - LA,2:30,22:30,4590677,Selma,LA,925751144,38 Kirkland Street
+Crimson Lounge - MS,3:30,21:30,9893247,Talladega,MS,228964115,1 Blackburn Ave
+Madison Pub - NC,12:30,21:30,8037050,Opelika,NC,806171145,38 Kirkland Street
+Fireside Bar - IA,12:30,21:30,9427222,Eufaula,IA,227493289,8 Blackburn Ave
+Ozzies - DE,12:30,21:30,5731055,Guntersville,DE,638498705,733 Myrtle St. 
+Rye - DE,12:30,23:00,9096534,Selma,DE,761931031,17 East Vine Drive
+Jumbos Clown Room - MT,3:00,22:00,6180924,Florence,MT,645586118,38 Kirkland Street
+The Brewseum - VA,4:30,22:30,9315370,Sylacauga,VA,246931329,9862 Wentworth St.
+Ozzies - MN,3:30,23:00,2999595,Talladega,MN,766146255,11 Blackburn Ave
+The Library Sports Bar - CA,4:00,23:00,9977067,Enterprise,CA,283420178,97 East Vine Drive
+Over the Tapas - ND,4:00,23:30,3361630,Phenix City,ND,997591074,17 East Vine Drive
+The Underground - AZ,4:00,22:30,1940939,Clanton,AZ,675166606,601 Shirley Ave
+Tin n Lint - IL,2:00,23:30,5827411,Florence,IL,768977525,97 East Vine Drive
+Grumpys Goat Shack - FL,2:30,23:00,3858118,Andalusia,FL,606434160,88 Blackburn Ave
+Amelie - NM,2:00,23:30,7019938,Mobile,NM,340922233,11 Blackburn Ave
+The Tasting Room - NM,1:00,24:00,2652216,Scottsboro,NM,286690249,12 Blackburn Ave
+Tin n Lint - AK,4:00,23:00,4369388,Fort Payne,AK,703741768,40 East Vine Drive
+Brew Ha Ha - IN,1:00,24:00,2489803,Greenville,IN,314734012,7 Blackburn Ave
+Noc Noc - DE,12:30,22:30,2926375,Atmore,DE,804769252,1 Blackburn Ave
+Mecca Cafe - OH,3:30,21:30,3282028,Gadsden,OH,527928374,9862 Wentworth St.
+The Hideout - HI,2:00,23:30,3525205,Anniston,HI,250179065,601 Shirley Ave
+Death & Co. - CT,12:30,23:00,3647310,Sylacauga,CT,368552420,12 Blackburn Ave
+21 & Cup - KS,1:30,22:30,6672986,Anniston,KS,584669538,60 East Vine Drive
+Rye - IL,12:30,23:00,8876346,Montgomery,IL,135950237,10 East Vine Drive
+Mongoose Versus Cobra - GA,3:00,23:30,1887343,Sylacauga,GA,804960001,601 Shirley Ave
+Happy Daze - WA,4:30,22:30,1917355,Birmingham,WA,925825482,11 Blackburn Ave
+Ozzies - NJ,4:30,21:30,4381534,Guntersville,NJ,119563630,601 Shirley Ave
+Heartbeat - SC,1:00,22:00,3926504,Jasper,SC,557448410,601 Shirley Ave
+Benders Bar and Grill - GA,2:30,22:30,5174081,Chickasaw,GA,785414714,733 Myrtle St. 
+Elixir - MO,12:30,23:30,8021070,Jasper,MO,138102834,97 East Vine Drive
+Palmer Place - NC,3:30,22:30,9537899,Guntersville,NC,534441474,17 East Vine Drive
+Potters Lounde - IL,1:00,22:30,1096196,Greenville,IL,916201237,8 Blackburn Ave
+The Sitting Room - PA,12:30,23:30,6547964,Phenix City,PA,558232730,10 East Vine Drive
+The Surly Wench Pub - ID,1:30,22:00,7278813,Demopolis,ID,622166116,9862 Wentworth St.
+Liberty - IN,4:30,24:00,8096821,Jasper,IN,740448792,8 Blackburn Ave
+Over the Tapas - CO,1:30,24:00,6982919,Clanton,CO,192317368,97 East Vine Drive
+Vitos - GA,4:00,24:00,6315790,Clanton,GA,101340659,38 Kirkland Street
+Potters Lounde - PA,4:30,23:00,6064425,Selma,PA,984122162,88 Blackburn Ave
+Benders Bar and Grill - LA,3:30,22:00,9041457,Anniston,LA,709670824,733 Myrtle St. 
+Brews Brothers - SD,4:30,22:30,7931136,Clanton,SD,693303857,88 Blackburn Ave
+The Grackle - OR,3:00,23:00,8147794,Athens,OR,565984701,40 East Vine Drive
+The Billy Goat Tavern - CO,4:00,22:30,2323511,Enterprise,CO,667361442,11 Blackburn Ave
+Bar of the Gods - NJ,12:30,24:00,6411223,Prichard,NJ,378325420,17 East Vine Drive
+21 & Cup - GA,3:00,24:00,4295739,Montgomery,GA,968277483,10 East Vine Drive
+Elixir - CA,4:30,24:00,1158252,Eufaula,CA,269494061,97 East Vine Drive
+Atomic Liquors - MD,2:00,22:30,6981706,Anniston,MD,516995861,38 Kirkland Street
+Wish You Were Beer - SC,1:30,23:00,2875064,Prichard,SC,627807491,733 Myrtle St. 
+The Surly Wench Pub - KY,1:00,22:30,8512953,Phenix City,KY,352632709,97 East Vine Drive
+The Peoples Republik - VA,3:30,23:30,8070154,Cullman,VA,590948424,11 Blackburn Ave
+Triangle Pub - NY,4:30,24:00,7453735,Auburn,NY,892964573,11 Blackburn Ave
+Beer and Loathing in Dundee - MA,4:30,22:30,2931941,Fort Payne,MA,362688086,60 East Vine Drive
+Happy Daze - NM,4:30,22:00,5035390,Atmore,NM,636671108,50 East Vine Drive
+Last Call Bar - MD,2:00,23:00,6240368,Fort Payne,MD,388400341,7 Blackburn Ave
+95 Slide - CA,4:00,23:00,6995120,Sheffield,CA,218446210,9862 Wentworth St.
+The Grackle - MS,3:30,22:00,4877794,Jasper,MS,990567143,7 Blackburn Ave
+Triangle Pub - MA,1:00,23:00,5112753,Scottsboro,MA,922395275,50 East Vine Drive
+The Red, White, and Brew - OK,1:30,24:00,8009573,Phenix City,OK,994679615,12 Blackburn Ave
+The Sitting Room - MT,1:30,22:30,2874767,Selma,MT,995747966,60 East Vine Drive
+Potters Lounde - OR,4:00,24:00,9647758,Scottsboro,OR,988088671,1 Blackburn Ave
+Moon Work - FL,4:00,22:30,5570115,Chickasaw,FL,120579238,1 Blackburn Ave
+Happy Birthday Bar - WV,2:30,24:00,5788663,Birmingham,WV,355648733,12 Blackburn Ave
+Comet Tavern - MO,3:30,21:30,3819281,Anniston,MO,672144350,9862 Wentworth St.
+Mission Bar - ID,3:30,22:30,6359073,Florence,ID,332255384,9862 Wentworth St.
+The Underground - MT,1:30,24:00,1338642,Dothan,MT,670324175,50 East Vine Drive
+Hard Times & Misery Saloon - RI,2:00,24:00,3807753,Cullman,RI,336899252,8 Blackburn Ave
+The Brewseum - AZ,3:30,22:30,6830871,Athens,AZ,742004838,38 Kirkland Street
+Rob Roy - MN,2:00,24:00,5645846,Anniston,MN,712593141,1 Blackburn Ave
+Fat Angel - NC,4:00,21:30,9562484,Phenix City,NC,911364350,601 Shirley Ave
+Corner Pocket - FL,2:30,23:30,6316085,Montgomery,FL,148268989,9862 Wentworth St.
+Duchess Tavern - DE,3:00,22:00,4133421,Mobile,DE,979973435,9862 Wentworth St.
+Fat Angel - OR,12:30,23:30,1154579,Guntersville,OR,931867928,11 Blackburn Ave
+21 & Cup - MA,2:00,22:30,1839961,Guntersville,MA,108440240,17 East Vine Drive
+Open Sesame - SC,12:30,24:00,1208976,Birmingham,SC,933504576,8 Blackburn Ave
+Triangle Pub - NH,1:30,21:30,2740218,Andalusia,NH,800207296,7 Blackburn Ave
+Over the Tapas - TN,2:00,22:30,2821668,Cullman,TN,564456438,60 East Vine Drive
+Hop Sing Laundromat - MA,3:00,21:30,1670510,Sylacauga,MA,846860454,8 Blackburn Ave
+Brews Brothers - FL,3:00,22:30,2005485,Ozark,FL,567992706,7 Blackburn Ave
+Angels and Kings - CT,4:30,23:00,1659107,Dothan,CT,906980005,7 Blackburn Ave
+Tin n Lint - DE,3:30,22:00,5111095,Eufaula,DE,932615059,38 Kirkland Street
+Dutch Kills - NJ,1:00,21:30,7058786,Bessemer,NJ,342293175,88 Blackburn Ave
+Madison Pub - MD,1:30,22:30,1592359,Ozark,MD,767155307,17 East Vine Drive
+Heartbeat - MT,2:00,21:30,9603362,Dothan,MT,494553194,7 Blackburn Ave
+The Sitting Room - AZ,1:30,22:00,4783507,Demopolis,AZ,883782846,601 Shirley Ave
+Wish You Were Beer - OK,2:00,22:30,1667542,Scottsboro,OK,952445086,40 East Vine Drive
+The Fainting Goat - SD,3:30,24:00,2324760,Ozark,SD,555288614,60 East Vine Drive
+The Crescent Lounge - SD,4:30,22:30,9484089,Birmingham,SD,153729431,601 Shirley Ave
+95 Slide - TN,3:30,22:00,2055926,Mobile,TN,889643520,1 Blackburn Ave
+Lone Palm - VT,1:30,22:00,2702406,Gadsden,VT,697995272,40 East Vine Drive
+The Hideout - NM,4:00,24:00,9420270,Prichard,NM,586677740,12 Blackburn Ave
+Liberty - LA,2:30,23:30,8510201,Chickasaw,LA,183680235,38 Kirkland Street
+Bean Me Up - KY,3:30,24:00,6928164,Florence,KY,862696695,17 East Vine Drive
+Potters Lounde - UT,4:00,24:00,8537826,Scottsboro,UT,190097263,7 Blackburn Ave
+Men at Wok - GA,12:30,23:30,8959373,Scottsboro,GA,602837779,601 Shirley Ave
+Thai & Mighty - TN,2:00,23:00,5158641,Montgomery,TN,476797159,40 East Vine Drive
+Hooverville Bar - CA,4:00,24:00,8094520,Decatur,CA,736637745,7 Blackburn Ave
+Benders Bar and Grill - MI,12:30,23:00,9989108,Prichard,MI,466931445,40 East Vine Drive
+The Sitting Room - NJ,1:30,23:00,6664403,Anniston,NJ,166339290,601 Shirley Ave
+Men at Wok - HI,1:00,21:30,2835414,Greenville,HI,896961006,88 Blackburn Ave
+Hazlewood - TX,4:30,23:30,9294208,Cullman,TX,424930373,17 East Vine Drive
+Bar Cotto - CT,3:00,22:30,3396842,Sylacauga,CT,952643590,11 Blackburn Ave
+Hard Times & Misery Saloon - HI,2:30,23:00,3145855,Decatur,HI,859489416,17 East Vine Drive
+Madison Pub - SD,4:00,23:00,9385436,Gadsden,SD,513727701,50 East Vine Drive
+Wish You Were Beer - NJ,4:30,23:30,7082041,Talladega,NJ,131372587,733 Myrtle St. 
+Bar Cotto - NY,4:00,21:30,9771963,Scottsboro,NY,789114848,97 East Vine Drive
+The Underground - VA,4:00,24:00,6291771,Florence,VA,179320208,50 East Vine Drive
+The Sitting Room - OR,1:30,21:30,7318191,Selma,OR,814082919,11 Blackburn Ave
+Noc Noc - ND,12:30,21:30,7467369,Athens,ND,365076913,11 Blackburn Ave
+Tin n Lint - GA,12:30,23:00,4050443,Scottsboro,GA,207037217,60 East Vine Drive
+The Peoples Republik - NH,1:30,21:30,5031236,Bessemer,NH,869370017,17 East Vine Drive
+The Billy Goat Tavern - OH,4:30,21:30,2069246,Clanton,OH,217546844,11 Blackburn Ave
+The Grackle - PA,2:30,23:30,8720465,Selma,PA,175448130,9862 Wentworth St.
+The Underground - TX,4:00,22:00,9827517,Bessemer,TX,426623121,7 Blackburn Ave
+The Grizzled Wizard - IL,1:00,23:00,8753850,Enterprise,IL,734293930,7 Blackburn Ave
+Death & Co. - RI,1:30,23:30,1785535,Decatur,RI,486240722,7 Blackburn Ave
+Rossis - KS,4:00,21:30,2563574,Montgomery,KS,386034232,88 Blackburn Ave
+Mecca Cafe - WA,1:00,24:00,7102250,Guntersville,WA,320002621,601 Shirley Ave
+The Grackle - DE,4:00,22:00,5903521,Phenix City,DE,148456474,17 East Vine Drive
+Atomic Liquors - IN,1:30,22:00,1381642,Greenville,IN,629357116,9862 Wentworth St.
+Ozzies - ND,3:30,22:00,4730423,Demopolis,ND,859725222,50 East Vine Drive
+Bubbas Sulky Lounge - HI,2:30,24:00,4114077,Anniston,HI,436908071,88 Blackburn Ave
+Olive or Twist - NC,3:00,23:30,5011698,Birmingham,NC,721882235,17 East Vine Drive
+The Library Sports Bar - VA,1:00,23:00,9218726,Greenville,VA,302848004,601 Shirley Ave
+The Cask - TN,2:00,22:00,1824534,Anniston,TN,337780477,40 East Vine Drive
+Hard Times & Misery Saloon - SD,1:30,21:30,3622575,Enterprise,SD,568917023,733 Myrtle St. 
+The Pastry War - VT,4:30,21:30,1604516,Sylacauga,VT,487120031,50 East Vine Drive
+Liberty - SC,4:00,23:00,4712106,Sylacauga,SC,967168084,50 East Vine Drive
+Bar of the Gods - AZ,1:00,23:00,7247693,Cullman,AZ,733798369,7 Blackburn Ave
+The Monkey Farm Cafe - ME,4:30,23:30,5103128,Mobile,ME,543254697,10 East Vine Drive
+Mustards Last Stand - KY,3:00,23:00,5172086,Atmore,KY,409052721,11 Blackburn Ave
+Bar of the Gods - AK,3:30,22:00,7324974,Talladega,AK,234380416,50 East Vine Drive
+Brotherhood of Thieves - WA,3:30,23:00,9540984,Opelika,WA,488327923,9862 Wentworth St.
+Ozzies - NC,2:30,23:30,4563091,Fort Payne,NC,863019503,12 Blackburn Ave
+The Grizzled Wizard - UT,4:00,24:00,5841706,Cullman,UT,515073895,17 East Vine Drive
+The Fainting Goat - HI,3:00,23:30,4491034,Sheffield,HI,650497783,12 Blackburn Ave
+The Fainting Goat - NJ,12:30,23:30,3168435,Marion,NJ,779962445,9862 Wentworth St.
+Hard Times & Misery Saloon - CT,2:00,22:00,8325567,Ozark,CT,210975908,12 Blackburn Ave
+Madison Pub - AZ,12:30,22:30,3992438,Florence,AZ,514736429,733 Myrtle St. 
+The Pastry War - WA,4:00,22:00,9227880,Gadsden,WA,903777754,60 East Vine Drive
+Moe Bar - CA,4:00,21:30,2760613,Scottsboro,CA,152705382,733 Myrtle St. 
+The Tipsy Cow - NV,1:00,22:00,4749450,Fort Payne,NV,487795790,9862 Wentworth St.
+21 & Cup - NC,1:00,21:30,8138860,Andalusia,NC,634078870,88 Blackburn Ave
+Hooverville Bar - GA,12:30,21:30,7566347,Cullman,GA,953284424,11 Blackburn Ave
+Brotherhood of Thieves - MS,1:00,22:30,7487803,Scottsboro,MS,809014871,88 Blackburn Ave
+Mecca Cafe - RI,1:30,22:30,6392235,Greenville,RI,452433010,733 Myrtle St. 
+Jumbos Clown Room - MD,2:00,23:30,1032675,Enterprise,MD,805352069,733 Myrtle St. 
+The Billy Goat Tavern - MO,1:30,22:30,4024847,Prichard,MO,869487506,11 Blackburn Ave
+The Grizzled Wizard - NJ,2:00,22:30,7647559,Anniston,NJ,439980911,9862 Wentworth St.
+The Grackle - AR,12:30,22:30,6685160,Bessemer,AR,953236612,97 East Vine Drive
+The Tasting Room - IL,2:00,23:30,7230932,Cullman,IL,669075113,10 East Vine Drive
+Elixir - NC,3:30,23:30,9653916,Greenville,NC,358751234,601 Shirley Ave
+Hop Sing Laundromat - WV,3:30,21:30,1125399,Anniston,WV,175998375,97 East Vine Drive
+Shortys - ND,2:30,22:00,2949797,Chickasaw,ND,379704241,8 Blackburn Ave
+Tavern Law - ID,1:30,22:00,2250817,Sylacauga,ID,162113566,8 Blackburn Ave
+The Boardroom - MT,4:00,24:00,8071287,Cullman,MT,177473959,97 East Vine Drive
+Over the Tapas - CT,1:00,24:00,4862846,Talladega,CT,799829172,17 East Vine Drive
+21 & Cup - UT,3:00,22:30,9148638,Eufaula,UT,783061986,8 Blackburn Ave
+Double A - OK,3:30,23:30,6970767,Cullman,OK,399837094,11 Blackburn Ave
+The Grizzled Wizard - VT,3:30,24:00,2474634,Guntersville,VT,853121170,8 Blackburn Ave
+The Hideout - VT,1:00,23:30,4832748,Andalusia,VT,899197670,17 East Vine Drive
+Lone Palm - ME,3:30,23:30,9860205,Decatur,ME,203993546,1 Blackburn Ave
+Hard Times & Misery Saloon - OK,4:00,22:30,4749267,Clanton,OK,144508335,50 East Vine Drive
+Shortys - WA,2:00,24:00,8782334,Bessemer,WA,483213247,1 Blackburn Ave
+Bar of the Gods - PA,3:30,23:00,8488742,Chickasaw,PA,853823426,733 Myrtle St. 
+Noc Noc - SC,3:30,24:00,8042993,Gadsden,SC,325410950,8 Blackburn Ave
+Vitos - VA,3:30,23:30,1547608,Jasper,VA,959930301,40 East Vine Drive
+The Surly Wench Pub - ME,4:00,23:00,3513228,Mobile,ME,581572043,10 East Vine Drive
+Bean Me Up - AK,2:30,23:00,4898784,Opelika,AK,797352725,601 Shirley Ave
+The Sitting Room - DE,2:00,24:00,8122370,Greenville,DE,109753059,38 Kirkland Street
+Benders Bar and Grill - VA,1:00,23:30,7251900,Scottsboro,VA,334880266,38 Kirkland Street
+The Brewseum - KS,4:30,24:00,9671642,Decatur,KS,106868556,9862 Wentworth St.
+Rye - WA,2:30,21:30,6062615,Scottsboro,WA,727733783,733 Myrtle St. 
+Lava Lounge - CA,3:00,22:30,3045914,Opelika,CA,888514396,1 Blackburn Ave
+Fireside Bar - VA,4:30,23:00,7785280,Gadsden,VA,484586766,17 East Vine Drive
+Shortys - NY,3:00,21:30,1277212,Greenville,NY,507120798,17 East Vine Drive
+Happy Daze - CT,4:30,22:00,4697318,Dothan,CT,903936638,38 Kirkland Street
+Men at Wok - CT,12:30,22:00,4754913,Selma,CT,253672740,601 Shirley Ave
+The Tipsy Cow - WA,3:00,22:30,3159210,Marion,WA,521295272,10 East Vine Drive
+Bean Me Up - PA,4:00,24:00,2474060,Mobile,PA,665225518,11 Blackburn Ave
+The Twilight Exit - LA,3:00,23:30,6975126,Prichard,LA,590910950,50 East Vine Drive
+Fireside Bar - UT,12:30,22:00,6975868,Huntsville,UT,713033001,11 Blackburn Ave
+The Hideout - ID,1:30,22:30,1642690,Chickasaw,ID,229008441,17 East Vine Drive
+Hazlewood - CA,12:30,23:30,4469111,Greenville,CA,282244264,601 Shirley Ave
+Mecca Cafe - NV,4:00,23:00,4650220,Enterprise,NV,326287297,17 East Vine Drive
+Atomic Liquors - IL,4:30,23:00,2298976,Marion,IL,716007091,40 East Vine Drive
+Tempest Bar - ID,3:00,23:00,3786416,Scottsboro,ID,867252413,38 Kirkland Street
+Vitos - WV,4:00,22:00,4086201,Phenix City,WV,355091888,9862 Wentworth St.
+The Crescent Lounge - VA,3:00,24:00,6127576,Demopolis,VA,287562802,97 East Vine Drive
+Aesops Tables - AK,3:30,22:00,6060237,Gadsden,AK,917085716,88 Blackburn Ave
+Liberty - MD,3:00,23:30,6881282,Florence,MD,717821083,601 Shirley Ave
+Crimson Lounge - LA,2:30,24:00,1341308,Chickasaw,LA,298793471,88 Blackburn Ave
+Open Sesame - AZ,1:30,23:00,7111879,Decatur,AZ,631901648,7 Blackburn Ave
+The Peoples Republik - MA,3:00,24:00,7472937,Opelika,MA,140034933,11 Blackburn Ave
+The Red, White, and Brew - MN,12:30,21:30,5399600,Talladega,MN,907204628,8 Blackburn Ave
+Noc Noc - MT,2:00,21:30,8065052,Scottsboro,MT,926005437,601 Shirley Ave
+Elixir - LA,1:30,22:30,9390803,Scottsboro,LA,584707439,8 Blackburn Ave
+The Tipsy Cow - SC,1:30,21:30,5372152,Enterprise,SC,469561660,50 East Vine Drive
+The Fainting Goat - WV,12:30,24:00,9373255,Marion,WV,711849866,733 Myrtle St. 
+Atomic Liquors - MT,4:00,23:30,4262237,Decatur,MT,583795321,17 East Vine Drive
+Tempest Bar - NH,2:30,23:00,7863819,Fort Payne,NH,980479154,60 East Vine Drive
+Happy Daze - CA,2:00,23:00,2437216,Opelika,CA,960010255,40 East Vine Drive
+Atomic Liquors - HI,2:30,23:00,8711517,Demopolis,HI,606613351,40 East Vine Drive
+The Pastry War - OR,3:30,21:30,6659660,Talladega,OR,870122144,50 East Vine Drive
+Happy Daze - MN,3:30,23:00,8392948,Florence,MN,992884120,17 East Vine Drive
+Bar of the Gods - SD,2:30,22:00,7130751,Birmingham,SD,423714375,11 Blackburn Ave
+Streamline Tavern - MI,3:30,22:00,4713318,Greenville,MI,896731622,601 Shirley Ave
+Bloodhound - OR,1:00,24:00,6101178,Enterprise,OR,818853192,40 East Vine Drive
+Dutch Kills - CT,2:00,22:30,4948620,Anniston,CT,555657948,7 Blackburn Ave
+Bandits Bar - CA,4:00,24:00,5240143,Florence,CA,100302622,9862 Wentworth St.
+Triangle Pub - GA,3:30,22:00,3428267,Clanton,GA,798769782,38 Kirkland Street
+21 & Cup - CO,2:00,21:30,5752571,Demopolis,CO,993999471,601 Shirley Ave
+Hazlewood - NM,2:30,21:30,8027542,Athens,NM,431990810,40 East Vine Drive
+Bar Cotto - WA,4:00,22:00,9911704,Sylacauga,WA,349129329,733 Myrtle St. 
+Mustards Last Stand - WA,3:00,22:00,2296103,Bessemer,WA,319418252,7 Blackburn Ave
+Dutch Kills - RI,2:00,24:00,2256191,Andalusia,RI,748331289,60 East Vine Drive
+The Pitch & Roll - TN,4:00,23:30,6623523,Guntersville,TN,916579100,9862 Wentworth St.
+Cantina - LA,4:00,23:30,9093171,Phenix City,LA,418662981,10 East Vine Drive
+95 Slide - AK,2:00,22:00,1673338,Fort Payne,AK,398217047,12 Blackburn Ave
+The Bourbon Bar - TX,2:00,24:00,9186554,Demopolis,TX,168578720,97 East Vine Drive
+Cantina - OH,1:30,24:00,5356316,Demopolis,OH,106773453,7 Blackburn Ave
+Tin n Lint - UT,4:00,21:30,6661819,Anniston,UT,690471331,97 East Vine Drive
+The Bourbon Bar - VT,3:00,23:00,4475264,Opelika,VT,262039441,12 Blackburn Ave
+Quarter Lounge - TN,1:00,21:30,3283019,Gadsden,TN,413952228,17 East Vine Drive
+The Grizzled Wizard - MA,4:00,22:00,8178712,Eufaula,MA,100610034,11 Blackburn Ave
+Ozzies - WA,3:30,23:30,6853999,Prichard,WA,908868675,9862 Wentworth St.
+Bandits Bar - NJ,12:30,21:30,5913828,Opelika,NJ,882159517,12 Blackburn Ave
+The Crescent Lounge - MN,4:30,23:30,4668727,Clanton,MN,893612462,40 East Vine Drive
+Ozzies - RI,4:00,23:30,3121647,Gadsden,RI,408374596,50 East Vine Drive
+Palmer Place - OK,2:00,22:00,1617323,Chickasaw,OK,460814957,60 East Vine Drive
+21 & Cup - PA,1:00,23:30,3900653,Dothan,PA,841777066,11 Blackburn Ave
+The Tasting Room - RI,3:30,21:30,7569147,Atmore,RI,200915534,38 Kirkland Street
+Ozzies - VT,3:30,23:30,5932637,Athens,VT,640893654,7 Blackburn Ave
+Fat Angel - MO,3:30,22:30,5966922,Clanton,MO,947292693,38 Kirkland Street
+Corner Pocket - HI,1:30,24:00,6686050,Gadsden,HI,913772809,50 East Vine Drive
+Quarter Lounge - CO,1:00,22:00,1993632,Eufaula,CO,490040611,1 Blackburn Ave
+The Library Sports Bar - MT,4:00,24:00,4607035,Sylacauga,MT,322211258,10 East Vine Drive
+The Hideout - WA,1:30,23:30,6735718,Andalusia,WA,314367330,1 Blackburn Ave
+Potters Lounde - LA,1:30,21:30,4723682,Atmore,LA,234894570,50 East Vine Drive
+Palmer Place - NM,12:30,22:00,4868719,Phenix City,NM,998047450,60 East Vine Drive
+The Surly Wench Pub - CO,4:00,24:00,8518999,Prichard,CO,770726901,733 Myrtle St. 
+The Jack Saloon - LA,4:00,22:00,1587596,Greenville,LA,414469877,97 East Vine Drive
+Amelie - TX,1:00,23:30,1917062,Atmore,TX,456283692,50 East Vine Drive
+Streamline Tavern - ME,1:30,23:00,3293301,Huntsville,ME,480785139,50 East Vine Drive
+Ozzies - UT,1:30,22:30,1308720,Montgomery,UT,695067314,38 Kirkland Street
+95 Slide - ND,1:30,22:00,5358931,Opelika,ND,558693475,601 Shirley Ave
+Aesops Tables - MN,4:00,22:00,1813425,Huntsville,MN,530421372,1 Blackburn Ave
+Rye - NC,3:00,22:30,5169995,Dothan,NC,285133789,9862 Wentworth St.
+Mustards Last Stand - ND,3:00,22:00,6047181,Marion,ND,612431214,9862 Wentworth St.
+Potters Lounde - CA,1:00,21:30,3173305,Montgomery,CA,738561380,1 Blackburn Ave
+Duchess Tavern - NV,1:30,23:30,4192691,Cullman,NV,241197459,10 East Vine Drive
+Palmer Place - IA,1:30,23:30,2639513,Opelika,IA,428126746,10 East Vine Drive
+Elixir - SD,12:30,22:30,7686552,Sheffield,SD,994475485,1 Blackburn Ave
+Ozzies - OR,4:00,23:00,9537614,Selma,OR,565439013,10 East Vine Drive
+The Surly Wench Pub - ND,2:00,24:00,3160603,Dothan,ND,965603427,38 Kirkland Street
+Wish You Were Beer - MO,4:00,21:30,3088147,Sylacauga,MO,646548424,88 Blackburn Ave
+The Pastry War - TX,2:00,23:00,8718079,Scottsboro,TX,163832428,601 Shirley Ave
+Mustards Last Stand - MN,2:00,23:30,1204347,Huntsville,MN,178856388,9862 Wentworth St.
+Mission Bar - MT,3:30,22:30,8003114,Bessemer,MT,263295258,97 East Vine Drive
+Streamline Tavern - AZ,1:00,24:00,5221096,Marion,AZ,499363028,11 Blackburn Ave
+Corner Pocket - NV,2:30,22:00,1668000,Athens,NV,592024455,50 East Vine Drive
+Tempest Bar - FL,2:00,23:30,1864866,Florence,FL,622470617,1 Blackburn Ave
+The Cask - NM,3:00,23:30,9736294,Andalusia,NM,830323116,733 Myrtle St. 
+Thai & Mighty - CO,12:30,21:30,4497164,Huntsville,CO,727943981,7 Blackburn Ave
+Open Sesame - MT,4:00,24:00,1610225,Jasper,MT,926203190,17 East Vine Drive
+Bandits Bar - FL,4:30,22:00,8596251,Cullman,FL,906757867,50 East Vine Drive
+Wish You Were Beer - KS,3:00,23:00,2886570,Demopolis,KS,878228959,12 Blackburn Ave
+Boxcar Ale House - HI,3:30,22:00,7711417,Dothan,HI,852529166,17 East Vine Drive
+Happy Birthday Bar - CO,1:30,23:00,1025004,Bessemer,CO,893755710,1 Blackburn Ave
+Brews Brothers - MS,3:30,21:30,6827851,Scottsboro,MS,570623529,88 Blackburn Ave
+Bloodhound - HI,3:00,23:30,4855582,Clanton,HI,310940174,601 Shirley Ave
+Madison Pub - LA,1:30,22:00,4323744,Talladega,LA,647456595,7 Blackburn Ave
+Over the Tapas - NM,4:00,23:00,8858989,Chickasaw,NM,223581832,11 Blackburn Ave
+Happy Birthday Bar - NJ,3:30,22:00,4388004,Ozark,NJ,734093139,50 East Vine Drive
+Triangle Pub - NJ,12:30,22:00,2317534,Fort Payne,NJ,514170729,38 Kirkland Street
+Bloodhound - KS,12:30,21:30,9796233,Anniston,KS,213813920,7 Blackburn Ave
+The Billy Goat Tavern - NJ,3:00,23:30,9812625,Opelika,NJ,220245080,40 East Vine Drive
+Open Sesame - NE,2:30,23:00,4641499,Athens,NE,208633647,12 Blackburn Ave
+Bubbas Sulky Lounge - AR,2:00,22:30,1806106,Birmingham,AR,690721573,97 East Vine Drive
+Duchess Tavern - IL,4:00,23:30,7236518,Anniston,IL,109561554,8 Blackburn Ave
+Bar Cotto - NM,1:00,23:30,6139651,Prichard,NM,339604288,12 Blackburn Ave
+Palmer Place - SC,4:00,21:30,7456791,Selma,SC,848441996,40 East Vine Drive
+Moon Work - MI,3:00,22:30,9972815,Selma,MI,988310462,17 East Vine Drive
+Duchess Tavern - HI,2:30,22:00,2327609,Chickasaw,HI,563543154,50 East Vine Drive
+Elixir - MI,1:30,23:00,3310365,Scottsboro,MI,730310397,601 Shirley Ave
+The Fainting Goat - SC,3:00,23:30,4024221,Cullman,SC,951439086,9862 Wentworth St.
+Lenys Place - ME,2:30,22:00,8967734,Greenville,ME,899395434,9862 Wentworth St.
+Last Call Bar - OH,1:30,22:30,4294123,Montgomery,OH,721046286,9862 Wentworth St.
+Beer and Loathing in Dundee - SC,4:30,21:30,5079614,Bessemer,SC,477885159,1 Blackburn Ave
+Double A - NC,4:00,21:30,1443256,Atmore,NC,467127494,38 Kirkland Street
+Men at Wok - KY,3:00,22:30,5671723,Jasper,KY,382005277,11 Blackburn Ave
+Streamline Tavern - MS,2:00,22:00,9873438,Montgomery,MS,748049388,40 East Vine Drive
+Amelie - WA,12:30,21:30,7168091,Selma,WA,562360915,97 East Vine Drive
+The Brewseum - DE,2:00,23:30,7999345,Fort Payne,DE,121390884,60 East Vine Drive
+The Jack Saloon - NH,1:30,21:30,3686911,Huntsville,NH,978376140,7 Blackburn Ave
+Double A - IA,12:30,23:00,4232713,Guntersville,IA,858434815,38 Kirkland Street
+Potters Lounde - TX,4:30,24:00,1065542,Auburn,TX,664991311,10 East Vine Drive
+Moon Work - NH,12:30,22:00,5693371,Sylacauga,NH,312484829,40 East Vine Drive
+The Jack Saloon - MT,1:00,22:30,4885103,Anniston,MT,663891641,1 Blackburn Ave
+Boxcar Ale House - GA,2:30,21:30,2894939,Selma,GA,351475149,38 Kirkland Street
+Fat Angel - NY,1:00,23:30,2970744,Montgomery,NY,845020942,88 Blackburn Ave
+Basic Kneads Pizza - SD,4:30,21:30,5604235,Birmingham,SD,661776629,60 East Vine Drive
+Dutch Kills - IN,1:30,22:30,4931441,Enterprise,IN,724121906,38 Kirkland Street
+The Tasting Room - MA,12:30,22:30,4397220,Cullman,MA,355378286,8 Blackburn Ave
+Happy Birthday Bar - VA,2:00,22:00,3169275,Opelika,VA,846474076,97 East Vine Drive
+Lone Palm - TN,4:00,23:00,1295202,Scottsboro,TN,612270107,50 East Vine Drive
+Moe Bar - NE,3:30,22:00,7459202,Guntersville,NE,383699752,9862 Wentworth St.
+Brew Ha Ha - NJ,2:30,22:30,5141602,Anniston,NJ,397208171,8 Blackburn Ave
+Basic Kneads Pizza - IN,4:00,21:30,4776854,Birmingham,IN,688119922,17 East Vine Drive
+Happy Daze - SD,4:30,23:00,5814729,Bessemer,SD,870755491,1 Blackburn Ave
+The Tasting Room - MD,4:30,22:00,9019253,Jasper,MD,764282062,40 East Vine Drive
+Quarter Lounge - FL,4:00,22:00,6542291,Atmore,FL,249138816,38 Kirkland Street
+Bean Me Up - MA,12:30,22:30,3857329,Greenville,MA,976680444,601 Shirley Ave
+The Peoples Republik - RI,3:30,23:30,4675585,Guntersville,RI,550645809,17 East Vine Drive
+Open Sesame - IN,4:30,22:00,1187228,Bessemer,IN,373737357,17 East Vine Drive
+Benders Bar and Grill - CO,4:00,21:30,3014090,Fort Payne,CO,563825196,11 Blackburn Ave
+Amelie - AZ,1:00,22:00,9686874,Huntsville,AZ,264723242,40 East Vine Drive
+Olde 99 - IN,2:30,24:00,8818768,Jasper,IN,885134978,38 Kirkland Street
+Shortys - MD,4:00,22:00,1452745,Dothan,MD,892402093,733 Myrtle St. 
+Double A - VT,1:30,23:00,3319709,Huntsville,VT,958114100,88 Blackburn Ave
+The Hideout - AK,4:30,22:30,4549629,Enterprise,AK,298351318,8 Blackburn Ave
+Open Sesame - ND,4:00,21:30,1036554,Florence,ND,760866252,8 Blackburn Ave
+Smog Cutter - NJ,1:00,22:30,2010236,Florence,NJ,231988234,733 Myrtle St. 
+Hooverville Bar - KY,1:30,24:00,6858675,Phenix City,KY,283440450,9862 Wentworth St.
+The Bourbon Bar - SD,2:30,23:30,4583184,Cullman,SD,473093551,17 East Vine Drive
+Noc Noc - CT,2:00,23:30,8658988,Andalusia,CT,218767769,17 East Vine Drive
+Streamline Tavern - IL,1:00,22:00,6885992,Dothan,IL,515982713,97 East Vine Drive
+The Pitch & Roll - IL,2:30,24:00,3042125,Selma,IL,866970483,10 East Vine Drive
+Hazlewood - NE,3:30,22:30,5374204,Florence,NE,131346340,97 East Vine Drive
+The Red, White, and Brew - RI,2:30,22:00,5191377,Chickasaw,RI,774433363,733 Myrtle St. 
+Double A - SC,3:00,23:00,6336140,Guntersville,SC,129366994,50 East Vine Drive
+Rossis - OH,3:00,23:30,8297077,Gadsden,OH,147572105,88 Blackburn Ave
+Basic Kneads Pizza - ID,2:30,21:30,5826047,Enterprise,ID,728947889,9862 Wentworth St.
+Comet Tavern - OH,12:30,24:00,9664503,Atmore,OH,169726805,11 Blackburn Ave
+Smog Cutter - HI,4:30,22:30,8328748,Guntersville,HI,648203725,17 East Vine Drive
+Tavern Law - VT,3:30,22:00,1209687,Scottsboro,VT,338005978,38 Kirkland Street
+The Billy Goat Tavern - RI,4:00,22:30,6159012,Eufaula,RI,474654841,50 East Vine Drive
+Atomic Liquors - SC,4:30,23:00,2801890,Sylacauga,SC,826939110,9862 Wentworth St.
+The Grackle - OH,3:30,22:30,9067724,Athens,OH,249406633,88 Blackburn Ave
+Rob Roy - TX,4:30,22:00,8282402,Greenville,TX,260112198,8 Blackburn Ave
+Tavern Law - ME,1:30,23:00,2782103,Mobile,ME,610514812,11 Blackburn Ave
+Moe Bar - ME,1:30,24:00,5663166,Cullman,ME,942026571,50 East Vine Drive
+Cantina - FL,1:30,21:30,3408929,Atmore,FL,240018009,88 Blackburn Ave
+Wish You Were Beer - AR,2:00,23:00,4556085,Cullman,AR,806759854,50 East Vine Drive
+95 Slide - NJ,2:00,23:30,4767453,Athens,NJ,296748963,601 Shirley Ave
+Angels and Kings - AZ,1:00,22:30,6558742,Dothan,AZ,395975852,11 Blackburn Ave
+Last Call Bar - NM,2:30,23:00,7543164,Montgomery,NM,338547821,10 East Vine Drive
+Shortys - MA,12:30,21:30,4512105,Chickasaw,MA,228631582,8 Blackburn Ave
+Hazlewood - MS,12:30,23:00,1504567,Sylacauga,MS,159712044,9862 Wentworth St.
+Hop Sing Laundromat - UT,4:00,23:30,7606178,Athens,UT,432615829,97 East Vine Drive
+Brews Brothers - AR,12:30,23:30,3085864,Anniston,AR,200913181,17 East Vine Drive
+Aesops Tables - VT,4:00,22:30,8671773,Opelika,VT,399633151,10 East Vine Drive
+Hot Bird - NH,3:30,21:30,3625512,Marion,NH,168603319,38 Kirkland Street
+Happy Birthday Bar - AZ,4:00,22:30,1872914,Birmingham,AZ,142159216,40 East Vine Drive
+Mecca Cafe - MD,1:00,22:30,8544621,Marion,MD,684420254,60 East Vine Drive
+Bean Me Up - MI,4:00,21:30,6612495,Decatur,MI,706387239,10 East Vine Drive
+Tin n Lint - NY,2:30,21:30,5886032,Montgomery,NY,825459698,17 East Vine Drive
+Hazlewood - AZ,2:30,22:00,9354981,Gadsden,AZ,174778870,8 Blackburn Ave
+Atomic Liquors - MO,2:00,21:30,4362639,Huntsville,MO,518936106,9862 Wentworth St.
+Elixir - MT,2:00,23:30,7785201,Jasper,MT,323492930,8 Blackburn Ave
+Shortys - WV,2:30,23:30,5880227,Guntersville,WV,809528411,50 East Vine Drive
+Noc Noc - KS,1:00,24:00,8299915,Jasper,KS,216614756,97 East Vine Drive
+Fireside Bar - MI,2:00,23:30,3296454,Opelika,MI,359980546,12 Blackburn Ave
+Ballard Loft - MI,3:30,22:00,8967635,Atmore,MI,964935007,1 Blackburn Ave
+Shortys - CT,2:00,21:30,3350104,Montgomery,CT,927053610,7 Blackburn Ave
+Hot Bird - NC,1:30,21:30,7358497,Opelika,NC,905145314,97 East Vine Drive
+The Fainting Goat - WA,3:30,23:00,7784334,Enterprise,WA,827930397,7 Blackburn Ave
+Lone Palm - WV,3:30,21:30,6471679,Jasper,WV,993883244,12 Blackburn Ave
+Open Sesame - RI,2:00,24:00,3569695,Sheffield,RI,754242483,9862 Wentworth St.
+95 Slide - RI,1:30,24:00,5560096,Huntsville,RI,817198318,11 Blackburn Ave
+Mecca Cafe - ME,2:00,23:30,7172779,Auburn,ME,160374839,40 East Vine Drive
+Hazlewood - VA,4:00,22:00,6861315,Marion,VA,388334456,601 Shirley Ave
+Mission Bar - AR,1:00,24:00,9249395,Dothan,AR,646862769,88 Blackburn Ave
+Smog Cutter - CO,3:30,24:00,1590352,Dothan,CO,572286484,88 Blackburn Ave
+Triangle Pub - IL,2:30,21:30,9837794,Talladega,IL,136001084,40 East Vine Drive
+Noc Noc - NV,1:30,24:00,6353247,Opelika,NV,761570996,88 Blackburn Ave
+The Crescent Lounge - IL,4:00,22:00,2107671,Florence,IL,665550877,8 Blackburn Ave
+Elixir - OR,12:30,22:00,2450297,Auburn,OR,721553640,9862 Wentworth St.
+Lone Palm - VA,3:30,22:00,4949356,Dothan,VA,961735027,88 Blackburn Ave
+Bloodhound - AZ,3:30,22:30,4573208,Jasper,AZ,275499851,8 Blackburn Ave
+Bar of the Gods - IN,2:30,24:00,2295499,Cullman,IN,209034422,10 East Vine Drive
+21 & Cup - VT,4:00,21:30,2650893,Sylacauga,VT,700545025,97 East Vine Drive
+Brew Ha Ha - GA,1:30,22:00,1106646,Gadsden,GA,387043494,733 Myrtle St. 
+Lenys Place - AR,3:00,22:00,5745852,Andalusia,AR,873837785,8 Blackburn Ave
+Bar of the Gods - OH,2:00,21:30,1062078,Eufaula,OH,822253989,1 Blackburn Ave
+Liberty - OK,2:00,23:00,8602363,Scottsboro,OK,912794920,12 Blackburn Ave
+Happy Birthday Bar - CA,2:00,22:00,6234418,Phenix City,CA,311622386,1 Blackburn Ave
+Angels and Kings - MA,3:00,21:30,5259182,Fort Payne,MA,561385957,11 Blackburn Ave
+Ballard Loft - LA,1:30,21:30,4841647,Mobile,LA,844153877,11 Blackburn Ave
+Last Call Bar - TX,1:00,24:00,1277285,Clanton,TX,979992142,60 East Vine Drive
+Mustards Last Stand - TN,4:30,23:00,3786128,Anniston,TN,387742683,38 Kirkland Street
+Cantina - MO,4:30,23:00,2981997,Sylacauga,MO,235912839,8 Blackburn Ave
+Fat Angel - NH,12:30,21:30,2842434,Demopolis,NH,706029269,17 East Vine Drive
+Heartbeat - VT,4:30,22:30,4479950,Greenville,VT,634922899,11 Blackburn Ave
+Benders Bar and Grill - RI,12:30,22:00,3076343,Enterprise,RI,238193024,17 East Vine Drive
+Triangle Pub - KY,2:00,21:30,8974503,Gadsden,KY,192495640,17 East Vine Drive
+Unphogettable - VT,4:00,23:00,9693947,Marion,VT,418531786,7 Blackburn Ave
+Bloodhound - CO,3:30,23:00,5900356,Phenix City,CO,720767929,1 Blackburn Ave
+The Pastry War - GA,2:30,21:30,4800999,Talladega,GA,178899781,38 Kirkland Street
+The Monkey Farm Cafe - AK,2:00,22:00,8259895,Athens,AK,479093758,9862 Wentworth St.
+The Grackle - MI,4:00,23:00,7259961,Gadsden,MI,452751497,9862 Wentworth St.
+Benders Bar and Grill - ME,2:30,22:30,5423381,Phenix City,ME,268982985,8 Blackburn Ave
+Noc Noc - WV,4:30,21:30,7586143,Jasper,WV,256556258,9862 Wentworth St.
+Comet Tavern - TN,2:00,23:00,7775977,Andalusia,TN,884327505,7 Blackburn Ave
+Moon Work - TX,4:30,21:30,9521585,Gadsden,TX,909565571,733 Myrtle St. 
+Tin n Lint - TX,12:30,24:00,4819237,Sylacauga,TX,102278886,88 Blackburn Ave
+Lone Palm - PA,4:30,24:00,1171988,Jasper,PA,443611530,11 Blackburn Ave
+The Peoples Republik - NC,2:00,22:30,3088317,Greenville,NC,995650127,50 East Vine Drive
+Happy Birthday Bar - NC,4:30,22:30,6488323,Decatur,NC,593164465,7 Blackburn Ave
+Benders Bar and Grill - MS,2:30,21:30,3626756,Guntersville,MS,385041418,17 East Vine Drive
+21 & Cup - IL,2:30,22:30,4565045,Bessemer,IL,288887566,11 Blackburn Ave
+The Sitting Room - NH,1:00,24:00,2083082,Talladega,NH,319872504,12 Blackburn Ave
+The Tipsy Cow - OH,2:30,24:00,6681721,Sheffield,OH,870627124,601 Shirley Ave
+Happy Birthday Bar - NM,2:30,22:30,1401358,Auburn,NM,551048189,8 Blackburn Ave
+Fat Angel - AR,1:30,24:00,4683739,Mobile,AR,288192791,88 Blackburn Ave
+The Underground - NC,4:30,24:00,9863533,Greenville,NC,149175602,8 Blackburn Ave
+Triangle Pub - HI,4:30,23:00,4521906,Marion,HI,901633443,7 Blackburn Ave
+Benders Bar and Grill - MN,12:30,23:30,3005279,Greenville,MN,600681797,38 Kirkland Street
+Atomic Liquors - WA,3:00,24:00,1426207,Fort Payne,WA,553238035,50 East Vine Drive
+Basic Kneads Pizza - MS,2:00,21:30,9048172,Ozark,MS,583651221,17 East Vine Drive
+Hop Sing Laundromat - AZ,1:00,21:30,1542316,Jasper,AZ,722271958,50 East Vine Drive
+Hard Times & Misery Saloon - NE,12:30,21:30,6149951,Montgomery,NE,898426819,88 Blackburn Ave
+Palmer Place - MO,4:30,24:00,8587245,Enterprise,MO,169977311,12 Blackburn Ave
+The Twilight Exit - SD,1:00,22:30,8924160,Athens,SD,551177027,88 Blackburn Ave
+Hop Sing Laundromat - IN,1:30,22:30,5645227,Marion,IN,261953150,17 East Vine Drive
+Rob Roy - OR,1:00,23:30,3755351,Cullman,OR,211888838,601 Shirley Ave
+Quarter Lounge - MS,2:30,24:00,6510866,Sheffield,MS,348715634,50 East Vine Drive
+Heartbeat - OK,12:30,22:00,2012678,Jasper,OK,132490750,40 East Vine Drive
+The Twilight Exit - IN,1:30,23:00,1864788,Selma,IN,778658834,601 Shirley Ave
+Streamline Tavern - MO,1:00,22:30,8952226,Auburn,MO,363472135,10 East Vine Drive
+Moon Work - MO,2:00,22:30,1112488,Demopolis,MO,566529992,733 Myrtle St. 
+Brotherhood of Thieves - NJ,2:00,24:00,1585660,Demopolis,NJ,382398618,38 Kirkland Street
+Bar of the Gods - OR,2:30,21:30,7794126,Demopolis,OR,895265276,10 East Vine Drive
+Bubbas Sulky Lounge - CO,3:30,24:00,9656591,Huntsville,CO,649157810,40 East Vine Drive
+Rossis - RI,12:30,23:30,8639826,Prichard,RI,681665067,40 East Vine Drive
+Jumbos Clown Room - SD,2:30,24:00,7804285,Huntsville,SD,727815888,17 East Vine Drive
+The Jack Saloon - OK,2:30,23:30,9639433,Talladega,OK,103262307,88 Blackburn Ave
+Triangle Pub - CO,3:00,21:30,3283032,Anniston,CO,746313820,11 Blackburn Ave
+The Surly Wench Pub - CT,2:00,22:30,3913787,Athens,CT,589936739,10 East Vine Drive
+Brew Ha Ha - KY,4:30,22:30,6014047,Scottsboro,KY,614850912,7 Blackburn Ave
+Bar Cotto - AZ,1:00,23:00,6674324,Montgomery,AZ,349190987,8 Blackburn Ave
+Lone Palm - MT,2:30,24:00,3922587,Talladega,MT,423049897,12 Blackburn Ave
+The Brewseum - AR,2:00,21:30,6939991,Talladega,AR,210246371,733 Myrtle St. 
+The Tasting Room - NH,3:30,24:00,5529194,Talladega,NH,522729819,9862 Wentworth St.
+Boxcar Ale House - AR,2:30,22:00,7386917,Scottsboro,AR,685600611,11 Blackburn Ave
+Brew Ha Ha - AZ,1:30,23:30,6462774,Andalusia,AZ,768463191,88 Blackburn Ave
+The Underground - RI,12:30,22:00,1802273,Ozark,RI,564596758,38 Kirkland Street
+Olde 99 - MI,4:30,23:00,5518627,Fort Payne,MI,904907544,97 East Vine Drive
+Brew Ha Ha - MO,12:30,24:00,7271769,Selma,MO,923694320,11 Blackburn Ave
+The Twilight Exit - RI,2:30,21:30,2444667,Clanton,RI,296109705,50 East Vine Drive
+The Pastry War - VA,1:30,21:30,4340183,Prichard,VA,236957003,10 East Vine Drive
+Fireside Bar - SD,2:30,22:30,9999942,Clanton,SD,716254732,40 East Vine Drive
+Brotherhood of Thieves - MA,4:00,23:30,7332074,Montgomery,MA,953366148,17 East Vine Drive
+The Monkey Farm Cafe - IN,12:30,22:00,7866037,Prichard,IN,652587431,60 East Vine Drive
+Jumbos Clown Room - CA,4:00,22:30,2521003,Athens,CA,700179665,17 East Vine Drive
+Olive or Twist - AR,12:30,24:00,9653455,Dothan,AR,518851672,17 East Vine Drive
+Rye - IN,2:00,22:30,4228002,Cullman,IN,556265666,17 East Vine Drive
+The Fainting Goat - NY,3:00,22:00,7658381,Chickasaw,NY,193066076,17 East Vine Drive
+The Tipsy Cow - SD,3:30,21:30,5014200,Montgomery,SD,388509825,601 Shirley Ave
+The Monkey Farm Cafe - NE,4:30,24:00,9983683,Guntersville,NE,262989499,11 Blackburn Ave
+Crimson Lounge - DE,1:30,23:30,5017153,Athens,DE,855034227,97 East Vine Drive
+The Twilight Exit - AK,4:00,24:00,1443954,Birmingham,AK,746791254,97 East Vine Drive
+Atomic Liquors - RI,1:30,23:00,9655139,Phenix City,RI,585394208,8 Blackburn Ave
+Angels and Kings - RI,12:30,22:00,5734041,Guntersville,RI,671554797,10 East Vine Drive
+The Library Sports Bar - NH,2:30,22:00,5677172,Demopolis,NH,684123749,97 East Vine Drive
+Basic Kneads Pizza - NE,1:30,23:00,3617245,Atmore,NE,741126713,1 Blackburn Ave
+Rob Roy - MD,4:30,23:30,4312339,Scottsboro,MD,583681881,12 Blackburn Ave
+Potters Lounde - KS,3:00,24:00,6423778,Eufaula,KS,987882051,17 East Vine Drive
+Tin n Lint - NM,1:00,24:00,6946630,Clanton,NM,850874810,40 East Vine Drive
+Hard Times & Misery Saloon - LA,1:30,23:30,7303674,Talladega,LA,384647956,11 Blackburn Ave
+Grumpys Goat Shack - IA,2:00,24:00,8152286,Clanton,IA,829658288,97 East Vine Drive
+The Grackle - OK,4:00,21:30,2918555,Florence,OK,742466932,97 East Vine Drive
+Lava Lounge - AZ,4:30,22:30,9731038,Phenix City,AZ,156766263,7 Blackburn Ave
+Olde 99 - ID,12:30,22:30,6633657,Decatur,ID,515440580,733 Myrtle St. 
+Moon Work - ID,4:00,21:30,8819509,Fort Payne,ID,800077412,9862 Wentworth St.
+Moe Bar - CT,12:30,24:00,6165072,Fort Payne,CT,260088567,8 Blackburn Ave
+Last Call Bar - WA,1:30,22:00,4411280,Fort Payne,WA,445043994,88 Blackburn Ave
+Bar Cotto - VT,2:30,23:30,1712369,Clanton,VT,644785463,1 Blackburn Ave
+Bean Me Up - TX,12:30,24:00,7989652,Mobile,TX,120281693,11 Blackburn Ave
+Comet Tavern - VT,3:00,23:30,1875721,Mobile,VT,397288620,12 Blackburn Ave
+Cantina - MN,4:30,21:30,6203895,Demopolis,MN,727217728,1 Blackburn Ave
+Rossis - CT,3:30,23:30,3807627,Montgomery,CT,116104877,38 Kirkland Street
+Tin n Lint - VT,12:30,21:30,7475764,Anniston,VT,469666537,7 Blackburn Ave
+Lenys Place - AK,2:00,23:00,8412180,Demopolis,AK,921836931,60 East Vine Drive
+Streamline Tavern - OR,4:30,23:00,2091033,Ozark,OR,162351235,50 East Vine Drive
+Angels and Kings - KY,4:00,23:30,5464345,Clanton,KY,813714719,38 Kirkland Street
+Lone Palm - ID,12:30,21:30,2224813,Fort Payne,ID,156772834,11 Blackburn Ave
+Fat Angel - OH,3:00,22:00,9368814,Atmore,OH,261851853,97 East Vine Drive
+The Brewseum - NH,1:00,22:30,7265354,Montgomery,NH,854118151,12 Blackburn Ave
+Basic Kneads Pizza - VA,2:30,24:00,9361321,Fort Payne,VA,330664499,733 Myrtle St. 
+Basic Kneads Pizza - OH,4:00,21:30,4549300,Montgomery,OH,971889653,9862 Wentworth St.
+Hard Times & Misery Saloon - UT,2:00,23:00,1950425,Gadsden,UT,967140734,10 East Vine Drive
+Potters Lounde - GA,2:30,22:00,7535368,Clanton,GA,923133525,11 Blackburn Ave
+Palmer Place - SD,2:00,22:00,6411295,Scottsboro,SD,347848394,12 Blackburn Ave
+Corner Pocket - MI,3:00,21:30,8450074,Auburn,MI,922913356,50 East Vine Drive
+Tin n Lint - OH,12:30,22:00,9004145,Cullman,OH,253656910,733 Myrtle St. 
+The Surly Wench Pub - SC,3:00,23:00,7580104,Phenix City,SC,413915628,601 Shirley Ave
+Tavern Law - CT,2:30,21:30,3842971,Bessemer,CT,260505000,601 Shirley Ave
+Bloodhound - UT,2:00,23:00,8221937,Opelika,UT,389752588,38 Kirkland Street
+Aesops Tables - OH,3:00,22:00,3108328,Selma,OH,622048358,97 East Vine Drive
+The Peoples Republik - SD,2:30,24:00,3161766,Huntsville,SD,881926433,10 East Vine Drive
+Men at Wok - IN,4:30,22:00,1960005,Montgomery,IN,578615502,12 Blackburn Ave
+The Billy Goat Tavern - TX,1:00,21:30,1341343,Florence,TX,510455868,50 East Vine Drive
+Hard Times & Misery Saloon - VT,1:00,24:00,5700506,Bessemer,VT,440953148,50 East Vine Drive
+Hop Sing Laundromat - WA,3:30,21:30,3573690,Decatur,WA,533627071,12 Blackburn Ave
+Moe Bar - MT,3:00,23:30,5243480,Gadsden,MT,666711744,97 East Vine Drive
+Shortys - KY,1:30,23:00,1554971,Cullman,KY,456676622,10 East Vine Drive
+Elixir - PA,4:00,21:30,3916326,Decatur,PA,963285122,11 Blackburn Ave
+Lenys Place - SD,2:30,22:30,8315063,Fort Payne,SD,624663510,17 East Vine Drive
+Aesops Tables - VA,2:00,22:00,2101057,Enterprise,VA,352378151,601 Shirley Ave
+Elixir - OH,1:00,24:00,5901971,Ozark,OH,644713499,12 Blackburn Ave
+Smog Cutter - AK,12:30,22:00,3969845,Selma,AK,834532389,17 East Vine Drive
+95 Slide - MT,2:30,22:00,9165533,Scottsboro,MT,715454333,1 Blackburn Ave
+Liberty - ND,1:30,24:00,9498281,Athens,ND,242195215,733 Myrtle St. 
+Olde 99 - WV,1:30,22:30,7276692,Bessemer,WV,196552114,7 Blackburn Ave
+Hop Sing Laundromat - FL,4:30,22:30,9971469,Chickasaw,FL,177213104,9862 Wentworth St.
+Streamline Tavern - MD,12:30,23:00,8226463,Anniston,MD,986091636,9862 Wentworth St.
+Palmer Place - PA,3:30,21:30,6252143,Opelika,PA,746477640,12 Blackburn Ave
+Jumbos Clown Room - NE,1:00,22:00,7939919,Fort Payne,NE,164515157,12 Blackburn Ave
+The Tipsy Cow - ME,4:30,22:30,8928437,Clanton,ME,404079006,11 Blackburn Ave
+The Peoples Republik - WA,2:00,21:30,6398153,Fort Payne,WA,745848969,11 Blackburn Ave
+The Pitch & Roll - MI,3:30,22:00,9048313,Selma,MI,846115859,9862 Wentworth St.
+Moe Bar - TN,3:00,23:00,7288571,Greenville,TN,550680212,1 Blackburn Ave
+The Fainting Goat - OH,2:00,21:30,5124670,Greenville,OH,598339522,50 East Vine Drive
+The Grizzled Wizard - KS,2:00,23:00,1092650,Prichard,KS,731674384,1 Blackburn Ave
+Vitos - SD,4:00,22:30,3471086,Guntersville,SD,855940941,38 Kirkland Street
+Corner Pocket - AZ,4:00,22:00,3618928,Talladega,AZ,559976099,8 Blackburn Ave
+The Grackle - NC,4:00,23:30,3610193,Scottsboro,NC,266861944,17 East Vine Drive
+Happy Birthday Bar - TX,1:30,23:30,4678669,Selma,TX,833601867,10 East Vine Drive
+The Crescent Lounge - NM,4:00,22:30,2012898,Greenville,NM,731282946,11 Blackburn Ave
+Bean Me Up - ME,1:00,22:00,9539791,Sheffield,ME,420196147,1 Blackburn Ave
+Tavern Law - ND,2:30,21:30,8180310,Talladega,ND,104688841,88 Blackburn Ave
+The Cask - GA,12:30,23:30,2072828,Scottsboro,GA,185357404,17 East Vine Drive
+Tempest Bar - WA,4:30,21:30,3242402,Andalusia,WA,753867501,60 East Vine Drive
+Bar Cotto - IN,2:00,22:00,7461424,Cullman,IN,636740920,10 East Vine Drive
+Atomic Liquors - DE,1:00,23:00,8392011,Ozark,DE,849958547,60 East Vine Drive
+Elixir - DE,12:30,24:00,1584770,Montgomery,DE,244518686,17 East Vine Drive
+Tavern Law - MS,3:30,22:30,3644446,Opelika,MS,238170169,11 Blackburn Ave
+Death & Co. - LA,3:30,21:30,8670115,Florence,LA,748318392,11 Blackburn Ave
+Olde 99 - CT,1:30,24:00,9004119,Greenville,CT,981181636,97 East Vine Drive
+Hooverville Bar - AZ,2:30,21:30,1231004,Ozark,AZ,203906841,8 Blackburn Ave
+Benders Bar and Grill - FL,2:00,24:00,8079730,Anniston,FL,173400935,17 East Vine Drive
+Heartbeat - MN,4:00,24:00,6718893,Mobile,MN,157650656,733 Myrtle St. 
+Beer and Loathing in Dundee - VA,2:00,21:30,6033589,Gadsden,VA,435861576,38 Kirkland Street
+Brotherhood of Thieves - DE,2:00,24:00,4295234,Chickasaw,DE,170174866,50 East Vine Drive
+21 & Cup - MI,1:30,23:30,6461257,Bessemer,MI,259329902,88 Blackburn Ave
+Brew Ha Ha - SC,4:30,22:00,6980419,Athens,SC,318785918,10 East Vine Drive
+Lava Lounge - MD,3:00,21:30,6646072,Atmore,MD,134311762,733 Myrtle St. 
+Last Call Bar - AK,1:00,23:30,1802996,Talladega,AK,170468186,733 Myrtle St. 
+Rye - MS,1:00,24:00,4041471,Phenix City,MS,605526844,1 Blackburn Ave
+Brotherhood of Thieves - UT,4:00,24:00,4227308,Florence,UT,276096833,60 East Vine Drive
+21 & Cup - OH,1:30,22:30,1512336,Anniston,OH,690563002,10 East Vine Drive
+The Underground - MS,3:30,23:00,5295353,Athens,MS,788414550,12 Blackburn Ave
+Moe Bar - TX,4:30,22:00,7794360,Cullman,TX,965069981,733 Myrtle St. 
+Hooverville Bar - CO,3:30,22:00,5152598,Jasper,CO,197036637,50 East Vine Drive
+Palmer Place - ID,3:00,21:30,8573955,Eufaula,ID,435023916,88 Blackburn Ave
+Rossis - LA,1:00,23:00,8814885,Fort Payne,LA,868767460,8 Blackburn Ave
+Tavern Law - DE,4:00,22:00,1871129,Anniston,DE,870019874,7 Blackburn Ave
+Elixir - TX,4:00,23:30,7369473,Andalusia,TX,877979787,733 Myrtle St. 
+Fat Angel - NJ,4:30,23:00,9577069,Cullman,NJ,381583871,97 East Vine Drive
+Tavern Law - OR,1:30,22:00,9890236,Huntsville,OR,802171250,60 East Vine Drive
+The Tasting Room - WV,4:30,22:00,3240896,Selma,WV,308463714,38 Kirkland Street
+Rossis - OR,3:00,23:30,4925723,Mobile,OR,801849849,8 Blackburn Ave
+Ballard Loft - NM,1:30,23:30,6311721,Atmore,NM,194666403,97 East Vine Drive
+Happy Birthday Bar - KS,3:30,22:00,4765392,Clanton,KS,272760893,12 Blackburn Ave
+Tempest Bar - MN,4:00,21:30,3398241,Mobile,MN,328708230,11 Blackburn Ave
+Brews Brothers - AK,2:30,24:00,1328352,Auburn,AK,991114396,88 Blackburn Ave
+The Surly Wench Pub - OR,1:30,21:30,2117888,Guntersville,OR,712930545,12 Blackburn Ave
+Streamline Tavern - CA,4:30,22:00,1412863,Enterprise,CA,189256936,17 East Vine Drive
+Duchess Tavern - OR,4:00,21:30,6259030,Prichard,OR,858195460,7 Blackburn Ave
+Noc Noc - MD,1:00,22:00,2578389,Jasper,MD,453788023,601 Shirley Ave
+Bar Cotto - MS,4:30,23:00,2425087,Andalusia,MS,986802161,733 Myrtle St. 
+Quarter Lounge - MO,1:30,24:00,1364803,Cullman,MO,889694882,601 Shirley Ave
+Fat Angel - PA,3:30,24:00,8095713,Montgomery,PA,777348330,17 East Vine Drive
+Streamline Tavern - MA,1:30,21:30,8431288,Decatur,MA,330630805,1 Blackburn Ave
+Rob Roy - MI,2:00,21:30,1839284,Sylacauga,MI,673150388,40 East Vine Drive
+Hard Times & Misery Saloon - FL,2:00,23:30,8793593,Sylacauga,FL,922411858,10 East Vine Drive
+Brotherhood of Thieves - ME,1:00,21:30,5476079,Montgomery,ME,226465849,88 Blackburn Ave
+The Red, White, and Brew - AZ,1:00,22:30,1262149,Anniston,AZ,578121367,10 East Vine Drive
+Beer and Loathing in Dundee - RI,12:30,24:00,7660529,Prichard,RI,366985219,7 Blackburn Ave
+Angels and Kings - MI,4:30,22:30,4337373,Greenville,MI,374158179,601 Shirley Ave
+Mecca Cafe - AR,1:00,22:30,7483980,Montgomery,AR,842276702,50 East Vine Drive
+The Pastry War - NH,2:30,21:30,6629397,Jasper,NH,371984049,12 Blackburn Ave
+Brews Brothers - VT,4:00,22:00,4214932,Scottsboro,VT,928191374,8 Blackburn Ave
+Brew Ha Ha - NC,3:00,21:30,5995775,Jasper,NC,222056077,8 Blackburn Ave
+Vitos - VT,1:30,22:00,8492496,Marion,VT,342927911,601 Shirley Ave
+The Library Sports Bar - AK,1:30,23:30,4538174,Montgomery,AK,100477771,50 East Vine Drive
+Heartbeat - CA,12:30,21:30,7968410,Enterprise,CA,429183826,88 Blackburn Ave
+Grumpys Goat Shack - CT,1:00,21:30,7633661,Talladega,CT,578149333,17 East Vine Drive
+Open Sesame - IA,1:30,22:00,1353158,Andalusia,IA,625671044,17 East Vine Drive
+Noc Noc - RI,1:00,22:30,2986204,Sheffield,RI,720876891,10 East Vine Drive
+Tavern Law - TX,3:00,22:30,3497728,Athens,TX,707344044,17 East Vine Drive
+Moe Bar - LA,3:30,22:30,8012560,Marion,LA,581090282,7 Blackburn Ave
+Beer and Loathing in Dundee - WA,12:30,23:30,8377548,Prichard,WA,128420572,601 Shirley Ave
+Open Sesame - OK,12:30,22:00,4810096,Jasper,OK,468826972,1 Blackburn Ave
+The Tasting Room - NJ,4:30,22:00,2888126,Dothan,NJ,477933596,7 Blackburn Ave
+The Grizzled Wizard - OR,1:30,21:30,5303794,Demopolis,OR,499619887,1 Blackburn Ave
+Hooverville Bar - WA,4:00,22:00,2715216,Opelika,WA,101855444,17 East Vine Drive
+Tavern Law - KY,4:30,22:00,4692396,Chickasaw,KY,201095173,60 East Vine Drive
+The Red, White, and Brew - MA,3:30,22:00,5312727,Sylacauga,MA,620071251,733 Myrtle St. 
+Dutch Kills - PA,4:30,21:30,3057920,Scottsboro,PA,450118555,17 East Vine Drive
+Death & Co. - NC,1:00,24:00,1958298,Atmore,NC,616216314,88 Blackburn Ave
+Death & Co. - WA,12:30,22:30,5398399,Gadsden,WA,365893636,17 East Vine Drive
+The Surly Wench Pub - TX,4:00,22:30,3836449,Demopolis,TX,956988402,9862 Wentworth St.
+The Monkey Farm Cafe - CA,3:30,22:00,3624244,Auburn,CA,190658627,97 East Vine Drive
+Corner Pocket - ME,1:00,24:00,3755763,Birmingham,ME,317147950,60 East Vine Drive
+Rye - KS,1:30,22:30,9160487,Scottsboro,KS,320151477,12 Blackburn Ave
+The Brewseum - PA,1:00,22:00,8994503,Talladega,PA,410364799,733 Myrtle St. 
+Brotherhood of Thieves - ND,4:00,22:00,3135228,Opelika,ND,135959695,733 Myrtle St. 
+Tavern Law - OK,3:30,24:00,2743508,Demopolis,OK,163956438,7 Blackburn Ave
+Lenys Place - MO,4:30,22:30,5091503,Demopolis,MO,835283253,601 Shirley Ave
+Ballard Loft - MT,4:00,23:00,6706668,Selma,MT,482076445,17 East Vine Drive
+Crimson Lounge - UT,12:30,23:00,8848054,Montgomery,UT,165795938,88 Blackburn Ave
+The Jack Saloon - AR,2:30,22:30,2916126,Jasper,AR,128960969,733 Myrtle St. 
+The Pastry War - KS,4:30,23:30,1925058,Greenville,KS,897412014,601 Shirley Ave
+The Pitch & Roll - IA,2:00,23:00,4740525,Florence,IA,493208645,12 Blackburn Ave
+The Monkey Farm Cafe - GA,2:30,23:30,6528711,Mobile,GA,623955588,1 Blackburn Ave
+Happy Birthday Bar - MS,4:30,21:30,7145596,Fort Payne,MS,814003900,17 East Vine Drive
+The Crescent Lounge - MT,1:00,23:30,1121960,Jasper,MT,768279519,12 Blackburn Ave
+Triangle Pub - MO,3:30,21:30,6886841,Andalusia,MO,441020288,50 East Vine Drive
+Wish You Were Beer - TN,4:30,23:00,1946245,Eufaula,TN,479743191,7 Blackburn Ave
+Vitos - IA,1:00,23:00,7992769,Greenville,IA,855976991,40 East Vine Drive
+The Fainting Goat - KY,1:00,22:30,8082909,Gadsden,KY,653742175,733 Myrtle St. 
+Double A - DE,3:30,21:30,8223688,Mobile,DE,995396177,17 East Vine Drive
+Angels and Kings - CO,3:30,22:00,1078559,Athens,CO,787477944,60 East Vine Drive
+Crimson Lounge - ME,4:30,23:00,2726414,Auburn,ME,456740254,7 Blackburn Ave
+Unphogettable - OK,4:00,22:00,8597557,Jasper,OK,388968108,733 Myrtle St. 
+Rob Roy - CO,3:00,21:30,8834942,Fort Payne,CO,919649479,88 Blackburn Ave
+Hop Sing Laundromat - IL,1:30,21:30,7210181,Jasper,IL,600741499,38 Kirkland Street
+Brotherhood of Thieves - AZ,12:30,24:00,3021277,Mobile,AZ,254640879,97 East Vine Drive
+Mission Bar - FL,2:30,23:30,6638758,Talladega,FL,429003656,50 East Vine Drive
+Tavern Law - FL,2:00,24:00,4162172,Athens,FL,439738711,601 Shirley Ave
+Noc Noc - LA,3:00,24:00,4516970,Florence,LA,784772109,12 Blackburn Ave
+Boxcar Ale House - VA,3:30,24:00,4210274,Fort Payne,VA,641030776,38 Kirkland Street
+Wish You Were Beer - MI,4:00,21:30,5017212,Florence,MI,936861737,40 East Vine Drive
+The Pitch & Roll - MT,3:00,22:00,2688518,Marion,MT,181548632,10 East Vine Drive
+Mecca Cafe - AZ,1:30,23:00,1264304,Dothan,AZ,174113793,60 East Vine Drive
+21 & Cup - NH,3:30,24:00,8276318,Auburn,NH,680636653,17 East Vine Drive
+The Sitting Room - CO,1:00,21:30,7420119,Anniston,CO,809787326,50 East Vine Drive
+Noc Noc - IA,2:30,23:00,3267778,Athens,IA,576911332,10 East Vine Drive
+The Surly Wench Pub - OH,4:30,21:30,7229945,Atmore,OH,810723700,40 East Vine Drive
+The Tasting Room - KY,3:30,22:00,6501839,Chickasaw,KY,440945957,50 East Vine Drive
+The Hideout - CT,3:30,21:30,7738333,Gadsden,CT,680070635,88 Blackburn Ave
+Rossis - AR,4:00,22:00,2811759,Andalusia,AR,748196554,11 Blackburn Ave
+Aesops Tables - MA,4:00,23:30,6204890,Chickasaw,MA,232168040,38 Kirkland Street
+Brew Ha Ha - MN,1:30,22:30,4466988,Guntersville,MN,144732128,40 East Vine Drive
+Elixir - RI,4:00,23:30,9991385,Sylacauga,RI,992193315,9862 Wentworth St.
+Heartbeat - NH,2:00,21:30,1578641,Demopolis,NH,774819145,40 East Vine Drive
+The Tasting Room - HI,1:30,22:00,6879680,Montgomery,HI,608563077,9862 Wentworth St.
+Hazlewood - KS,3:00,22:30,6724203,Fort Payne,KS,702957218,50 East Vine Drive
+Mongoose Versus Cobra - CO,4:00,23:30,3564843,Sylacauga,CO,310396762,50 East Vine Drive
+Comet Tavern - ND,12:30,24:00,6058986,Huntsville,ND,525950527,17 East Vine Drive
+Moe Bar - MA,1:00,22:30,2685995,Phenix City,MA,926441921,9862 Wentworth St.
+The Twilight Exit - GA,3:30,22:30,6320656,Enterprise,GA,636967446,97 East Vine Drive
+The Monkey Farm Cafe - OR,3:00,21:30,8756609,Eufaula,OR,499252193,7 Blackburn Ave
+Men at Wok - CA,3:00,23:00,7297674,Clanton,CA,950171776,88 Blackburn Ave
+Mecca Cafe - LA,1:30,21:30,3102354,Decatur,LA,267273433,733 Myrtle St. 
+Lone Palm - AK,1:00,23:30,3895506,Opelika,AK,980129695,88 Blackburn Ave
+Unphogettable - HI,2:00,22:00,9147897,Decatur,HI,453546671,12 Blackburn Ave
+The Surly Wench Pub - KS,1:00,21:30,9130088,Dothan,KS,281108002,9862 Wentworth St.
+Noc Noc - PA,2:00,23:30,9269936,Eufaula,PA,769434456,60 East Vine Drive
+Potters Lounde - MS,2:00,23:00,9342906,Fort Payne,MS,709196900,60 East Vine Drive
+The Library Sports Bar - KS,4:00,23:00,6244735,Greenville,KS,808480264,11 Blackburn Ave
+Noc Noc - FL,4:30,21:30,4073745,Birmingham,FL,873338972,733 Myrtle St. 
+Noc Noc - VT,1:00,23:00,4573241,Cullman,VT,867258479,40 East Vine Drive
+The Hideout - ME,3:00,23:00,4022444,Birmingham,ME,949230530,12 Blackburn Ave
+The Sitting Room - IL,12:30,22:00,5152628,Andalusia,IL,477428958,11 Blackburn Ave
+The Grackle - AK,2:30,23:00,5881506,Ozark,AK,492639493,8 Blackburn Ave
+Mission Bar - KY,1:00,22:00,3052565,Marion,KY,461596473,9862 Wentworth St.
+Olde 99 - NJ,1:00,24:00,4811667,Guntersville,NJ,102571332,601 Shirley Ave
+Rossis - WA,2:30,23:30,2544787,Andalusia,WA,898907025,8 Blackburn Ave
+95 Slide - OH,2:00,21:30,6139122,Ozark,OH,919247848,601 Shirley Ave
+Elixir - ME,4:00,22:00,6170119,Montgomery,ME,134498628,12 Blackburn Ave
+Heartbeat - NM,1:00,23:30,8495293,Sheffield,NM,426699987,7 Blackburn Ave
+Double A - MT,2:00,21:30,8135118,Andalusia,MT,155364473,11 Blackburn Ave
+Vitos - LA,4:00,23:00,5398405,Atmore,LA,137232003,38 Kirkland Street
+Ozzies - MA,4:00,23:30,8690771,Atmore,MA,362496111,733 Myrtle St. 
+The Underground - IN,1:30,24:00,6940129,Greenville,IN,961431425,88 Blackburn Ave
+Happy Daze - GA,4:30,24:00,7512620,Decatur,GA,741930888,50 East Vine Drive
+Heartbeat - CO,4:30,21:30,9552778,Sylacauga,CO,196870886,8 Blackburn Ave
+Tempest Bar - NE,2:30,22:00,7118822,Huntsville,NE,688486000,97 East Vine Drive
+Tavern Law - MD,3:30,22:30,7740846,Scottsboro,MD,661067715,10 East Vine Drive
+Triangle Pub - OH,4:00,23:30,4611652,Greenville,OH,827205426,60 East Vine Drive
+Happy Daze - NJ,12:30,22:30,3252512,Birmingham,NJ,882957616,88 Blackburn Ave
+The Library Sports Bar - OR,1:00,24:00,6487468,Bessemer,OR,933258982,733 Myrtle St. 
+Hazlewood - IN,1:00,24:00,5127755,Chickasaw,IN,894107887,88 Blackburn Ave
+Ozzies - MD,2:30,23:30,9497777,Greenville,MD,919782850,10 East Vine Drive
+Amelie - IA,4:00,23:30,6919239,Gadsden,IA,817300982,1 Blackburn Ave
+Angels and Kings - WV,1:00,22:00,5878916,Guntersville,WV,638526899,97 East Vine Drive
+Heartbeat - ME,1:00,23:00,4526098,Clanton,ME,558694572,12 Blackburn Ave
+The Tasting Room - NC,12:30,23:00,1807101,Demopolis,NC,143399675,88 Blackburn Ave
+Basic Kneads Pizza - ME,1:30,22:30,3434796,Dothan,ME,311291492,40 East Vine Drive
+Unphogettable - TN,1:00,23:30,3193133,Ozark,TN,999174098,11 Blackburn Ave
+Hooverville Bar - MI,4:00,23:30,4307320,Dothan,MI,603810816,50 East Vine Drive
+95 Slide - PA,2:00,22:00,8642312,Ozark,PA,125710732,17 East Vine Drive
+The Pastry War - DE,3:00,22:30,4562017,Sylacauga,DE,616650580,97 East Vine Drive
+Thai & Mighty - NC,12:30,21:30,5343971,Fort Payne,NC,580404608,1 Blackburn Ave
+Tavern Law - MO,1:30,23:30,6987076,Demopolis,MO,426187153,601 Shirley Ave
+Tin n Lint - HI,2:30,23:30,5031735,Clanton,HI,458797028,8 Blackburn Ave
+95 Slide - IL,3:00,23:30,5220344,Florence,IL,937317405,7 Blackburn Ave
+Smog Cutter - IA,3:00,22:30,3926908,Eufaula,IA,815635651,38 Kirkland Street
+Hard Times & Misery Saloon - IN,3:00,21:30,3518753,Clanton,IN,833759385,8 Blackburn Ave
+Over the Tapas - WA,1:00,21:30,9940435,Guntersville,WA,880596835,11 Blackburn Ave
+Rob Roy - IN,2:00,23:00,4150133,Marion,IN,701161690,12 Blackburn Ave
+Lava Lounge - LA,1:00,23:30,7692572,Chickasaw,LA,492935245,11 Blackburn Ave
+The Underground - MD,1:00,23:30,2118368,Sheffield,MD,954990526,50 East Vine Drive
+The Brewseum - LA,2:30,23:00,2592780,Ozark,LA,651238730,8 Blackburn Ave
+Thai & Mighty - MI,1:30,24:00,6916356,Selma,MI,715118107,97 East Vine Drive
+Beer and Loathing in Dundee - OH,2:00,23:00,9869610,Auburn,OH,975067450,11 Blackburn Ave
+Bean Me Up - ND,3:00,22:00,1449308,Ozark,ND,213380186,12 Blackburn Ave
+Triangle Pub - AR,1:30,24:00,3789726,Gadsden,AR,333589044,38 Kirkland Street
+Death & Co. - UT,2:00,21:30,6877457,Ozark,UT,945130873,7 Blackburn Ave
+The Bourbon Bar - KY,2:00,21:30,7237549,Anniston,KY,253150429,17 East Vine Drive
+Liberty - HI,12:30,21:30,9420304,Greenville,HI,440683689,88 Blackburn Ave
+Bloodhound - IL,3:30,22:00,7044498,Prichard,IL,195290440,8 Blackburn Ave
+Elixir - NM,12:30,22:30,3535392,Montgomery,NM,508226119,7 Blackburn Ave
+Happy Birthday Bar - OH,3:30,21:30,9401557,Cullman,OH,547222564,50 East Vine Drive
+Quarter Lounge - AZ,3:00,22:30,9538975,Sheffield,AZ,173692913,17 East Vine Drive
+The Fainting Goat - OR,3:00,23:00,9337266,Auburn,OR,510440775,10 East Vine Drive
+Hazlewood - WV,3:30,24:00,4997325,Atmore,WV,354711205,12 Blackburn Ave
+Amelie - KY,2:00,22:30,4251181,Jasper,KY,890062631,7 Blackburn Ave
+The Library Sports Bar - VT,12:30,21:30,6137471,Eufaula,VT,124945273,7 Blackburn Ave
+The Library Sports Bar - MN,2:30,22:00,2789431,Guntersville,MN,498920129,8 Blackburn Ave
+Ballard Loft - KY,3:30,22:00,7974084,Gadsden,KY,269884188,1 Blackburn Ave
+The Surly Wench Pub - RI,2:00,24:00,3728709,Marion,RI,663174738,97 East Vine Drive
+The Surly Wench Pub - PA,12:30,24:00,2433542,Atmore,PA,310215226,40 East Vine Drive
+Bar Cotto - MT,2:30,23:00,6578677,Talladega,MT,934835306,733 Myrtle St. 
+The Jack Saloon - NJ,3:30,23:00,8957674,Bessemer,NJ,851941191,7 Blackburn Ave
+Tin n Lint - WA,4:30,23:30,4627567,Atmore,WA,601464790,601 Shirley Ave
+Double A - MI,1:30,23:00,7332579,Phenix City,MI,170871850,38 Kirkland Street
+Bar of the Gods - UT,1:00,24:00,6471734,Prichard,UT,511823120,40 East Vine Drive
+Atomic Liquors - AK,1:00,21:30,1540125,Birmingham,AK,794578684,12 Blackburn Ave
+Lenys Place - NC,1:00,23:30,4606738,Sheffield,NC,501085581,1 Blackburn Ave
+Palmer Place - NH,3:00,23:30,8631002,Jasper,NH,943614666,88 Blackburn Ave
+21 & Cup - MN,12:30,24:00,3544055,Sylacauga,MN,673530320,17 East Vine Drive
+Bubbas Sulky Lounge - GA,2:00,22:30,6590127,Opelika,GA,273509147,40 East Vine Drive
+Noc Noc - OK,1:00,23:30,3567323,Phenix City,OK,572029500,40 East Vine Drive
+Wish You Were Beer - SD,2:00,23:00,1705185,Enterprise,SD,357818003,50 East Vine Drive
+Heartbeat - NC,4:30,23:30,5386142,Opelika,NC,701620325,733 Myrtle St. 
+Last Call Bar - NY,2:00,24:00,2704205,Sylacauga,NY,978794303,60 East Vine Drive
+Tin n Lint - FL,3:00,22:30,5911672,Gadsden,FL,795552468,9862 Wentworth St.
+Bar of the Gods - NC,4:00,22:00,1294586,Chickasaw,NC,889606717,10 East Vine Drive
+Lava Lounge - WV,4:30,22:00,4136933,Anniston,WV,386887070,60 East Vine Drive
+Death & Co. - AK,4:30,24:00,7179419,Dothan,AK,140802077,9862 Wentworth St.
+Ballard Loft - TX,2:00,24:00,5921605,Enterprise,TX,518552254,88 Blackburn Ave
+Mecca Cafe - AK,1:00,22:30,7353103,Auburn,AK,814275927,11 Blackburn Ave
+The Fainting Goat - OK,3:00,22:30,9344951,Demopolis,OK,410934977,12 Blackburn Ave
+Duchess Tavern - TX,4:30,22:00,9515977,Scottsboro,TX,512823994,50 East Vine Drive
+Bean Me Up - MO,1:00,22:30,3180328,Sylacauga,MO,759290727,10 East Vine Drive
+Liberty - CT,3:30,21:30,7081043,Jasper,CT,426892347,97 East Vine Drive
+Bean Me Up - IA,12:30,23:30,1240745,Bessemer,IA,951844475,11 Blackburn Ave
+Amelie - IL,4:00,23:30,9289483,Sheffield,IL,212565444,9862 Wentworth St.
+Bloodhound - WA,3:00,23:30,1640395,Gadsden,WA,783274434,97 East Vine Drive
+Atomic Liquors - LA,4:00,23:30,8877195,Guntersville,LA,964221282,1 Blackburn Ave
+Olive or Twist - ND,2:00,23:00,2952770,Gadsden,ND,308120252,88 Blackburn Ave
+Olde 99 - MS,4:00,23:00,7463200,Atmore,MS,939654347,17 East Vine Drive
+Tempest Bar - VA,2:30,21:30,1967968,Anniston,VA,414751602,11 Blackburn Ave
+Lenys Place - NE,12:30,22:30,8223133,Ozark,NE,196067684,50 East Vine Drive
+Lenys Place - ID,3:00,23:30,8296890,Selma,ID,580881780,11 Blackburn Ave
+Over the Tapas - HI,2:30,21:30,2762608,Gadsden,HI,724230972,17 East Vine Drive
+The Pastry War - CO,12:30,23:30,6092111,Huntsville,CO,496426450,10 East Vine Drive
+Quarter Lounge - NE,1:30,23:00,7499831,Sylacauga,NE,461165158,60 East Vine Drive
+Streamline Tavern - AR,4:30,23:30,2264743,Bessemer,AR,850140031,11 Blackburn Ave
+Beer and Loathing in Dundee - NM,3:00,24:00,5628972,Florence,NM,220667410,38 Kirkland Street
+Madison Pub - IL,12:30,21:30,2491857,Scottsboro,IL,791816871,88 Blackburn Ave
+Mission Bar - NE,1:30,23:00,5280828,Decatur,NE,877596588,733 Myrtle St. 
+Tempest Bar - MD,3:00,21:30,3423067,Enterprise,MD,478249283,12 Blackburn Ave
+Brotherhood of Thieves - MD,2:00,22:30,7456314,Marion,MD,876543578,38 Kirkland Street
+Crimson Lounge - PA,4:30,21:30,8956974,Florence,PA,772099617,38 Kirkland Street
+The Twilight Exit - ND,2:30,23:30,5137681,Andalusia,ND,723449878,17 East Vine Drive
+Grumpys Goat Shack - UT,1:00,22:00,5685669,Ozark,UT,207087899,12 Blackburn Ave
+The Library Sports Bar - WV,4:00,23:30,1874645,Dothan,WV,111675681,60 East Vine Drive
+Madison Pub - MN,1:00,21:30,2873372,Prichard,MN,114890032,50 East Vine Drive
+Potters Lounde - WA,3:30,21:30,3536458,Cullman,WA,834678480,1 Blackburn Ave
+The Billy Goat Tavern - NM,1:00,22:30,1845558,Sheffield,NM,208490425,12 Blackburn Ave
+95 Slide - ME,1:30,24:00,7260932,Gadsden,ME,213820381,733 Myrtle St. 
+Double A - WV,2:00,21:30,3327759,Phenix City,WV,450887547,17 East Vine Drive
+Lenys Place - MS,4:30,23:00,9192265,Dothan,MS,350285673,40 East Vine Drive
+The Bourbon Bar - IN,4:00,21:30,9886970,Huntsville,IN,235623167,17 East Vine Drive
+The Bourbon Bar - CO,1:30,23:30,4659958,Clanton,CO,730409740,8 Blackburn Ave
+Hop Sing Laundromat - CO,3:00,24:00,3479059,Jasper,CO,718895332,12 Blackburn Ave
+Angels and Kings - IL,2:00,23:30,6748547,Mobile,IL,855588227,733 Myrtle St. 
+Angels and Kings - NV,3:00,23:00,1713379,Guntersville,NV,500286224,60 East Vine Drive
+Lone Palm - MA,3:30,21:30,1572293,Demopolis,MA,490752916,38 Kirkland Street
+Rossis - NY,2:30,24:00,7172846,Eufaula,NY,356201055,12 Blackburn Ave
+Lenys Place - NV,2:30,23:00,3937964,Auburn,NV,507338202,733 Myrtle St. 
+The Tipsy Cow - MD,1:30,22:00,7471829,Demopolis,MD,860030146,17 East Vine Drive
+Elixir - HI,12:30,23:00,2759507,Marion,HI,546864850,50 East Vine Drive
+The Tipsy Cow - KY,4:00,23:00,4030998,Clanton,KY,724235990,17 East Vine Drive
+Mongoose Versus Cobra - HI,1:30,23:30,6519573,Gadsden,HI,193461691,1 Blackburn Ave
+Thai & Mighty - NE,2:30,22:30,5097916,Auburn,NE,624242401,12 Blackburn Ave
+Dutch Kills - NM,3:30,22:00,9378138,Sheffield,NM,971111635,17 East Vine Drive
+Shortys - OH,1:00,21:30,7350593,Opelika,OH,732342261,8 Blackburn Ave
+Bubbas Sulky Lounge - NV,3:00,23:30,2635378,Guntersville,NV,928945376,17 East Vine Drive
+Bubbas Sulky Lounge - RI,1:30,21:30,9487225,Ozark,RI,694597122,38 Kirkland Street
+Quarter Lounge - ND,2:30,22:00,8805056,Montgomery,ND,903043816,733 Myrtle St. 
+The Pitch & Roll - OR,1:30,24:00,1218875,Fort Payne,OR,734117848,733 Myrtle St. 
+The Grizzled Wizard - PA,1:30,22:00,6350152,Marion,PA,563957332,733 Myrtle St. 
+Quarter Lounge - NM,4:30,21:30,5179004,Andalusia,NM,645998333,733 Myrtle St. 
+The Sitting Room - UT,2:30,21:30,1838493,Atmore,UT,634061346,88 Blackburn Ave
+Olde 99 - OK,1:00,22:00,5962469,Dothan,OK,400107434,733 Myrtle St. 
+21 & Cup - AR,12:30,23:30,6723529,Decatur,AR,128198940,10 East Vine Drive
+Rye - TX,2:30,21:30,7056004,Auburn,TX,117920282,17 East Vine Drive
+Mongoose Versus Cobra - NE,3:30,24:00,1910681,Talladega,NE,976926470,40 East Vine Drive
+Madison Pub - OH,3:00,22:00,5628309,Andalusia,OH,887853817,40 East Vine Drive
+Mission Bar - CT,3:30,23:00,1921846,Guntersville,CT,693057980,17 East Vine Drive
+The Grackle - MO,12:30,23:00,7754504,Enterprise,MO,912018907,7 Blackburn Ave
+Fireside Bar - CT,1:00,22:30,6270383,Demopolis,CT,838448476,8 Blackburn Ave
+Moon Work - IA,4:30,21:30,5104375,Florence,IA,325935274,17 East Vine Drive
+Bean Me Up - MT,3:30,24:00,9180012,Anniston,MT,124580969,60 East Vine Drive
+Mecca Cafe - VT,1:00,22:30,2258203,Prichard,VT,846371428,38 Kirkland Street
+Angels and Kings - IA,4:30,22:00,4673912,Selma,IA,681236736,60 East Vine Drive
+Dutch Kills - OR,3:30,21:30,5189256,Montgomery,OR,566635053,11 Blackburn Ave
+The Pastry War - ME,2:30,23:30,1331426,Andalusia,ME,257229536,38 Kirkland Street
+The Crescent Lounge - MA,12:30,23:00,3438926,Mobile,MA,898842092,17 East Vine Drive
+Happy Daze - IL,1:00,23:30,5537859,Scottsboro,IL,939188854,17 East Vine Drive
+Smog Cutter - MT,4:30,21:30,8959460,Dothan,MT,686570927,9862 Wentworth St.
+Duchess Tavern - OK,2:30,23:00,2776504,Enterprise,OK,801457159,11 Blackburn Ave
+Lenys Place - IA,2:00,22:00,9444010,Atmore,IA,738164191,50 East Vine Drive
+Grumpys Goat Shack - AZ,3:30,21:30,4255715,Gadsden,AZ,565860087,38 Kirkland Street
+Bar Cotto - TX,3:30,21:30,2200428,Montgomery,TX,795124752,601 Shirley Ave
+The Tipsy Cow - DE,3:30,22:00,4980313,Selma,DE,798298919,50 East Vine Drive
+The Underground - IA,3:00,22:30,2102172,Chickasaw,IA,369484865,7 Blackburn Ave
+Brotherhood of Thieves - AR,3:30,22:30,3017023,Chickasaw,AR,900480309,11 Blackburn Ave
+The Sitting Room - IA,4:30,22:30,7830323,Clanton,IA,103181641,733 Myrtle St. 
+Hard Times & Misery Saloon - MA,2:00,22:00,5179015,Fort Payne,MA,821220761,7 Blackburn Ave
+The Monkey Farm Cafe - ID,4:30,21:30,8886658,Greenville,ID,617861386,88 Blackburn Ave
+Amelie - WV,2:30,24:00,8373193,Demopolis,WV,815584758,11 Blackburn Ave
+The Surly Wench Pub - VT,4:30,21:30,3401199,Mobile,VT,432360293,97 East Vine Drive
+Bloodhound - VA,4:30,23:30,6482164,Bessemer,VA,535107213,733 Myrtle St. 
+Wish You Were Beer - MA,2:00,22:00,4619858,Atmore,MA,159513211,38 Kirkland Street
+Happy Birthday Bar - NV,4:00,24:00,5159730,Dothan,NV,872887817,97 East Vine Drive
+Bean Me Up - HI,1:30,21:30,7285170,Jasper,HI,518269859,1 Blackburn Ave
+Shortys - NM,2:00,23:30,7114440,Enterprise,NM,193973964,11 Blackburn Ave
+Happy Birthday Bar - AR,3:00,21:30,8975398,Bessemer,AR,901034242,8 Blackburn Ave
+Bubbas Sulky Lounge - VT,3:00,21:30,6225826,Chickasaw,VT,374976231,601 Shirley Ave
+The Red, White, and Brew - CA,3:30,23:00,2160227,Sylacauga,CA,846872967,17 East Vine Drive
+Hard Times & Misery Saloon - MT,4:30,23:00,6276693,Montgomery,MT,479238673,88 Blackburn Ave
+Last Call Bar - GA,2:30,23:00,6902409,Sylacauga,GA,455192458,11 Blackburn Ave
+Lava Lounge - FL,4:30,22:30,4552899,Guntersville,FL,330396616,601 Shirley Ave
+Shortys - SC,3:30,21:30,9911366,Dothan,SC,912723712,8 Blackburn Ave
+Bean Me Up - IL,2:00,21:30,4717858,Guntersville,IL,861000465,1 Blackburn Ave
+The Library Sports Bar - NJ,3:30,24:00,3033515,Sheffield,NJ,664749601,12 Blackburn Ave
+Ozzies - OK,4:30,22:00,3539477,Prichard,OK,672093871,11 Blackburn Ave
+Angels and Kings - MN,2:00,22:30,6995889,Eufaula,MN,855980410,60 East Vine Drive
+The Brewseum - NJ,2:00,21:30,2840328,Gadsden,NJ,393075913,60 East Vine Drive
+Rossis - ND,4:30,21:30,4488555,Prichard,ND,652019853,40 East Vine Drive
+The Monkey Farm Cafe - UT,4:30,21:30,8935466,Jasper,UT,107162318,601 Shirley Ave
+The Cask - DE,4:00,21:30,8673912,Fort Payne,DE,286075444,40 East Vine Drive
+Bar of the Gods - FL,1:30,23:00,8691918,Gadsden,FL,681245503,50 East Vine Drive
+Lone Palm - CT,2:00,22:00,3900531,Andalusia,CT,835443825,17 East Vine Drive
+Tin n Lint - IN,2:00,22:00,2171995,Talladega,IN,305763635,9862 Wentworth St.
+Brew Ha Ha - NH,2:30,24:00,2045311,Enterprise,NH,315545543,10 East Vine Drive
+Moe Bar - VT,3:00,23:00,6260911,Demopolis,VT,955559682,40 East Vine Drive
+Benders Bar and Grill - KY,4:30,22:00,5156422,Greenville,KY,656072622,1 Blackburn Ave
+Atomic Liquors - AZ,3:00,22:00,8537297,Cullman,AZ,530198523,40 East Vine Drive
+Moe Bar - IA,4:30,22:00,4271359,Fort Payne,IA,861661783,7 Blackburn Ave
+Bubbas Sulky Lounge - DE,2:00,22:00,4939276,Phenix City,DE,343038276,17 East Vine Drive
+The Jack Saloon - NY,4:00,21:30,7935599,Marion,NY,911906328,50 East Vine Drive
+Crimson Lounge - HI,3:00,23:00,5890063,Birmingham,HI,523081623,7 Blackburn Ave
+21 & Cup - RI,4:00,22:00,3509640,Jasper,RI,381421743,17 East Vine Drive
+95 Slide - SC,2:00,23:00,8023653,Fort Payne,SC,888552004,17 East Vine Drive
+The Bourbon Bar - SC,4:00,24:00,9013693,Jasper,SC,385363757,38 Kirkland Street
+Bloodhound - FL,1:00,24:00,2143515,Dothan,FL,101984280,12 Blackburn Ave
+Hooverville Bar - NE,1:00,22:00,2295633,Opelika,NE,367765287,17 East Vine Drive
+The Red, White, and Brew - NE,2:30,22:00,7426025,Cullman,NE,770221128,1 Blackburn Ave
+Lone Palm - TX,1:30,24:00,5570165,Marion,TX,975675029,10 East Vine Drive
+Hard Times & Misery Saloon - DE,2:00,21:30,5196473,Huntsville,DE,156344937,9862 Wentworth St.
+Triangle Pub - KS,3:00,24:00,9671493,Auburn,KS,955261846,60 East Vine Drive
+Shortys - IN,1:30,21:30,1709718,Clanton,IN,218580731,17 East Vine Drive
+Noc Noc - TN,1:30,23:30,9444271,Prichard,TN,600914608,1 Blackburn Ave
+The Tasting Room - IN,1:30,23:00,6502085,Andalusia,IN,578204080,8 Blackburn Ave
+Lenys Place - TN,3:30,21:30,1043823,Andalusia,TN,386388040,60 East Vine Drive
+Rossis - ME,12:30,23:30,8456158,Sheffield,ME,156069133,601 Shirley Ave
+Smog Cutter - NM,12:30,23:30,5806348,Enterprise,NM,395686824,40 East Vine Drive
+The Grackle - MD,4:30,23:30,3904667,Guntersville,MD,377330850,40 East Vine Drive
+The Peoples Republik - ND,2:00,22:30,6603135,Ozark,ND,635347006,17 East Vine Drive
+Boxcar Ale House - NM,3:30,24:00,6346022,Athens,NM,495630353,60 East Vine Drive
+The Library Sports Bar - IA,4:30,21:30,9762492,Auburn,IA,195571726,12 Blackburn Ave
+Grumpys Goat Shack - PA,2:00,21:30,6032120,Montgomery,PA,587064851,11 Blackburn Ave
+The Sitting Room - MD,12:30,22:00,6930128,Atmore,MD,805675254,88 Blackburn Ave
+Dutch Kills - DE,1:30,23:30,4381860,Enterprise,DE,883876688,17 East Vine Drive
+Over the Tapas - AZ,3:00,22:00,4279632,Demopolis,AZ,438705442,50 East Vine Drive
+Olde 99 - AR,4:30,23:00,8172134,Florence,AR,133449389,17 East Vine Drive
+Over the Tapas - WV,1:00,21:30,9147986,Athens,WV,486582097,7 Blackburn Ave
+The Surly Wench Pub - VA,1:30,21:30,3134954,Guntersville,VA,461101475,60 East Vine Drive
+Lone Palm - IN,4:00,24:00,2489869,Atmore,IN,496125743,733 Myrtle St. 
+Mongoose Versus Cobra - KY,4:00,23:00,2189101,Fort Payne,KY,359017348,17 East Vine Drive
+Atomic Liquors - CO,12:30,23:00,7157384,Scottsboro,CO,702575105,97 East Vine Drive
+Boxcar Ale House - AK,2:00,21:30,9012162,Anniston,AK,200902177,40 East Vine Drive
+The Sitting Room - VT,12:30,24:00,7815352,Enterprise,VT,345040877,97 East Vine Drive
+Bubbas Sulky Lounge - MN,3:00,23:00,9703546,Atmore,MN,641789597,40 East Vine Drive
+Happy Birthday Bar - VT,1:30,23:30,3779635,Dothan,VT,697968255,40 East Vine Drive
+The Fainting Goat - CT,2:00,21:30,2781597,Marion,CT,915820525,733 Myrtle St. 
+Happy Birthday Bar - LA,2:30,23:30,7713458,Prichard,LA,270665229,17 East Vine Drive
+The Red, White, and Brew - MO,2:30,22:00,1947761,Montgomery,MO,185450409,733 Myrtle St. 
+Brew Ha Ha - CO,4:00,22:30,5730376,Demopolis,CO,157032187,38 Kirkland Street
+Bandits Bar - IN,1:30,22:30,5230956,Guntersville,IN,455908544,733 Myrtle St. 
+The Fainting Goat - IN,2:30,23:30,2503677,Opelika,IN,599315369,1 Blackburn Ave
+Hooverville Bar - MD,12:30,23:00,6656519,Greenville,MD,804697505,10 East Vine Drive
+The Hideout - LA,3:00,22:00,2243962,Jasper,LA,342605643,12 Blackburn Ave
+Bean Me Up - KS,2:30,21:30,4903381,Greenville,KS,751995986,97 East Vine Drive
+The Hideout - CO,2:00,22:00,4075710,Atmore,CO,375185192,9862 Wentworth St.
+Aesops Tables - PA,1:00,24:00,7766622,Birmingham,PA,877083551,50 East Vine Drive
+Ballard Loft - MO,2:00,21:30,3224832,Chickasaw,MO,811436087,17 East Vine Drive
+Moe Bar - HI,4:30,24:00,3108115,Auburn,HI,250952789,88 Blackburn Ave
+Noc Noc - NH,2:30,22:00,7512074,Montgomery,NH,154082186,97 East Vine Drive
+Quarter Lounge - DE,4:30,23:00,3061531,Sheffield,DE,184231923,10 East Vine Drive
+Palmer Place - WA,12:30,21:30,8203639,Dothan,WA,378060783,733 Myrtle St. 
+The Peoples Republik - SC,1:30,24:00,4339382,Atmore,SC,646586979,17 East Vine Drive
+Death & Co. - NY,2:30,22:00,5771069,Demopolis,NY,264763055,11 Blackburn Ave
+The Pastry War - AR,3:00,23:30,4232224,Cullman,AR,301094914,8 Blackburn Ave
+Tempest Bar - OR,4:30,24:00,9336842,Auburn,OR,924707681,17 East Vine Drive
+The Underground - SD,3:30,23:00,6306924,Eufaula,SD,908630883,17 East Vine Drive
+Jumbos Clown Room - CO,3:30,24:00,4566325,Clanton,CO,850775902,60 East Vine Drive
+The Brewseum - CA,4:00,22:00,5969888,Prichard,CA,212957753,12 Blackburn Ave
+Aesops Tables - NE,2:30,24:00,1766066,Fort Payne,NE,321878062,60 East Vine Drive
+Mission Bar - AZ,3:30,23:00,8763025,Bessemer,AZ,643601186,733 Myrtle St. 
+The Brewseum - WA,1:30,21:30,1005217,Demopolis,WA,253709540,17 East Vine Drive
+Bar of the Gods - MN,1:00,23:30,8751831,Cullman,MN,629989719,38 Kirkland Street
+Mustards Last Stand - ID,1:00,22:00,9524671,Auburn,ID,743373144,60 East Vine Drive
+The Brewseum - SD,4:00,23:30,5181503,Florence,SD,458040095,10 East Vine Drive
+Death & Co. - ME,2:30,21:30,9918947,Athens,ME,882231863,17 East Vine Drive
+Mustards Last Stand - PA,2:30,22:30,8869973,Greenville,PA,775050533,1 Blackburn Ave
+The Bourbon Bar - MS,3:30,22:00,1147966,Eufaula,MS,253171736,17 East Vine Drive
+Bar Cotto - WV,4:00,23:30,5372508,Gadsden,WV,270734101,601 Shirley Ave
+The Red, White, and Brew - ID,2:00,24:00,6905676,Selma,ID,115321262,733 Myrtle St. 
+The Brewseum - NY,2:30,24:00,3520474,Birmingham,NY,485728077,9862 Wentworth St.
+The Underground - NV,3:00,24:00,3238599,Marion,NV,327880850,38 Kirkland Street
+Men at Wok - NJ,1:30,21:30,8760016,Demopolis,NJ,797915041,10 East Vine Drive
+The Cask - AK,2:30,23:30,6986689,Demopolis,AK,700623329,40 East Vine Drive
+Mustards Last Stand - MT,12:30,22:30,1310080,Marion,MT,293864591,601 Shirley Ave
+The Brewseum - MD,1:00,22:00,2577391,Clanton,MD,560694503,17 East Vine Drive
+Jumbos Clown Room - MA,3:00,21:30,8921715,Andalusia,MA,701484230,60 East Vine Drive
+Tempest Bar - IA,2:00,23:00,2415777,Montgomery,IA,222392174,38 Kirkland Street
+Palmer Place - MA,1:00,21:30,1287181,Florence,MA,512893617,7 Blackburn Ave
+Noc Noc - MI,4:00,23:00,8678234,Mobile,MI,317947674,9862 Wentworth St.
+Wish You Were Beer - ME,3:00,22:30,6806585,Ozark,ME,749840105,733 Myrtle St. 
+The Tasting Room - ID,3:00,24:00,8849685,Huntsville,ID,437719907,17 East Vine Drive
+The Sitting Room - AK,4:30,22:00,6355073,Jasper,AK,356606446,7 Blackburn Ave
+Olde 99 - VA,4:30,22:30,6176449,Scottsboro,VA,298270555,40 East Vine Drive
+Bean Me Up - DE,3:00,24:00,8003987,Guntersville,DE,945110272,8 Blackburn Ave
+Bar of the Gods - CT,4:00,22:30,4830942,Cullman,CT,167230587,10 East Vine Drive
+Cantina - WV,2:00,21:30,3901032,Gadsden,WV,390295977,733 Myrtle St. 
+The Billy Goat Tavern - NE,1:30,24:00,5685402,Andalusia,NE,121248417,97 East Vine Drive
+Mission Bar - CO,1:00,22:30,1370854,Huntsville,CO,394457587,10 East Vine Drive
+Lone Palm - NE,2:30,21:30,5959747,Atmore,NE,530762007,601 Shirley Ave
+Unphogettable - NV,2:00,23:00,8023838,Gadsden,NV,851990370,7 Blackburn Ave
+Ballard Loft - WV,1:30,23:30,9649492,Florence,WV,969980664,8 Blackburn Ave
+Bar of the Gods - SC,1:00,24:00,6892044,Enterprise,SC,341728118,10 East Vine Drive
+The Jack Saloon - HI,4:00,24:00,7631741,Scottsboro,HI,545238742,40 East Vine Drive
+Shortys - NC,3:30,22:00,3715132,Cullman,NC,130158595,88 Blackburn Ave
+The Hideout - NY,12:30,22:00,8876772,Eufaula,NY,884277069,38 Kirkland Street
+Mustards Last Stand - CT,3:30,22:00,8814682,Andalusia,CT,359526792,38 Kirkland Street
+Bar of the Gods - ID,2:30,23:00,3434327,Clanton,ID,777352502,50 East Vine Drive
+Happy Daze - FL,1:30,24:00,1712304,Fort Payne,FL,177295895,9862 Wentworth St.
+Unphogettable - CT,4:30,24:00,7648149,Clanton,CT,434060661,7 Blackburn Ave
+Moon Work - AZ,3:00,21:30,7378749,Eufaula,AZ,638869519,17 East Vine Drive
+Lenys Place - OK,3:00,22:00,4427286,Enterprise,OK,868768104,60 East Vine Drive
+Quarter Lounge - MI,3:00,22:00,1796240,Selma,MI,665586842,17 East Vine Drive
+Basic Kneads Pizza - NC,2:00,23:30,9175946,Decatur,NC,280749956,88 Blackburn Ave
+Men at Wok - AK,1:30,23:30,6220163,Chickasaw,AK,590404489,8 Blackburn Ave
+Olive or Twist - MI,4:00,22:00,8608605,Sheffield,MI,525638314,97 East Vine Drive
+Beer and Loathing in Dundee - NE,12:30,23:00,8798200,Sheffield,NE,549933549,88 Blackburn Ave
+Brews Brothers - NH,3:30,21:30,8483214,Marion,NH,258320135,1 Blackburn Ave
+The Cask - OR,12:30,24:00,5382582,Eufaula,OR,834329155,1 Blackburn Ave
+The Billy Goat Tavern - NC,3:00,22:00,3595869,Bessemer,NC,538299048,50 East Vine Drive
+Rye - FL,12:30,23:00,1160157,Montgomery,FL,251803669,12 Blackburn Ave
+Bloodhound - ND,2:30,23:00,8028257,Selma,ND,573031659,1 Blackburn Ave
+Beer and Loathing in Dundee - MD,3:30,22:00,5952452,Eufaula,MD,944242223,601 Shirley Ave
+Dutch Kills - VA,12:30,23:00,7144129,Cullman,VA,727609918,10 East Vine Drive
+The Crescent Lounge - DE,2:30,22:30,8197052,Atmore,DE,196375523,17 East Vine Drive
+Potters Lounde - NV,2:30,23:30,6821392,Jasper,NV,880173063,17 East Vine Drive
+21 & Cup - MT,12:30,23:00,1559282,Bessemer,MT,275217575,38 Kirkland Street
+The Tipsy Cow - ND,2:00,21:30,8373706,Birmingham,ND,904919262,97 East Vine Drive
+Moon Work - RI,12:30,22:30,2483591,Auburn,RI,231510406,10 East Vine Drive
+95 Slide - OK,1:30,22:30,6437727,Andalusia,OK,116541938,50 East Vine Drive
+Dutch Kills - ME,2:30,22:30,4829452,Opelika,ME,143113797,601 Shirley Ave
+Hop Sing Laundromat - NY,4:30,22:00,5816019,Atmore,NY,519630349,17 East Vine Drive
+Smog Cutter - OR,1:00,21:30,4343791,Guntersville,OR,641292187,17 East Vine Drive
+Bubbas Sulky Lounge - NE,4:30,22:30,3058777,Athens,NE,239984512,60 East Vine Drive
+Crimson Lounge - OK,3:00,24:00,7741361,Phenix City,OK,642127985,601 Shirley Ave
+Dutch Kills - HI,4:30,24:00,4817181,Anniston,HI,848893765,12 Blackburn Ave
+21 & Cup - FL,2:00,23:30,3127883,Birmingham,FL,448647039,11 Blackburn Ave
+The Tasting Room - MO,4:00,21:30,6771852,Athens,MO,581304911,9862 Wentworth St.
+The Fainting Goat - AZ,2:00,23:00,1571400,Bessemer,AZ,366940949,97 East Vine Drive
+Basic Kneads Pizza - PA,4:30,23:30,1677132,Guntersville,PA,341862011,17 East Vine Drive
+Bean Me Up - IN,4:30,22:30,2051181,Eufaula,IN,916314551,7 Blackburn Ave
+Hot Bird - PA,1:30,21:30,1737900,Prichard,PA,270358828,17 East Vine Drive
+Hop Sing Laundromat - CT,4:30,24:00,6909558,Dothan,CT,576029687,17 East Vine Drive
+Happy Daze - NY,1:30,21:30,6597045,Enterprise,NY,984383723,50 East Vine Drive
+Beer and Loathing in Dundee - ID,1:00,24:00,4533364,Clanton,ID,935978408,60 East Vine Drive
+The Library Sports Bar - IN,1:00,23:30,7345379,Mobile,IN,319220528,40 East Vine Drive
+Mission Bar - HI,12:30,22:00,1565824,Guntersville,HI,206635159,10 East Vine Drive
+Liberty - NH,3:30,22:00,3377210,Scottsboro,NH,993831760,60 East Vine Drive
+Vitos - MS,4:30,23:30,9006591,Andalusia,MS,442403135,1 Blackburn Ave
+Atomic Liquors - ID,3:00,23:00,4053695,Florence,ID,269239616,601 Shirley Ave
+Palmer Place - ND,3:00,23:00,1087280,Florence,ND,541012721,88 Blackburn Ave
+Hooverville Bar - MO,4:30,23:30,8013371,Auburn,MO,615473394,60 East Vine Drive
+Wish You Were Beer - UT,4:30,21:30,9532809,Huntsville,UT,901272562,8 Blackburn Ave
+The Hideout - GA,2:00,21:30,1421545,Chickasaw,GA,563583209,40 East Vine Drive
+Hazlewood - HI,2:00,22:00,1611179,Chickasaw,HI,724358111,38 Kirkland Street
+Benders Bar and Grill - KS,12:30,22:00,6277647,Guntersville,KS,921676859,10 East Vine Drive
+Bean Me Up - NC,3:00,22:00,5565052,Marion,NC,361920379,60 East Vine Drive
+The Fainting Goat - AK,1:00,21:30,4348193,Mobile,AK,331201976,50 East Vine Drive
+The Tasting Room - LA,4:00,24:00,7651990,Dothan,LA,886250845,12 Blackburn Ave
+Heartbeat - IA,12:30,23:00,3077647,Sheffield,IA,891743119,97 East Vine Drive
+The Jack Saloon - IN,12:30,24:00,4279424,Decatur,IN,568318538,10 East Vine Drive
+Hooverville Bar - WV,2:30,24:00,8252416,Enterprise,WV,520613561,10 East Vine Drive
+Jumbos Clown Room - WV,12:30,22:00,1866188,Ozark,WV,935650402,40 East Vine Drive
+The Grizzled Wizard - NM,4:00,23:30,9983622,Birmingham,NM,997732505,50 East Vine Drive
+Last Call Bar - MT,2:00,22:00,5208054,Clanton,MT,769391812,40 East Vine Drive
+Aesops Tables - OK,3:30,24:00,6372266,Gadsden,OK,590658033,97 East Vine Drive
+Fireside Bar - TX,12:30,22:00,6620970,Enterprise,TX,369632061,10 East Vine Drive
+Bandits Bar - NM,1:30,23:30,2229316,Decatur,NM,840566021,88 Blackburn Ave
+Beer and Loathing in Dundee - KS,1:30,23:30,4567966,Bessemer,KS,853900341,7 Blackburn Ave
+Rob Roy - WV,4:30,22:00,8004769,Bessemer,WV,998074743,10 East Vine Drive
+Crimson Lounge - WA,4:30,22:00,6824423,Decatur,WA,225112150,17 East Vine Drive
+The Sitting Room - ID,3:30,22:30,8483950,Decatur,ID,942979923,1 Blackburn Ave
+95 Slide - NM,3:00,22:00,4942665,Opelika,NM,371086056,17 East Vine Drive
+Beer and Loathing in Dundee - LA,2:30,23:30,6213991,Mobile,LA,592171656,60 East Vine Drive
+The Grizzled Wizard - AK,3:00,22:00,7033893,Ozark,AK,611830686,17 East Vine Drive
+Hop Sing Laundromat - KS,4:30,22:00,2003978,Florence,KS,410645131,8 Blackburn Ave
+Bar Cotto - CA,2:00,21:30,8552081,Athens,CA,129755798,1 Blackburn Ave
+Beer and Loathing in Dundee - NY,4:30,23:00,9078851,Demopolis,NY,954611711,60 East Vine Drive
+Dutch Kills - FL,4:30,21:30,8671506,Auburn,FL,857722183,88 Blackburn Ave
+Elixir - CO,1:00,22:00,1277113,Bessemer,CO,373495533,1 Blackburn Ave
+Moon Work - VT,3:30,23:00,2700745,Fort Payne,VT,222047373,38 Kirkland Street
+Brotherhood of Thieves - IL,2:00,21:30,3405677,Demopolis,IL,659023166,601 Shirley Ave
+Atomic Liquors - OH,4:00,22:00,3871821,Eufaula,OH,856179249,17 East Vine Drive
+Beer and Loathing in Dundee - OK,4:00,22:30,1782810,Huntsville,OK,646717216,40 East Vine Drive
+The Peoples Republik - IN,2:30,22:00,5073779,Auburn,IN,615836514,8 Blackburn Ave
+Thai & Mighty - CT,3:30,22:00,8336396,Atmore,CT,372562847,50 East Vine Drive
+Wish You Were Beer - ND,1:00,24:00,9061052,Mobile,ND,151034091,12 Blackburn Ave
+Potters Lounde - NM,4:00,24:00,7743828,Ozark,NM,865016576,50 East Vine Drive
+The Twilight Exit - MN,12:30,21:30,5392794,Huntsville,MN,702558760,40 East Vine Drive
+Lava Lounge - AK,2:30,21:30,5298810,Phenix City,AK,588200806,40 East Vine Drive
+Streamline Tavern - NH,2:30,24:00,4410631,Phenix City,NH,642336200,88 Blackburn Ave
+The Twilight Exit - MA,1:30,24:00,6983326,Bessemer,MA,448864116,97 East Vine Drive
+Open Sesame - OR,12:30,23:00,8787916,Birmingham,OR,536649626,1 Blackburn Ave
+Mongoose Versus Cobra - IN,1:30,22:00,6177541,Prichard,IN,909266832,97 East Vine Drive
+Cantina - MI,1:30,21:30,5413046,Auburn,MI,424091259,12 Blackburn Ave
+Dutch Kills - MT,4:30,22:30,9197514,Greenville,MT,697727700,1 Blackburn Ave
+Ozzies - NH,4:30,23:00,4048544,Sylacauga,NH,503961426,8 Blackburn Ave
+Hard Times & Misery Saloon - GA,2:30,22:00,6980751,Decatur,GA,119359831,7 Blackburn Ave
+Rossis - MO,1:30,22:30,5487548,Opelika,MO,216400606,8 Blackburn Ave
+Moon Work - OH,2:00,24:00,8100865,Auburn,OH,607179116,733 Myrtle St. 
+Open Sesame - FL,1:00,22:30,3861595,Huntsville,FL,513671888,12 Blackburn Ave
+The Monkey Farm Cafe - NM,2:30,21:30,1727954,Cullman,NM,143637785,40 East Vine Drive
+Streamline Tavern - TN,1:30,22:00,8434546,Sheffield,TN,923341998,1 Blackburn Ave
+The Sitting Room - HI,3:30,23:30,4593192,Huntsville,HI,483921534,7 Blackburn Ave
+Tin n Lint - NC,2:00,21:30,6219007,Huntsville,NC,619793593,88 Blackburn Ave
+Palmer Place - DE,12:30,23:30,3563426,Clanton,DE,588334515,601 Shirley Ave
+The Grizzled Wizard - ND,3:00,23:00,8064846,Selma,ND,133178966,8 Blackburn Ave
+The Grizzled Wizard - AR,3:30,23:00,9328161,Sheffield,AR,657704732,12 Blackburn Ave
+The Jack Saloon - MO,4:30,22:00,4060054,Decatur,MO,521315564,97 East Vine Drive
+The Surly Wench Pub - UT,12:30,23:30,7900810,Huntsville,UT,238598618,60 East Vine Drive
+Jumbos Clown Room - NC,12:30,23:00,7460788,Demopolis,NC,582574161,1 Blackburn Ave
+Bar Cotto - IL,2:30,21:30,1790004,Ozark,IL,587744653,97 East Vine Drive
+Rossis - GA,1:00,22:00,9778916,Mobile,GA,321986028,40 East Vine Drive
+Atomic Liquors - KY,1:00,21:30,1900259,Phenix City,KY,485247553,17 East Vine Drive
+The Crescent Lounge - MI,12:30,23:00,1956391,Clanton,MI,597268878,97 East Vine Drive
+The Sitting Room - KS,3:00,23:00,1817670,Birmingham,KS,128169687,38 Kirkland Street
+The Sitting Room - FL,1:00,23:30,4741856,Athens,FL,535829861,11 Blackburn Ave
+Ballard Loft - IN,2:30,22:30,3727460,Enterprise,IN,192628604,10 East Vine Drive
+Mecca Cafe - SD,4:00,23:30,4961114,Fort Payne,SD,284833549,1 Blackburn Ave
+Liberty - OH,2:00,23:00,7465759,Ozark,OH,335475563,17 East Vine Drive
+95 Slide - IA,3:00,24:00,6102158,Dothan,IA,348847129,7 Blackburn Ave
+Streamline Tavern - MN,4:00,22:00,8373827,Cullman,MN,565882664,38 Kirkland Street
+Vitos - DE,12:30,22:30,2425342,Clanton,DE,758856633,7 Blackburn Ave
+Duchess Tavern - NH,3:30,22:00,6403425,Greenville,NH,358803878,17 East Vine Drive
+Hooverville Bar - CT,3:00,24:00,3795335,Phenix City,CT,160154489,40 East Vine Drive
+The Hideout - NC,4:30,21:30,1649532,Sheffield,NC,525454495,12 Blackburn Ave
+Palmer Place - RI,1:30,21:30,6458161,Anniston,RI,571215801,733 Myrtle St. 
+Over the Tapas - PA,3:00,23:30,5430422,Clanton,PA,979972924,17 East Vine Drive
+The Bourbon Bar - NM,3:00,23:30,4639987,Ozark,NM,305191279,10 East Vine Drive
+Bean Me Up - CT,2:30,23:00,2701385,Decatur,CT,649902687,88 Blackburn Ave
+Hazlewood - RI,4:30,21:30,7893094,Demopolis,RI,343690984,40 East Vine Drive
+Hazlewood - NY,3:30,23:00,3627220,Dothan,NY,574867345,9862 Wentworth St.
+21 & Cup - AK,3:00,23:00,8213821,Fort Payne,AK,784799462,97 East Vine Drive
+Olde 99 - OH,4:00,21:30,8322043,Fort Payne,OH,257166755,11 Blackburn Ave
+Dutch Kills - MI,4:30,22:30,8849263,Eufaula,MI,658798541,17 East Vine Drive
+Rob Roy - IL,2:00,23:00,2255792,Ozark,IL,588490620,733 Myrtle St. 
+Hard Times & Misery Saloon - NJ,4:30,22:30,6243058,Cullman,NJ,418748006,38 Kirkland Street
+Hazlewood - NH,2:00,23:00,3090169,Huntsville,NH,487963822,10 East Vine Drive
+The Tipsy Cow - NM,2:30,23:30,9108096,Eufaula,NM,169576935,11 Blackburn Ave
+Death & Co. - MO,12:30,23:30,5714399,Chickasaw,MO,469812039,1 Blackburn Ave
+Atomic Liquors - UT,1:00,24:00,4223399,Dothan,UT,539642733,11 Blackburn Ave
+The Hideout - MO,2:30,22:00,7002432,Talladega,MO,533951319,60 East Vine Drive
+Duchess Tavern - MA,3:30,23:00,3620900,Bessemer,MA,564424187,11 Blackburn Ave
+The Cask - SC,4:00,21:30,7744464,Clanton,SC,335711293,50 East Vine Drive
+Moe Bar - NJ,3:30,23:30,4921107,Huntsville,NJ,977660447,10 East Vine Drive
+Basic Kneads Pizza - TN,3:00,21:30,3767844,Gadsden,TN,803343703,601 Shirley Ave
+Mongoose Versus Cobra - IL,2:00,24:00,7784415,Jasper,IL,643023457,40 East Vine Drive
+Boxcar Ale House - MA,12:30,21:30,7026264,Decatur,MA,648336388,88 Blackburn Ave
+The Billy Goat Tavern - UT,2:30,22:00,8985352,Fort Payne,UT,879640348,1 Blackburn Ave
+Over the Tapas - MA,3:00,23:30,9109218,Guntersville,MA,657236995,60 East Vine Drive
+Comet Tavern - MI,1:30,23:30,1187398,Montgomery,MI,381694472,60 East Vine Drive
+The Red, White, and Brew - MS,1:00,24:00,2221067,Phenix City,MS,799260800,8 Blackburn Ave
+Lenys Place - SC,4:30,22:00,2460155,Florence,SC,131444520,601 Shirley Ave
+Bean Me Up - ID,3:30,23:00,9994490,Decatur,ID,602862782,17 East Vine Drive
+Smog Cutter - MS,12:30,23:30,9943217,Sylacauga,MS,829335009,88 Blackburn Ave
+Palmer Place - VA,1:30,22:00,4999158,Montgomery,VA,881812091,8 Blackburn Ave
+The Jack Saloon - OH,1:30,22:30,8095163,Chickasaw,OH,712145239,601 Shirley Ave
+Hooverville Bar - IN,3:30,22:00,7587282,Chickasaw,IN,414704052,10 East Vine Drive
+The Boardroom - MI,4:00,22:00,8273388,Cullman,MI,287039890,17 East Vine Drive
+Rossis - VT,1:30,23:00,3264234,Mobile,VT,214845852,7 Blackburn Ave
+Hard Times & Misery Saloon - ME,12:30,22:00,9113540,Scottsboro,ME,717102867,9862 Wentworth St.
+The Pastry War - WV,3:00,22:00,7712329,Eufaula,WV,631442730,10 East Vine Drive
+Bandits Bar - NE,3:00,21:30,5473915,Huntsville,NE,827238832,11 Blackburn Ave
+Olde 99 - RI,3:30,22:30,2085964,Selma,RI,478112661,9862 Wentworth St.
+Noc Noc - ME,4:30,22:00,4004337,Marion,ME,769815609,12 Blackburn Ave
+The Boardroom - PA,1:30,24:00,6046046,Athens,PA,628647088,9862 Wentworth St.
+Boxcar Ale House - UT,1:00,22:00,1775759,Florence,UT,382606016,40 East Vine Drive
+Heartbeat - WV,4:00,23:00,7335361,Greenville,WV,833631509,17 East Vine Drive
+Brew Ha Ha - ID,3:00,22:30,3873790,Bessemer,ID,865382108,60 East Vine Drive
+The Red, White, and Brew - OR,4:30,22:00,1068096,Florence,OR,632745862,1 Blackburn Ave
+Wish You Were Beer - NH,3:00,22:00,8019623,Eufaula,NH,247858033,9862 Wentworth St.
+Quarter Lounge - NJ,4:30,22:30,5023122,Auburn,NJ,682546290,17 East Vine Drive
+Bean Me Up - WV,1:00,23:00,5503291,Cullman,WV,569322308,88 Blackburn Ave
+Potters Lounde - NC,12:30,22:00,4953373,Prichard,NC,461817915,733 Myrtle St. 
+The Monkey Farm Cafe - SC,2:00,24:00,1867866,Fort Payne,SC,392586063,88 Blackburn Ave
+Brotherhood of Thieves - GA,2:30,23:00,7759731,Sylacauga,GA,704557463,40 East Vine Drive
+Moon Work - MD,12:30,23:30,9517978,Birmingham,MD,235125516,50 East Vine Drive
+Atomic Liquors - MN,1:30,22:30,4331528,Anniston,MN,825100544,10 East Vine Drive
+Olive or Twist - OR,1:30,22:00,5682326,Opelika,OR,581798394,38 Kirkland Street
+The Twilight Exit - AR,1:00,21:30,8199218,Enterprise,AR,916073931,88 Blackburn Ave
+Corner Pocket - MT,4:00,23:30,2149553,Eufaula,MT,288329496,11 Blackburn Ave
+Wish You Were Beer - RI,12:30,22:30,4080151,Greenville,RI,358007439,97 East Vine Drive
+Noc Noc - NM,2:30,21:30,7726336,Prichard,NM,381317057,40 East Vine Drive
+Ballard Loft - NV,4:30,24:00,1654910,Dothan,NV,728000719,12 Blackburn Ave
+Fat Angel - SD,4:30,21:30,4030284,Birmingham,SD,824216317,1 Blackburn Ave
+Rossis - DE,1:30,24:00,5840535,Guntersville,DE,726622485,38 Kirkland Street
+Bloodhound - KY,2:00,24:00,7373132,Scottsboro,KY,806709761,12 Blackburn Ave
+Mongoose Versus Cobra - OR,4:30,22:00,6489234,Fort Payne,OR,718811548,40 East Vine Drive
+The Red, White, and Brew - VT,1:00,21:30,6680395,Montgomery,VT,453956508,8 Blackburn Ave
+Benders Bar and Grill - IN,4:00,22:00,2506151,Anniston,IN,285581170,733 Myrtle St. 
+The Brewseum - ME,2:00,24:00,8354402,Greenville,ME,259184196,9862 Wentworth St.
+The Boardroom - CO,4:00,23:30,5141996,Anniston,CO,255925289,50 East Vine Drive
+Potters Lounde - WV,1:00,22:00,4299698,Greenville,WV,829807581,7 Blackburn Ave
+The Tasting Room - OK,3:00,23:30,3723517,Andalusia,OK,257880231,601 Shirley Ave
+Bloodhound - AR,2:30,23:00,7972010,Enterprise,AR,609532571,7 Blackburn Ave
+Boxcar Ale House - OK,2:00,23:30,8165907,Bessemer,OK,775726651,50 East Vine Drive
+Jumbos Clown Room - ID,4:30,22:00,7608286,Montgomery,ID,936298172,7 Blackburn Ave
+Quarter Lounge - WV,2:00,22:30,6890760,Athens,WV,550850943,38 Kirkland Street
+The Tasting Room - PA,4:30,23:30,2547369,Selma,PA,365934687,40 East Vine Drive
+Palmer Place - AK,12:30,23:00,8928069,Guntersville,AK,524605010,17 East Vine Drive
+Cantina - WA,1:00,23:00,2411586,Birmingham,WA,959255574,17 East Vine Drive
+Happy Birthday Bar - AK,2:30,23:00,7171693,Gadsden,AK,511138114,97 East Vine Drive
+Jumbos Clown Room - LA,3:30,22:30,5948053,Marion,LA,802955589,97 East Vine Drive
+Corner Pocket - CT,3:30,23:30,9134192,Marion,CT,928816746,38 Kirkland Street
+The Library Sports Bar - MD,3:00,24:00,3948961,Dothan,MD,361074358,97 East Vine Drive
+The Tipsy Cow - MN,3:30,22:00,7796027,Chickasaw,MN,827140687,38 Kirkland Street
+The Cask - NH,3:30,23:30,8996682,Talladega,NH,529678191,8 Blackburn Ave
+Hooverville Bar - HI,1:00,24:00,2783882,Atmore,HI,428274285,10 East Vine Drive
+Grumpys Goat Shack - ND,3:00,22:00,4993936,Sheffield,ND,685720982,40 East Vine Drive
+The Boardroom - NE,4:30,21:30,1670587,Mobile,NE,822653691,50 East Vine Drive
+Bandits Bar - MN,2:00,22:00,3845542,Guntersville,MN,956529092,733 Myrtle St. 
+Comet Tavern - OK,3:00,23:00,2178070,Fort Payne,OK,442900558,50 East Vine Drive
+Duchess Tavern - ME,2:00,23:00,5236568,Mobile,ME,213328820,40 East Vine Drive
+21 & Cup - OR,3:30,24:00,3553478,Huntsville,OR,563486418,38 Kirkland Street
+Hazlewood - MT,3:00,23:30,8687323,Montgomery,MT,568814381,17 East Vine Drive
+Wish You Were Beer - MD,2:30,21:30,3565151,Selma,MD,363711795,9862 Wentworth St.
+Hard Times & Misery Saloon - ID,4:00,22:00,7072313,Guntersville,ID,303907828,60 East Vine Drive
+The Surly Wench Pub - MS,3:00,22:00,7680170,Auburn,MS,252280556,11 Blackburn Ave
+The Surly Wench Pub - NV,1:00,22:00,6498304,Selma,NV,859298302,97 East Vine Drive
+Jumbos Clown Room - NM,4:00,23:30,5859959,Eufaula,NM,907209045,9862 Wentworth St.
+The Red, White, and Brew - DE,1:00,21:30,8941138,Atmore,DE,107746476,8 Blackburn Ave
+Lenys Place - NY,3:00,23:30,2263446,Talladega,NY,488689273,60 East Vine Drive
+The Grackle - NV,1:00,21:30,8079448,Sheffield,NV,792262740,1 Blackburn Ave
+Moe Bar - MS,4:30,21:30,5614790,Huntsville,MS,380107600,17 East Vine Drive
+Open Sesame - ME,12:30,23:00,6760419,Andalusia,ME,312284205,1 Blackburn Ave
+Open Sesame - MO,1:00,21:30,3732744,Phenix City,MO,834749002,10 East Vine Drive
+The Library Sports Bar - CT,1:30,22:00,6635819,Talladega,CT,955898792,88 Blackburn Ave
+Lone Palm - GA,4:00,23:00,5399893,Bessemer,GA,910560449,38 Kirkland Street
+Elixir - IA,3:30,23:30,3207159,Andalusia,IA,341156048,88 Blackburn Ave
+Grumpys Goat Shack - ID,3:00,22:30,7124186,Prichard,ID,751832230,8 Blackburn Ave
+Duchess Tavern - ND,4:30,21:30,5932334,Demopolis,ND,652468581,1 Blackburn Ave
+Happy Birthday Bar - DE,2:30,23:30,8282659,Sheffield,DE,692001597,17 East Vine Drive
+Bubbas Sulky Lounge - IA,4:30,23:30,1078694,Chickasaw,IA,294027989,601 Shirley Ave
+Brews Brothers - CO,12:30,23:00,2180706,Cullman,CO,374469471,40 East Vine Drive
+Hop Sing Laundromat - ID,1:30,24:00,3028198,Fort Payne,ID,337733989,17 East Vine Drive
+Hooverville Bar - OH,2:00,23:30,4861798,Eufaula,OH,155767009,733 Myrtle St. 
+Rye - VA,2:00,22:30,6337246,Sheffield,VA,680816449,12 Blackburn Ave
+Last Call Bar - IN,3:00,22:00,6731017,Enterprise,IN,455819177,733 Myrtle St. 
+Streamline Tavern - TX,3:00,22:30,2459650,Greenville,TX,669789714,11 Blackburn Ave
+The Grizzled Wizard - ID,12:30,24:00,2733798,Bessemer,ID,605238943,60 East Vine Drive
+Lava Lounge - OH,3:00,23:00,8866559,Marion,OH,460877920,17 East Vine Drive
+Liberty - SD,2:00,22:00,9374426,Athens,SD,514794275,10 East Vine Drive
+21 & Cup - MS,1:00,24:00,9399640,Clanton,MS,779118185,17 East Vine Drive
+Comet Tavern - LA,4:30,22:30,3954208,Jasper,LA,634316161,8 Blackburn Ave
+Liberty - VA,4:00,23:00,1496608,Atmore,VA,762111128,10 East Vine Drive
+Happy Birthday Bar - GA,4:30,24:00,2963604,Cullman,GA,863133106,38 Kirkland Street
+The Jack Saloon - CA,1:00,22:00,2365762,Selma,CA,745221322,12 Blackburn Ave
+The Tasting Room - KS,1:00,22:30,3850562,Enterprise,KS,484494483,7 Blackburn Ave
+Moe Bar - AK,3:30,22:30,3748394,Guntersville,AK,764207416,17 East Vine Drive
+Lenys Place - FL,4:30,24:00,4184314,Demopolis,FL,454255892,97 East Vine Drive
+The Crescent Lounge - NJ,2:30,21:30,7171085,Auburn,NJ,406410170,1 Blackburn Ave
+Brew Ha Ha - NM,1:00,22:30,4708405,Selma,NM,813864852,12 Blackburn Ave
+The Fainting Goat - AR,12:30,21:30,3306047,Greenville,AR,941100542,8 Blackburn Ave
+Moon Work - CO,1:30,23:00,5010727,Huntsville,CO,459577254,97 East Vine Drive
+The Pastry War - AK,12:30,23:30,1871649,Ozark,AK,350429652,8 Blackburn Ave
+Comet Tavern - GA,2:00,21:30,1025169,Mobile,GA,848601427,60 East Vine Drive
+Triangle Pub - WV,12:30,22:00,6180248,Guntersville,WV,127051608,733 Myrtle St. 
+Death & Co. - MI,12:30,23:00,5949982,Athens,MI,642748133,7 Blackburn Ave
+Hot Bird - CT,1:30,21:30,7881124,Chickasaw,CT,541443484,60 East Vine Drive
+Crimson Lounge - MO,2:30,21:30,2239155,Auburn,MO,781833453,1 Blackburn Ave
+Amelie - VA,1:30,23:30,8602237,Ozark,VA,641174268,97 East Vine Drive
+Liberty - MA,3:30,23:00,6883422,Jasper,MA,346796180,7 Blackburn Ave
+The Peoples Republik - NE,3:30,21:30,8923033,Florence,NE,338181525,1 Blackburn Ave
+The Boardroom - MO,2:00,23:30,7167139,Selma,MO,128913800,97 East Vine Drive
+Quarter Lounge - AR,2:00,24:00,7643489,Montgomery,AR,260209212,10 East Vine Drive
+Double A - CT,4:30,22:30,1066166,Demopolis,CT,316107021,38 Kirkland Street
+Atomic Liquors - NY,4:30,21:30,5106193,Florence,NY,138145198,88 Blackburn Ave
+Triangle Pub - ME,2:30,22:30,9871244,Eufaula,ME,246744284,8 Blackburn Ave
+Comet Tavern - ID,4:00,22:30,9511068,Andalusia,ID,879746778,38 Kirkland Street
+Rossis - CO,12:30,21:30,2153656,Auburn,CO,130338959,10 East Vine Drive
+Duchess Tavern - IN,4:00,23:30,9662528,Scottsboro,IN,789884360,1 Blackburn Ave
+Happy Birthday Bar - FL,3:00,23:00,2650015,Selma,FL,810076713,38 Kirkland Street
+Bar of the Gods - ME,3:30,22:30,5856442,Eufaula,ME,484410746,38 Kirkland Street
+Lava Lounge - NJ,3:30,22:00,5831436,Sheffield,NJ,706580632,733 Myrtle St. 
+Over the Tapas - IL,4:00,22:00,2064824,Marion,IL,650846591,50 East Vine Drive
+Heartbeat - NJ,1:30,22:00,9686669,Florence,NJ,851863138,40 East Vine Drive
+Ozzies - MO,2:30,24:00,6518825,Anniston,MO,607979558,8 Blackburn Ave
+Duchess Tavern - SD,12:30,22:30,8297184,Sylacauga,SD,376109844,38 Kirkland Street
+Lava Lounge - CT,3:30,21:30,5559607,Eufaula,CT,379519672,10 East Vine Drive
+95 Slide - AZ,3:00,24:00,4252834,Sheffield,AZ,240145491,50 East Vine Drive
+The Library Sports Bar - DE,12:30,22:30,2058750,Chickasaw,DE,677221195,40 East Vine Drive
+Comet Tavern - MT,3:00,24:00,8442665,Greenville,MT,412466281,10 East Vine Drive
+Palmer Place - CA,3:30,21:30,1829891,Opelika,CA,106184301,11 Blackburn Ave
+The Pitch & Roll - CA,3:00,24:00,9484336,Huntsville,CA,529212189,12 Blackburn Ave
+21 & Cup - KY,1:30,23:30,8731267,Eufaula,KY,919707581,40 East Vine Drive
+Happy Daze - OH,2:30,21:30,4204393,Scottsboro,OH,524104264,12 Blackburn Ave
+The Tasting Room - FL,2:30,23:30,2323582,Sylacauga,FL,738243578,733 Myrtle St. 
+Over the Tapas - KS,4:30,24:00,6845602,Birmingham,KS,847004845,97 East Vine Drive
+Thai & Mighty - WV,2:00,23:00,6603888,Selma,WV,960423182,88 Blackburn Ave
+Smog Cutter - CA,2:30,24:00,3301874,Montgomery,CA,388292522,9862 Wentworth St.
+Streamline Tavern - CO,4:30,21:30,6056635,Mobile,CO,102059125,40 East Vine Drive
+Angels and Kings - TN,2:00,23:30,6449784,Bessemer,TN,997304625,12 Blackburn Ave
+Jumbos Clown Room - KY,2:00,22:30,5850347,Demopolis,KY,683694056,601 Shirley Ave
+The Jack Saloon - WV,3:00,22:00,8782826,Opelika,WV,103752468,7 Blackburn Ave
+Last Call Bar - KS,4:30,23:00,4643849,Sheffield,KS,309767144,40 East Vine Drive
+Olde 99 - SD,3:00,23:00,9866249,Bessemer,SD,893473465,10 East Vine Drive
+Madison Pub - KY,3:30,22:30,7002879,Mobile,KY,673906717,11 Blackburn Ave
+The Fainting Goat - VA,4:30,23:00,6575959,Guntersville,VA,532148397,88 Blackburn Ave
+Tempest Bar - OK,1:30,23:00,9813482,Decatur,OK,887644590,88 Blackburn Ave
+The Billy Goat Tavern - MT,1:30,22:00,2426276,Phenix City,MT,639772759,40 East Vine Drive
+Bean Me Up - SD,3:30,21:30,9156706,Athens,SD,394930129,9862 Wentworth St.
+Corner Pocket - IL,12:30,23:30,4881065,Birmingham,IL,838144495,7 Blackburn Ave
+The Tipsy Cow - NY,3:30,24:00,8579447,Birmingham,NY,753928668,9862 Wentworth St.
+Atomic Liquors - WV,1:00,24:00,2441455,Prichard,WV,161953250,10 East Vine Drive
+Tempest Bar - PA,4:00,24:00,1173754,Clanton,PA,214090755,8 Blackburn Ave
+Corner Pocket - GA,1:00,22:00,1467565,Sheffield,GA,826439146,9862 Wentworth St.
+The Library Sports Bar - AZ,2:30,22:00,2103934,Marion,AZ,277365053,97 East Vine Drive
+Shortys - VT,4:30,22:30,1043503,Andalusia,VT,177257186,11 Blackburn Ave
+The Underground - ID,12:30,22:00,7254158,Fort Payne,ID,507162460,60 East Vine Drive
+Bean Me Up - NV,3:00,23:30,9296861,Marion,NV,869682462,11 Blackburn Ave
+The Grackle - HI,12:30,22:30,2798445,Clanton,HI,598932645,733 Myrtle St. 
+Vitos - MI,12:30,21:30,3023493,Eufaula,MI,342230227,8 Blackburn Ave
+Bar of the Gods - MD,3:30,22:00,3656109,Guntersville,MD,478085418,38 Kirkland Street
+Olive or Twist - GA,4:30,21:30,9288753,Florence,GA,688154276,88 Blackburn Ave
+Bandits Bar - AK,2:30,24:00,3131699,Anniston,AK,580970234,8 Blackburn Ave
+The Monkey Farm Cafe - MN,2:30,22:30,6219176,Fort Payne,MN,343195550,17 East Vine Drive
+Olde 99 - NH,2:30,21:30,9823696,Montgomery,NH,395824908,17 East Vine Drive
+Angels and Kings - IN,2:30,22:00,4762499,Phenix City,IN,160691515,10 East Vine Drive
+Boxcar Ale House - IA,2:30,21:30,3092720,Scottsboro,IA,482217606,17 East Vine Drive
+Atomic Liquors - MS,3:00,23:30,5894633,Anniston,MS,142313864,40 East Vine Drive
+Bloodhound - ID,12:30,22:30,5318235,Andalusia,ID,953663476,733 Myrtle St. 
+Happy Birthday Bar - OK,4:00,21:30,8643329,Sheffield,OK,371183130,11 Blackburn Ave
+The Grizzled Wizard - FL,2:00,22:30,5435448,Huntsville,FL,982693560,50 East Vine Drive
+The Tipsy Cow - IA,3:30,24:00,8767806,Chickasaw,IA,278070938,38 Kirkland Street
+The Pitch & Roll - FL,4:30,21:30,1224637,Decatur,FL,603309414,60 East Vine Drive
+Aesops Tables - TX,2:00,24:00,7940024,Greenville,TX,779744975,10 East Vine Drive
+Dutch Kills - MD,4:30,24:00,8421923,Eufaula,MD,753975175,97 East Vine Drive
+Rob Roy - MS,3:00,21:30,8136290,Chickasaw,MS,330002055,9862 Wentworth St.
+The Boardroom - VA,2:30,22:00,3621338,Selma,VA,935111644,17 East Vine Drive
+Jumbos Clown Room - PA,2:30,23:00,6427089,Marion,PA,103723903,9862 Wentworth St.
+Streamline Tavern - NM,3:30,23:00,7578391,Enterprise,NM,753699682,50 East Vine Drive
+Rob Roy - WA,1:00,21:30,4278965,Marion,WA,585596551,9862 Wentworth St.
+Angels and Kings - TX,2:00,23:00,2896902,Prichard,TX,279720639,7 Blackburn Ave
+Mission Bar - SC,3:30,21:30,5767103,Demopolis,SC,607809123,38 Kirkland Street
+Bubbas Sulky Lounge - MO,12:30,22:00,8424484,Mobile,MO,479649618,9862 Wentworth St.
+Mongoose Versus Cobra - TN,1:30,22:30,4189193,Cullman,TN,408202132,38 Kirkland Street
+Happy Daze - OR,4:30,23:30,7968040,Opelika,OR,600651295,1 Blackburn Ave
+Comet Tavern - CT,1:00,23:30,5726599,Opelika,CT,258811975,11 Blackburn Ave
+Olde 99 - WA,2:30,23:00,7004463,Birmingham,WA,874958777,17 East Vine Drive
+Rob Roy - NV,2:00,21:30,1202337,Phenix City,NV,831403346,17 East Vine Drive
+Triangle Pub - SD,2:00,21:30,9956313,Jasper,SD,417431978,60 East Vine Drive
+The Pastry War - MT,3:00,23:30,6157182,Anniston,MT,746087453,733 Myrtle St. 
+Bar of the Gods - WA,3:30,22:30,4478837,Enterprise,WA,798371002,1 Blackburn Ave
+The Grackle - KY,4:30,22:30,7555363,Andalusia,KY,719099922,601 Shirley Ave
+Corner Pocket - IN,4:30,22:00,4486877,Phenix City,IN,191563894,50 East Vine Drive
+Basic Kneads Pizza - MD,3:00,21:30,9222187,Sylacauga,MD,958345193,17 East Vine Drive
+21 & Cup - NJ,3:00,22:00,7072843,Selma,NJ,746049951,60 East Vine Drive
+The Tipsy Cow - CT,2:00,22:30,3643799,Auburn,CT,699961894,10 East Vine Drive
+The Bourbon Bar - WA,1:30,24:00,2845198,Selma,WA,462130983,17 East Vine Drive
+Streamline Tavern - OH,12:30,23:30,2191785,Eufaula,OH,537528781,7 Blackburn Ave
+Angels and Kings - SC,3:30,21:30,8034206,Athens,SC,227836742,601 Shirley Ave
+The Tipsy Cow - VA,1:00,23:30,1307576,Jasper,VA,191207682,7 Blackburn Ave
+The Underground - UT,12:30,23:00,7834781,Phenix City,UT,406853257,38 Kirkland Street
+Olde 99 - MA,4:00,22:30,5772311,Eufaula,MA,633313717,17 East Vine Drive
+Lenys Place - OH,4:00,23:30,7222266,Fort Payne,OH,133776128,97 East Vine Drive
+Brew Ha Ha - CA,4:30,24:00,9017445,Prichard,CA,835776000,1 Blackburn Ave
+Noc Noc - MA,4:00,23:30,3905079,Sheffield,MA,156331449,7 Blackburn Ave
+Comet Tavern - KS,4:00,23:00,3579158,Andalusia,KS,839221304,601 Shirley Ave
+Fireside Bar - IL,2:30,21:30,6258152,Selma,IL,207249474,88 Blackburn Ave
+Moon Work - NY,2:00,21:30,4309387,Athens,NY,530313429,88 Blackburn Ave
+Bloodhound - SD,1:00,23:00,6297024,Sylacauga,SD,937868385,88 Blackburn Ave
+The Pitch & Roll - MD,1:30,21:30,8559790,Decatur,MD,434384193,8 Blackburn Ave
+Unphogettable - KY,4:00,23:00,7480545,Eufaula,KY,954864756,38 Kirkland Street
+Bean Me Up - NY,12:30,23:30,5365868,Cullman,NY,247056931,7 Blackburn Ave
+Bean Me Up - VA,3:00,23:30,3585159,Anniston,VA,361198026,88 Blackburn Ave
+Grumpys Goat Shack - MI,3:30,24:00,4192299,Sheffield,MI,940673530,17 East Vine Drive
+Vitos - NM,4:00,24:00,1087972,Sheffield,NM,191141644,8 Blackburn Ave
+Fireside Bar - MT,1:00,23:00,1822448,Guntersville,MT,338274799,601 Shirley Ave
+Unphogettable - AR,3:30,22:30,4181433,Opelika,AR,790400544,17 East Vine Drive
+Mission Bar - AK,12:30,22:00,8434681,Decatur,AK,889743355,1 Blackburn Ave
+The Monkey Farm Cafe - KY,4:00,23:30,6403612,Bessemer,KY,207608598,88 Blackburn Ave
+Comet Tavern - NJ,1:00,22:30,4530989,Phenix City,NJ,889154279,88 Blackburn Ave
+Last Call Bar - MO,4:30,21:30,4199363,Montgomery,MO,650834977,733 Myrtle St. 
+Lenys Place - VA,3:00,24:00,9220584,Decatur,VA,704855518,50 East Vine Drive
+The Grackle - CT,2:30,23:30,9736934,Scottsboro,CT,931998655,10 East Vine Drive
+The Grizzled Wizard - NV,3:30,23:30,5993932,Guntersville,NV,848639721,8 Blackburn Ave
+Moon Work - PA,2:30,22:00,7320057,Greenville,PA,445300023,733 Myrtle St. 
+Double A - LA,3:00,23:00,6537311,Marion,LA,348019235,9862 Wentworth St.
+Lenys Place - MA,1:00,22:00,8100122,Fort Payne,MA,237677311,97 East Vine Drive
+Madison Pub - HI,1:00,23:30,2246813,Selma,HI,935785254,38 Kirkland Street
+The Crescent Lounge - MS,3:00,23:00,2957367,Chickasaw,MS,974318482,38 Kirkland Street
+Atomic Liquors - OK,1:00,23:30,2397874,Talladega,OK,236448121,601 Shirley Ave
+Fat Angel - MS,3:00,23:00,1669205,Cullman,MS,810494082,38 Kirkland Street
+Hard Times & Misery Saloon - MN,1:30,22:30,8833029,Bessemer,MN,193179574,9862 Wentworth St.
+Unphogettable - MT,1:30,22:30,5665057,Jasper,MT,388503485,9862 Wentworth St.
+The Brewseum - IN,1:00,24:00,8731204,Florence,IN,277695335,17 East Vine Drive
+Duchess Tavern - GA,1:00,23:30,5507674,Jasper,GA,887423542,733 Myrtle St. 
+Duchess Tavern - FL,1:30,22:30,7905059,Greenville,FL,693252561,11 Blackburn Ave
+95 Slide - UT,12:30,24:00,5465771,Ozark,UT,790643049,601 Shirley Ave
+The Grizzled Wizard - OK,1:00,23:00,9864594,Dothan,OK,101588617,97 East Vine Drive
+The Billy Goat Tavern - MN,1:00,23:00,7630230,Bessemer,MN,383160424,10 East Vine Drive
+The Tasting Room - SD,2:30,23:30,3274325,Gadsden,SD,618111665,11 Blackburn Ave
+The Tipsy Cow - TX,3:00,21:30,8713944,Andalusia,TX,491039732,60 East Vine Drive
+Brews Brothers - WA,2:30,22:30,1244501,Prichard,WA,350814916,60 East Vine Drive
+Grumpys Goat Shack - NJ,2:00,22:30,7886617,Chickasaw,NJ,478905055,17 East Vine Drive
+Rye - ME,1:30,23:30,2030014,Fort Payne,ME,952802155,97 East Vine Drive
+Bean Me Up - GA,1:00,22:30,6301779,Bessemer,GA,702516120,17 East Vine Drive
+Potters Lounde - OK,4:30,21:30,7680604,Greenville,OK,888646216,38 Kirkland Street
+Thai & Mighty - DE,4:00,23:00,2006932,Atmore,DE,433097677,38 Kirkland Street
+Rye - AK,1:30,21:30,4876770,Marion,AK,133250695,38 Kirkland Street
+Palmer Place - UT,3:30,23:30,3971960,Jasper,UT,471174216,9862 Wentworth St.
+Bean Me Up - OH,3:30,23:30,4591569,Decatur,OH,590731166,17 East Vine Drive
+Brews Brothers - IA,3:00,21:30,4785041,Birmingham,IA,165335521,88 Blackburn Ave
+The Library Sports Bar - NC,3:00,22:00,2819928,Auburn,NC,535462102,60 East Vine Drive
+The Underground - ND,1:00,21:30,9176915,Opelika,ND,132648507,17 East Vine Drive
+Duchess Tavern - NY,2:30,21:30,1732877,Dothan,NY,390097085,40 East Vine Drive
+Double A - AZ,3:30,23:30,4763897,Huntsville,AZ,472345052,88 Blackburn Ave
+Vitos - AK,2:00,23:00,3981355,Gadsden,AK,565888373,733 Myrtle St. 
+The Grackle - SC,2:30,23:30,5087477,Athens,SC,118202556,10 East Vine Drive
+Comet Tavern - NE,3:00,23:30,3468813,Greenville,NE,426453766,17 East Vine Drive
+The Billy Goat Tavern - LA,4:30,23:30,5448431,Sylacauga,LA,642328885,97 East Vine Drive
+Bandits Bar - MO,3:30,22:00,9523899,Fort Payne,MO,809140735,97 East Vine Drive
+Hard Times & Misery Saloon - AZ,1:00,21:30,7107220,Dothan,AZ,700751655,60 East Vine Drive
+Rob Roy - HI,1:00,22:00,5243164,Eufaula,HI,153734797,97 East Vine Drive
+The Bourbon Bar - AZ,2:30,24:00,4701916,Prichard,AZ,222370693,17 East Vine Drive
+Lava Lounge - MT,2:00,23:00,8927863,Marion,MT,704346659,11 Blackburn Ave
+Mission Bar - MA,3:30,24:00,9125219,Jasper,MA,192555891,40 East Vine Drive
+Bandits Bar - SC,1:00,22:00,9446886,Fort Payne,SC,355841765,17 East Vine Drive
+Men at Wok - RI,1:00,23:30,1288007,Mobile,RI,418151323,97 East Vine Drive
+Bar of the Gods - VA,3:30,23:00,8001031,Birmingham,VA,751700770,7 Blackburn Ave
+Rossis - ID,2:30,21:30,6556547,Clanton,ID,955607424,38 Kirkland Street
+Brew Ha Ha - MD,12:30,22:30,2296427,Ozark,MD,580812326,38 Kirkland Street
+The Red, White, and Brew - IA,3:30,21:30,8172719,Athens,IA,662216067,8 Blackburn Ave
+Tin n Lint - ID,1:00,23:30,9694324,Atmore,ID,232098304,17 East Vine Drive
+Ozzies - NY,2:00,23:00,1014972,Talladega,NY,324673131,12 Blackburn Ave
+Bloodhound - OK,2:30,21:30,8187095,Athens,OK,927522509,60 East Vine Drive
+Over the Tapas - IN,1:30,23:30,6089112,Gadsden,IN,279107305,17 East Vine Drive
+Lone Palm - NY,2:30,22:00,4524538,Eufaula,NY,663430056,12 Blackburn Ave
+The Tasting Room - DE,12:30,23:00,8985049,Decatur,DE,643495618,97 East Vine Drive
+Amelie - IN,4:00,23:30,3703766,Decatur,IN,486744735,88 Blackburn Ave
+Hard Times & Misery Saloon - AR,2:00,24:00,5294624,Anniston,AR,693339937,10 East Vine Drive
+Moon Work - ME,1:00,23:30,6463061,Jasper,ME,104738916,88 Blackburn Ave
+Streamline Tavern - LA,1:30,24:00,3059833,Fort Payne,LA,774221134,97 East Vine Drive
+Aesops Tables - IL,2:00,22:00,6835624,Decatur,IL,997724216,7 Blackburn Ave
+Open Sesame - CT,4:30,22:30,5049607,Selma,CT,356763041,88 Blackburn Ave
+The Pitch & Roll - OH,1:30,23:00,2192910,Clanton,OH,856084246,60 East Vine Drive
+Potters Lounde - AK,3:00,22:00,4661422,Dothan,AK,669750073,88 Blackburn Ave
+Bean Me Up - TN,1:30,23:30,4649039,Greenville,TN,364075583,97 East Vine Drive
+The Hideout - SD,3:00,21:30,8619239,Huntsville,SD,324300688,9862 Wentworth St.
+The Library Sports Bar - HI,4:00,21:30,1369635,Demopolis,HI,756266491,9862 Wentworth St.
+Brotherhood of Thieves - OH,3:00,22:30,6568811,Talladega,OH,270005542,9862 Wentworth St.
+Last Call Bar - CT,2:30,23:00,1616895,Enterprise,CT,248117480,97 East Vine Drive
+Last Call Bar - NV,2:00,21:30,9512030,Scottsboro,NV,492532518,8 Blackburn Ave
+Wish You Were Beer - CT,3:00,23:00,6447905,Clanton,CT,157831541,8 Blackburn Ave
+Men at Wok - NE,2:30,22:30,1709603,Eufaula,NE,447980917,1 Blackburn Ave
+Ballard Loft - SC,1:30,22:00,9310446,Demopolis,SC,162052568,12 Blackburn Ave
+Hooverville Bar - TN,2:30,24:00,4077637,Enterprise,TN,450024805,40 East Vine Drive
+Corner Pocket - WA,2:30,23:00,4615669,Talladega,WA,589298093,17 East Vine Drive
+The Cask - TX,1:00,22:00,2978964,Bessemer,TX,681322975,97 East Vine Drive
+Fireside Bar - NY,4:30,24:00,6887129,Anniston,NY,535075862,11 Blackburn Ave
+Hot Bird - MD,2:00,23:00,3573537,Jasper,MD,477149974,601 Shirley Ave
+Over the Tapas - UT,12:30,24:00,2984497,Greenville,UT,467057158,40 East Vine Drive
+The Cask - ID,3:30,21:30,9340911,Anniston,ID,750149625,8 Blackburn Ave
+Lone Palm - SC,4:00,24:00,6878076,Chickasaw,SC,913729601,60 East Vine Drive
+Tempest Bar - NM,2:30,22:00,5010916,Montgomery,NM,220743342,601 Shirley Ave
+Mongoose Versus Cobra - FL,1:30,22:30,5761244,Bessemer,FL,357802549,9862 Wentworth St.
+The Boardroom - KY,2:00,21:30,6691854,Athens,KY,176481214,97 East Vine Drive
+Jumbos Clown Room - HI,4:30,22:30,7162472,Andalusia,HI,424978232,17 East Vine Drive
+Madison Pub - IN,12:30,22:30,5974430,Decatur,IN,330088947,1 Blackburn Ave
+Hooverville Bar - NH,3:00,23:30,2564719,Fort Payne,NH,305344081,17 East Vine Drive
+Smog Cutter - NV,1:30,23:00,1527055,Auburn,NV,462211438,97 East Vine Drive
+Thai & Mighty - MA,1:00,23:00,1115406,Guntersville,MA,540337471,38 Kirkland Street
+Corner Pocket - OR,12:30,22:30,5076937,Huntsville,OR,444421544,40 East Vine Drive
+The Crescent Lounge - KY,2:00,24:00,8709111,Demopolis,KY,285525855,88 Blackburn Ave
+Palmer Place - OR,4:00,22:30,3864596,Bessemer,OR,973660634,60 East Vine Drive
+Tin n Lint - SC,1:00,23:30,8439992,Phenix City,SC,533792165,7 Blackburn Ave
+The Tipsy Cow - RI,1:00,21:30,9558556,Jasper,RI,818337131,7 Blackburn Ave
+Corner Pocket - LA,1:00,22:00,6465845,Marion,LA,740067288,97 East Vine Drive
+The Surly Wench Pub - IN,2:30,22:00,6457345,Guntersville,IN,502022778,10 East Vine Drive
+Smog Cutter - AR,4:30,23:00,6071350,Cullman,AR,869190682,50 East Vine Drive
+Over the Tapas - SD,12:30,22:30,7288482,Ozark,SD,529193394,60 East Vine Drive
+95 Slide - NH,1:30,23:30,7761491,Talladega,NH,123609939,10 East Vine Drive
+Benders Bar and Grill - OH,1:30,22:30,5518157,Florence,OH,992756934,733 Myrtle St. 
+Happy Daze - TX,1:30,23:00,8751896,Florence,TX,177801100,17 East Vine Drive
+Ozzies - GA,3:00,23:30,7999209,Anniston,GA,770923014,60 East Vine Drive
+The Bourbon Bar - NV,12:30,22:00,4899193,Greenville,NV,581757253,1 Blackburn Ave
+Duchess Tavern - MN,1:00,24:00,5823477,Fort Payne,MN,954868003,40 East Vine Drive
+Lenys Place - WA,2:00,23:00,4229370,Montgomery,WA,274822882,11 Blackburn Ave
+Ozzies - KY,3:30,22:00,8598904,Sheffield,KY,397678139,17 East Vine Drive
+Thai & Mighty - WA,3:30,24:00,3898142,Scottsboro,WA,817736789,17 East Vine Drive
+Moon Work - KS,1:00,22:00,3658348,Cullman,KS,818125203,40 East Vine Drive
+The Cask - ND,12:30,23:30,6754355,Bessemer,ND,790737748,733 Myrtle St. 
+Men at Wok - MN,2:30,23:30,3348861,Chickasaw,MN,879782041,97 East Vine Drive
+Smog Cutter - TN,3:00,21:30,5069750,Jasper,TN,489602781,17 East Vine Drive
+The Crescent Lounge - WV,2:30,21:30,2287964,Auburn,WV,482395644,97 East Vine Drive
+Comet Tavern - MD,3:00,24:00,7542121,Andalusia,MD,530240914,38 Kirkland Street
+Brotherhood of Thieves - MT,2:30,23:30,9927066,Clanton,MT,945591530,601 Shirley Ave
+Cantina - ND,2:30,24:00,8312581,Cullman,ND,342111692,50 East Vine Drive
+Jumbos Clown Room - OK,3:00,23:00,9528944,Greenville,OK,674823832,40 East Vine Drive
+The Pitch & Roll - UT,3:30,22:00,7800318,Dothan,UT,153422528,17 East Vine Drive
+Bean Me Up - NE,4:30,23:30,9574753,Opelika,NE,937373349,12 Blackburn Ave
+Heartbeat - ND,12:30,23:00,2026281,Talladega,ND,342238411,50 East Vine Drive
+The Tasting Room - AR,3:30,23:00,2956272,Florence,AR,450912310,40 East Vine Drive
+Palmer Place - KS,3:00,23:30,2487436,Marion,KS,621229817,1 Blackburn Ave
+Tin n Lint - NE,2:00,22:30,3455542,Talladega,NE,111909404,7 Blackburn Ave
+Bloodhound - MA,3:30,21:30,2548430,Birmingham,MA,811163267,733 Myrtle St. 
+The Pastry War - NV,12:30,22:00,4785495,Huntsville,NV,811120162,60 East Vine Drive
+Ballard Loft - MN,4:30,22:00,7929139,Marion,MN,560361467,38 Kirkland Street
+Fat Angel - AK,3:00,22:30,5035442,Phenix City,AK,310384122,97 East Vine Drive
+Bar of the Gods - CO,1:30,24:00,5167107,Scottsboro,CO,181249410,733 Myrtle St. 
+Last Call Bar - VT,4:00,23:30,7349665,Opelika,VT,506161384,733 Myrtle St. 
+Fat Angel - SC,2:30,23:30,8233707,Enterprise,SC,743245625,88 Blackburn Ave
+Happy Birthday Bar - ID,1:00,24:00,3374808,Montgomery,ID,153101380,38 Kirkland Street
+Last Call Bar - AZ,2:00,23:00,6234017,Sheffield,AZ,418032905,97 East Vine Drive
+Happy Daze - MD,1:30,23:30,9437637,Florence,MD,151123725,10 East Vine Drive
+The Grizzled Wizard - NY,4:00,24:00,7873632,Demopolis,NY,540317830,8 Blackburn Ave
+The Fainting Goat - NH,2:30,23:30,9876540,Eufaula,NH,537851564,88 Blackburn Ave
+Hazlewood - MO,4:00,21:30,8157920,Opelika,MO,708018086,12 Blackburn Ave
+Lone Palm - MI,3:00,22:30,4151264,Marion,MI,347456135,601 Shirley Ave
+Fat Angel - UT,4:30,22:30,6871605,Florence,UT,591793215,8 Blackburn Ave
+Basic Kneads Pizza - WV,2:30,23:30,3773486,Opelika,WV,117381567,11 Blackburn Ave
+Boxcar Ale House - CT,4:00,23:30,4466472,Bessemer,CT,523383982,17 East Vine Drive
+Bloodhound - TX,12:30,23:00,3908146,Dothan,TX,225029631,40 East Vine Drive
+The Bourbon Bar - ID,3:00,23:30,4516345,Florence,ID,472810231,8 Blackburn Ave
+Cantina - KY,1:30,23:30,8489276,Sheffield,KY,352277179,733 Myrtle St. 
+Bean Me Up - CA,3:00,22:00,9799129,Dothan,CA,587094898,733 Myrtle St. 
+Brews Brothers - IL,4:00,24:00,7336736,Montgomery,IL,114454240,60 East Vine Drive
+Lone Palm - WA,3:00,21:30,1304966,Jasper,WA,735340590,1 Blackburn Ave
+Crimson Lounge - CO,3:00,23:30,3144947,Opelika,CO,403353080,88 Blackburn Ave
+Lava Lounge - MN,12:30,24:00,4764787,Greenville,MN,679068281,9862 Wentworth St.
+Moon Work - NM,12:30,21:30,9235097,Jasper,NM,796705176,60 East Vine Drive
+Aesops Tables - NJ,3:00,22:30,2690053,Clanton,NJ,463314986,60 East Vine Drive
+The Twilight Exit - NE,2:00,23:00,2396148,Sylacauga,NE,446861597,11 Blackburn Ave
+Bean Me Up - VT,3:00,22:00,2860520,Atmore,VT,785153034,60 East Vine Drive
+The Twilight Exit - IL,12:30,23:30,8569123,Clanton,IL,204129533,733 Myrtle St. 
+Heartbeat - NE,2:00,22:30,6240851,Eufaula,NE,376208899,11 Blackburn Ave
+Fireside Bar - FL,3:00,24:00,1576840,Selma,FL,845177592,7 Blackburn Ave
+The Underground - CT,3:30,22:30,1138986,Huntsville,CT,665858513,7 Blackburn Ave
+Death & Co. - WV,3:30,23:00,5564888,Athens,WV,216858994,9862 Wentworth St.
+Dutch Kills - OK,3:00,21:30,2178584,Greenville,OK,217462818,11 Blackburn Ave
+The Bourbon Bar - GA,1:30,21:30,8791864,Birmingham,GA,455248305,38 Kirkland Street
+Wish You Were Beer - TX,2:30,21:30,9051189,Talladega,TX,963250729,38 Kirkland Street
+Men at Wok - MD,3:30,23:00,2274379,Sheffield,MD,528173095,9862 Wentworth St.
+The Twilight Exit - AZ,3:00,22:30,6899604,Bessemer,AZ,761845613,17 East Vine Drive
+Lone Palm - RI,1:00,22:00,2767228,Mobile,RI,246193732,38 Kirkland Street
+Rossis - NE,2:00,22:00,4364186,Birmingham,NE,285939731,40 East Vine Drive
+Tin n Lint - MA,1:00,23:30,5254230,Opelika,MA,693165874,9862 Wentworth St.
+Wish You Were Beer - HI,1:00,24:00,8382824,Greenville,HI,384445649,10 East Vine Drive
+Olive or Twist - TN,3:00,23:00,4301432,Guntersville,TN,851391876,60 East Vine Drive
+Fireside Bar - AK,2:30,21:30,2003006,Andalusia,AK,666937845,7 Blackburn Ave
+Potters Lounde - KY,4:00,23:00,6381865,Atmore,KY,951989479,17 East Vine Drive
+The Tipsy Cow - OK,12:30,22:30,3621507,Auburn,OK,644778678,10 East Vine Drive
+Ballard Loft - WA,3:00,23:30,6632978,Enterprise,WA,762586663,40 East Vine Drive
+Duchess Tavern - WA,4:30,23:00,8783212,Demopolis,WA,816095506,9862 Wentworth St.
+Quarter Lounge - ME,4:30,23:30,5676060,Greenville,ME,849978340,8 Blackburn Ave
+The Grackle - MA,1:30,21:30,5342740,Ozark,MA,484109514,88 Blackburn Ave
+The Hideout - MT,2:00,22:00,9997150,Birmingham,MT,667270532,7 Blackburn Ave
+Angels and Kings - ID,3:00,21:30,3617627,Florence,ID,701395617,9862 Wentworth St.
+Thai & Mighty - ID,3:30,24:00,3099236,Bessemer,ID,501518005,601 Shirley Ave
+Amelie - MS,12:30,23:30,3602645,Scottsboro,MS,259152992,40 East Vine Drive
+Bubbas Sulky Lounge - IN,4:00,21:30,2167417,Guntersville,IN,506133635,50 East Vine Drive
+Open Sesame - IL,1:30,22:30,8853163,Fort Payne,IL,116882334,60 East Vine Drive
+Fat Angel - MI,12:30,22:30,9275480,Marion,MI,785471577,97 East Vine Drive
+Hop Sing Laundromat - OR,2:30,21:30,6247996,Cullman,OR,949966785,733 Myrtle St. 
+Mission Bar - TN,2:00,22:30,6794253,Fort Payne,TN,847538245,11 Blackburn Ave
+The Billy Goat Tavern - SC,4:30,22:30,3205912,Eufaula,SC,323746466,1 Blackburn Ave
+Heartbeat - HI,2:30,22:30,2099959,Eufaula,HI,469504140,733 Myrtle St. 
+Brew Ha Ha - VA,2:30,21:30,3324139,Dothan,VA,196167075,601 Shirley Ave
+Thai & Mighty - LA,4:00,22:30,7433615,Bessemer,LA,331036469,97 East Vine Drive
+Noc Noc - MO,3:00,21:30,2894996,Guntersville,MO,111728823,9862 Wentworth St.
+Noc Noc - VA,1:30,22:00,8355277,Decatur,VA,265298984,8 Blackburn Ave
+Brotherhood of Thieves - CT,1:00,21:30,4052745,Bessemer,CT,164716465,9862 Wentworth St.
+Olde 99 - VT,12:30,24:00,5985377,Decatur,VT,801666005,60 East Vine Drive
+Hot Bird - KY,4:30,21:30,8483140,Mobile,KY,575082152,38 Kirkland Street
+Bubbas Sulky Lounge - SD,3:00,22:00,1787218,Dothan,SD,743707931,17 East Vine Drive
+Bar of the Gods - RI,4:00,23:00,9305820,Guntersville,RI,475384359,733 Myrtle St. 
+The Red, White, and Brew - OH,3:30,22:00,5104623,Selma,OH,166607209,17 East Vine Drive
+Ozzies - IA,4:00,22:30,5491815,Cullman,IA,970874696,40 East Vine Drive
+The Grackle - CA,4:30,23:00,4508226,Sheffield,CA,522073993,1 Blackburn Ave
+Jumbos Clown Room - FL,4:30,22:30,1063931,Talladega,FL,678263529,40 East Vine Drive
+Death & Co. - OH,1:30,24:00,5067862,Fort Payne,OH,928962335,40 East Vine Drive
+Rye - NY,12:30,23:00,9200384,Demopolis,NY,188524970,60 East Vine Drive
+Potters Lounde - AR,1:30,21:30,1015508,Sylacauga,AR,442340434,38 Kirkland Street
+Atomic Liquors - NE,1:00,23:00,2617311,Jasper,NE,765319574,9862 Wentworth St.
+The Red, White, and Brew - NH,4:30,23:30,2344913,Mobile,NH,587386323,733 Myrtle St. 
+Lone Palm - NC,4:30,22:30,5559823,Cullman,NC,999185098,88 Blackburn Ave
+Heartbeat - MA,4:00,22:30,6404863,Auburn,MA,938143280,9862 Wentworth St.
+Lone Palm - NV,4:30,21:30,8571681,Eufaula,NV,579881414,12 Blackburn Ave
+Unphogettable - VA,4:00,21:30,7658785,Prichard,VA,623413694,17 East Vine Drive
+Rye - IA,1:00,23:30,1260363,Fort Payne,IA,829702967,733 Myrtle St. 
+Hop Sing Laundromat - AR,2:30,23:00,8108042,Prichard,AR,464848722,733 Myrtle St. 
+Fireside Bar - HI,1:00,22:00,2560273,Fort Payne,HI,305349919,50 East Vine Drive
+Death & Co. - MD,3:00,23:00,8317021,Anniston,MD,272311305,1 Blackburn Ave
+Brotherhood of Thieves - MO,2:00,22:00,4272510,Opelika,MO,943610914,8 Blackburn Ave
+The Pitch & Roll - ME,1:00,22:00,8365493,Sheffield,ME,306687259,97 East Vine Drive
+Rob Roy - DE,4:30,24:00,5868449,Huntsville,DE,990206256,17 East Vine Drive
+Crimson Lounge - KS,4:00,22:00,1538882,Jasper,KS,533142529,88 Blackburn Ave
+Hot Bird - NJ,2:30,24:00,2960501,Mobile,NJ,797001921,1 Blackburn Ave
+Crimson Lounge - AZ,1:30,23:00,5119083,Marion,AZ,381128820,17 East Vine Drive
+Open Sesame - ID,12:30,22:00,3452363,Talladega,ID,562276957,10 East Vine Drive
+Tavern Law - MI,2:00,22:30,2888901,Sheffield,MI,791832347,8 Blackburn Ave
+Aesops Tables - NV,12:30,23:00,3067176,Phenix City,NV,989376546,7 Blackburn Ave
+The Brewseum - NC,4:30,24:00,2403993,Gadsden,NC,331050519,8 Blackburn Ave
+Vitos - MD,2:30,21:30,1796233,Gadsden,MD,537326925,11 Blackburn Ave
+Aesops Tables - WV,1:30,22:30,3398227,Phenix City,WV,771130263,10 East Vine Drive
+The Grizzled Wizard - NH,2:30,22:30,1588926,Clanton,NH,193206700,17 East Vine Drive
+The Underground - NY,4:00,22:00,4993535,Opelika,NY,838510153,1 Blackburn Ave
+Cantina - VA,4:30,24:00,7087980,Ozark,VA,434088293,17 East Vine Drive
+Brotherhood of Thieves - IA,1:30,22:00,1823521,Marion,IA,744146187,7 Blackburn Ave
+The Jack Saloon - ID,2:30,22:30,1764525,Auburn,ID,513129393,17 East Vine Drive
+Crimson Lounge - AR,1:00,21:30,9578413,Auburn,AR,658795269,9862 Wentworth St.
+Aesops Tables - LA,3:00,22:30,8255561,Decatur,LA,532345406,50 East Vine Drive
+The Red, White, and Brew - CO,1:30,22:30,5131146,Huntsville,CO,211008068,38 Kirkland Street
+Quarter Lounge - NH,2:00,23:30,8748015,Mobile,NH,699532255,17 East Vine Drive
+Angels and Kings - FL,2:00,23:00,7408382,Guntersville,FL,536291778,97 East Vine Drive
+Cantina - CT,2:00,24:00,6846260,Sheffield,CT,816106163,17 East Vine Drive
+Crimson Lounge - NM,3:00,23:30,7958228,Athens,NM,696751914,17 East Vine Drive
+Duchess Tavern - NM,3:30,23:30,9241658,Mobile,NM,614209138,88 Blackburn Ave
+Mecca Cafe - VA,3:00,23:00,4015005,Atmore,VA,600236380,50 East Vine Drive
+Quarter Lounge - GA,4:30,22:30,1733846,Demopolis,GA,275519139,733 Myrtle St. 
+Quarter Lounge - IN,1:30,24:00,8234319,Bessemer,IN,812350006,17 East Vine Drive
+Olde 99 - NC,2:00,22:00,8400643,Eufaula,NC,199537366,1 Blackburn Ave
+Cantina - UT,2:00,23:30,8495360,Auburn,UT,766076878,50 East Vine Drive
+Men at Wok - WV,1:30,24:00,3847191,Ozark,WV,791150712,9862 Wentworth St.
+Benders Bar and Grill - ID,1:00,23:00,2809020,Mobile,ID,944564291,60 East Vine Drive
+Triangle Pub - RI,3:30,22:30,4738026,Decatur,RI,161128393,50 East Vine Drive
+Smog Cutter - VA,2:30,22:30,5092755,Bessemer,VA,984347444,12 Blackburn Ave
+21 & Cup - MD,3:30,23:00,6737885,Talladega,MD,762751708,8 Blackburn Ave
+The Fainting Goat - ME,3:30,22:30,1839982,Mobile,ME,724904558,38 Kirkland Street
+The Brewseum - MS,3:00,23:00,7738261,Clanton,MS,447021370,88 Blackburn Ave
+Hard Times & Misery Saloon - OR,3:30,21:30,5316614,Sheffield,OR,884309521,11 Blackburn Ave
+The Grizzled Wizard - CT,3:30,22:30,4973093,Atmore,CT,158890218,7 Blackburn Ave
+Wish You Were Beer - NE,1:30,24:00,7940106,Talladega,NE,146478691,50 East Vine Drive
+Hazlewood - AR,1:30,23:00,1732639,Gadsden,AR,741627134,1 Blackburn Ave
+Tin n Lint - NV,4:00,23:00,2501817,Birmingham,NV,610978418,38 Kirkland Street
+Elixir - CT,4:30,22:30,8038997,Athens,CT,306050839,40 East Vine Drive
+The Pastry War - IN,2:00,21:30,1056658,Auburn,IN,409136016,7 Blackburn Ave
+The Tasting Room - GA,2:00,21:30,8324017,Bessemer,GA,775454489,38 Kirkland Street
+Grumpys Goat Shack - OH,3:00,23:30,2560956,Opelika,OH,170815907,50 East Vine Drive
+Vitos - OR,1:30,21:30,9140473,Huntsville,OR,658168263,12 Blackburn Ave
+Tin n Lint - WV,4:30,24:00,1671166,Greenville,WV,191403355,8 Blackburn Ave
+Ozzies - HI,3:30,23:00,6065474,Phenix City,HI,908077105,40 East Vine Drive
+The Twilight Exit - KY,2:30,24:00,5226160,Sheffield,KY,491053110,17 East Vine Drive
+Duchess Tavern - VA,2:00,22:30,2109530,Prichard,VA,286058119,40 East Vine Drive
+Mecca Cafe - OK,2:00,22:30,7374591,Dothan,OK,129197106,1 Blackburn Ave
+Duchess Tavern - VT,4:30,24:00,2801341,Birmingham,VT,459597650,40 East Vine Drive
+21 & Cup - TN,1:00,22:30,2251240,Gadsden,TN,981613433,97 East Vine Drive
+Corner Pocket - NY,4:30,22:00,7106139,Auburn,NY,137201133,17 East Vine Drive
+Open Sesame - MS,3:00,23:30,9413494,Andalusia,MS,880504197,8 Blackburn Ave
+The Twilight Exit - MS,3:30,22:30,6032164,Clanton,MS,292057222,40 East Vine Drive
+Wish You Were Beer - MS,2:00,23:00,4070674,Huntsville,MS,594978866,8 Blackburn Ave
+Olive or Twist - KS,12:30,23:00,7085008,Mobile,KS,448255816,10 East Vine Drive
+Boxcar Ale House - RI,3:00,22:00,9106629,Atmore,RI,505365448,88 Blackburn Ave
+Mustards Last Stand - NJ,4:00,22:30,2178584,Opelika,NJ,830137738,38 Kirkland Street
+Triangle Pub - CT,1:30,23:30,4629335,Selma,CT,838069729,10 East Vine Drive
+Palmer Place - AR,3:30,21:30,2314729,Ozark,AR,157837785,1 Blackburn Ave
+Wish You Were Beer - OH,2:30,21:30,7689532,Phenix City,OH,671951837,38 Kirkland Street
+Madison Pub - OR,12:30,21:30,9161339,Selma,OR,749500138,8 Blackburn Ave
+The Pitch & Roll - MA,4:30,23:30,6076533,Jasper,MA,461856894,97 East Vine Drive
+The Bourbon Bar - KS,3:00,22:30,2707066,Atmore,KS,389749521,733 Myrtle St. 
+The Cask - MI,1:00,21:30,8307392,Selma,MI,250924560,38 Kirkland Street
+Hooverville Bar - ME,1:00,21:30,9643524,Clanton,ME,708617456,733 Myrtle St. 
+Death & Co. - MA,4:00,22:00,7966591,Demopolis,MA,291500634,50 East Vine Drive
+Olive or Twist - OK,4:30,22:00,5392475,Gadsden,OK,910533365,12 Blackburn Ave
+The Red, White, and Brew - ND,3:00,22:30,3330208,Bessemer,ND,860362460,12 Blackburn Ave
+The Library Sports Bar - UT,3:00,23:00,4965030,Phenix City,UT,585872478,38 Kirkland Street
+Moon Work - MN,2:30,21:30,8546882,Chickasaw,MN,677562751,97 East Vine Drive
+Heartbeat - WA,1:00,23:30,6731494,Phenix City,WA,738959107,50 East Vine Drive
+Duchess Tavern - AZ,12:30,22:30,3621565,Decatur,AZ,840118433,38 Kirkland Street
+Cantina - CO,2:30,22:00,1591333,Prichard,CO,783027763,60 East Vine Drive
+Duchess Tavern - CO,12:30,22:00,1592831,Prichard,CO,121804667,17 East Vine Drive
+Bar of the Gods - DE,2:30,23:30,2574353,Ozark,DE,573745193,9862 Wentworth St.
+Mongoose Versus Cobra - AK,4:00,22:00,8651041,Andalusia,AK,858345797,8 Blackburn Ave
+Lenys Place - UT,2:00,21:30,9422536,Enterprise,UT,799593942,17 East Vine Drive
+Smog Cutter - OK,12:30,23:30,7100840,Decatur,OK,749472488,60 East Vine Drive
+Bloodhound - MS,1:30,21:30,9768859,Eufaula,MS,127743332,9862 Wentworth St.
+The Peoples Republik - ID,2:30,23:30,7860411,Opelika,ID,442316131,12 Blackburn Ave
+Bar of the Gods - TX,4:00,22:00,1755655,Athens,TX,110189284,12 Blackburn Ave
+Bloodhound - OH,1:30,23:30,5418104,Dothan,OH,787014405,1 Blackburn Ave
+Olde 99 - DE,4:30,21:30,2590882,Sylacauga,DE,872093334,38 Kirkland Street
+Elixir - UT,3:30,21:30,5908085,Gadsden,UT,468190834,8 Blackburn Ave
+Bar of the Gods - GA,4:30,23:30,1927995,Decatur,GA,108537101,38 Kirkland Street
+Bean Me Up - AR,4:30,22:00,3997455,Mobile,AR,439973384,601 Shirley Ave
+Olive or Twist - MT,3:30,23:00,9412759,Prichard,MT,554532701,17 East Vine Drive
+Lava Lounge - IA,12:30,23:30,9659879,Phenix City,IA,654767117,97 East Vine Drive
+Boxcar Ale House - NC,4:30,24:00,8985070,Sheffield,NC,749665013,601 Shirley Ave
+Dutch Kills - CO,2:30,22:30,7306577,Phenix City,CO,763459167,1 Blackburn Ave
+Atomic Liquors - AR,4:00,23:30,2037746,Greenville,AR,939660760,12 Blackburn Ave
+Duchess Tavern - NE,12:30,22:00,3482500,Birmingham,NE,257437773,12 Blackburn Ave
+Smog Cutter - NH,4:30,23:00,6149413,Dothan,NH,267408308,50 East Vine Drive
+Hard Times & Misery Saloon - WV,4:30,23:30,9597993,Talladega,WV,435796648,11 Blackburn Ave
+Rob Roy - NE,1:00,24:00,7762128,Scottsboro,NE,579691957,8 Blackburn Ave
+Ozzies - SC,2:30,22:30,1006045,Athens,SC,559371024,733 Myrtle St. 
+Shortys - TN,4:30,23:30,7425187,Marion,TN,624509259,10 East Vine Drive
+Wish You Were Beer - CA,2:30,22:30,5528993,Gadsden,CA,844070394,7 Blackburn Ave
+Moon Work - CA,1:30,23:00,8353549,Greenville,CA,276357638,9862 Wentworth St.
+The Library Sports Bar - MA,2:00,23:30,7193016,Decatur,MA,406300434,7 Blackburn Ave
+Brew Ha Ha - OK,1:00,24:00,9088794,Guntersville,OK,872422352,10 East Vine Drive
+The Red, White, and Brew - MD,1:30,23:00,8332445,Fort Payne,MD,656917852,50 East Vine Drive
+Hazlewood - UT,1:30,21:30,7978798,Huntsville,UT,976418090,38 Kirkland Street
+The Brewseum - KY,1:00,22:00,8516400,Mobile,KY,427575787,17 East Vine Drive
+Happy Daze - NE,4:30,24:00,8561051,Enterprise,NE,878286435,17 East Vine Drive
+Mecca Cafe - TN,1:00,23:30,9744253,Bessemer,TN,695947495,12 Blackburn Ave
+Unphogettable - NC,3:30,23:00,2367470,Gadsden,NC,659275436,17 East Vine Drive
+The Surly Wench Pub - MN,3:00,23:00,8189230,Opelika,MN,164569585,7 Blackburn Ave
+The Monkey Farm Cafe - AR,12:30,22:00,3592940,Dothan,AR,448175081,11 Blackburn Ave
+Rossis - MD,1:30,23:30,9331697,Jasper,MD,877291909,8 Blackburn Ave
+Olde 99 - IA,3:00,23:30,8627406,Demopolis,IA,139612799,10 East Vine Drive
+Madison Pub - AR,2:30,22:30,2710923,Atmore,AR,695411050,8 Blackburn Ave
+The Fainting Goat - MT,12:30,23:30,6187389,Dothan,MT,971263749,9862 Wentworth St.
+Benders Bar and Grill - PA,2:00,24:00,8503273,Decatur,PA,676962768,60 East Vine Drive
+Fat Angel - CO,2:00,23:30,7031998,Talladega,CO,448201295,1 Blackburn Ave
+Bar of the Gods - CA,2:30,24:00,9355588,Scottsboro,CA,764268598,88 Blackburn Ave
+Moon Work - MA,2:00,21:30,2808008,Opelika,MA,766453775,601 Shirley Ave
+Moe Bar - AZ,12:30,23:30,4407079,Dothan,AZ,615235981,1 Blackburn Ave
+The Boardroom - NM,4:00,24:00,4076820,Montgomery,NM,424816428,17 East Vine Drive
+Happy Daze - TN,1:30,22:00,7482302,Scottsboro,TN,641212700,60 East Vine Drive
+Thai & Mighty - TX,4:30,24:00,4429463,Eufaula,TX,411293586,7 Blackburn Ave
+Double A - NJ,12:30,22:00,2012419,Decatur,NJ,717733923,12 Blackburn Ave
+Bubbas Sulky Lounge - NJ,4:00,23:30,8459542,Greenville,NJ,517765939,11 Blackburn Ave
+Shortys - PA,1:30,21:30,1004195,Greenville,PA,458925258,17 East Vine Drive
+Brews Brothers - ME,2:30,22:00,4787906,Prichard,ME,211545887,50 East Vine Drive
+Wish You Were Beer - AZ,1:00,22:30,3487749,Opelika,AZ,452770444,40 East Vine Drive
+Thai & Mighty - NJ,2:30,22:00,5513835,Dothan,NJ,656436317,17 East Vine Drive
+Happy Daze - AK,1:00,22:00,4799895,Anniston,AK,754998903,40 East Vine Drive
+Jumbos Clown Room - MI,3:30,24:00,2830116,Andalusia,MI,200339036,97 East Vine Drive
+Ozzies - PA,2:00,23:00,1341312,Enterprise,PA,732590639,733 Myrtle St. 
+Beer and Loathing in Dundee - FL,4:00,21:30,9208182,Anniston,FL,585110522,50 East Vine Drive
+Rob Roy - LA,4:30,21:30,9103227,Huntsville,LA,415148591,97 East Vine Drive
+Elixir - TN,4:30,22:00,4686644,Anniston,TN,981267949,7 Blackburn Ave
+Bubbas Sulky Lounge - NY,1:30,23:30,9722846,Phenix City,NY,708647343,9862 Wentworth St.
+Elixir - KS,3:00,22:30,9830935,Athens,KS,601649677,12 Blackburn Ave
+Basic Kneads Pizza - NJ,1:30,22:00,2411178,Andalusia,NJ,134580463,88 Blackburn Ave
+Bar of the Gods - KY,4:00,22:00,9454123,Huntsville,KY,886693601,733 Myrtle St. 
+The Grizzled Wizard - NE,1:30,23:00,3937940,Atmore,NE,555518752,40 East Vine Drive
+Men at Wok - IL,12:30,22:00,1966410,Demopolis,IL,354681309,12 Blackburn Ave
+Aesops Tables - CT,3:00,23:00,3671927,Phenix City,CT,318452201,50 East Vine Drive
+Lenys Place - ND,2:30,22:00,9761157,Scottsboro,ND,868695087,8 Blackburn Ave
+Lenys Place - CT,4:30,21:30,7322545,Talladega,CT,492144134,97 East Vine Drive
+The Pastry War - OK,1:30,23:00,1605395,Enterprise,OK,210488847,8 Blackburn Ave
+Hop Sing Laundromat - AK,3:30,22:00,7455688,Greenville,AK,828085774,40 East Vine Drive
+Potters Lounde - NJ,4:00,23:00,7221204,Fort Payne,NJ,748521870,50 East Vine Drive
+The Jack Saloon - MA,3:00,21:30,6873634,Eufaula,MA,996175776,97 East Vine Drive
+The Red, White, and Brew - ME,2:30,23:00,8429633,Anniston,ME,189060518,17 East Vine Drive
+Fat Angel - KS,1:30,22:30,5465614,Ozark,KS,159950575,7 Blackburn Ave
+The Brewseum - NV,12:30,22:00,3814955,Demopolis,NV,651266641,12 Blackburn Ave
+The Grizzled Wizard - VA,2:30,22:00,3096049,Opelika,VA,936948030,38 Kirkland Street
+Liberty - FL,2:30,24:00,8618748,Ozark,FL,497773537,1 Blackburn Ave
+Mission Bar - CA,3:00,22:00,4344461,Clanton,CA,895580468,88 Blackburn Ave
+Happy Daze - DE,3:00,23:00,4066391,Prichard,DE,246806208,60 East Vine Drive
+Tin n Lint - RI,2:30,23:30,8190848,Auburn,RI,353261773,1 Blackburn Ave
+Bar of the Gods - WV,4:30,22:00,1283032,Scottsboro,WV,150358184,97 East Vine Drive
+The Grizzled Wizard - GA,2:00,24:00,2619221,Decatur,GA,395485916,11 Blackburn Ave
+The Hideout - MD,2:00,23:30,2710558,Eufaula,MD,758603951,17 East Vine Drive
+Shortys - GA,4:30,22:30,2760146,Decatur,GA,110460340,50 East Vine Drive
+Bar of the Gods - IA,3:00,24:00,4183961,Fort Payne,IA,982413765,50 East Vine Drive
+Elixir - NJ,4:30,22:00,3591183,Clanton,NJ,522795355,17 East Vine Drive
+Aesops Tables - NM,3:30,22:00,6766869,Mobile,NM,105062109,50 East Vine Drive
+Vitos - CA,3:00,22:00,2658331,Chickasaw,CA,418371883,17 East Vine Drive
+Atomic Liquors - NH,2:30,22:00,1708105,Bessemer,NH,673364754,8 Blackburn Ave
+Smog Cutter - MN,3:00,24:00,7001614,Phenix City,MN,773325105,38 Kirkland Street
+Moe Bar - WA,2:30,22:00,6227246,Chickasaw,WA,901532043,9862 Wentworth St.
+Corner Pocket - PA,3:30,22:00,5362018,Andalusia,PA,887800075,733 Myrtle St. 
+Brew Ha Ha - WA,1:00,22:00,9828744,Montgomery,WA,565955895,8 Blackburn Ave
+Quarter Lounge - MT,2:00,23:00,6406423,Guntersville,MT,997057581,17 East Vine Drive
+Boxcar Ale House - CO,2:30,22:30,9460489,Montgomery,CO,349681940,12 Blackburn Ave
+Bandits Bar - RI,3:00,22:00,6107945,Athens,RI,886080302,9862 Wentworth St.
+Mecca Cafe - ID,4:30,22:00,4002606,Ozark,ID,542913080,7 Blackburn Ave
+The Monkey Farm Cafe - DE,1:30,22:00,7672367,Cullman,DE,487969883,9862 Wentworth St.
+Olde 99 - TN,2:30,22:00,7601209,Huntsville,TN,614544187,97 East Vine Drive
+Jumbos Clown Room - AZ,12:30,22:00,3357654,Florence,AZ,197214587,601 Shirley Ave
+Bar Cotto - ND,4:00,23:30,2249380,Montgomery,ND,568258938,11 Blackburn Ave
+The Pitch & Roll - AZ,2:30,22:30,4448008,Marion,AZ,132811110,8 Blackburn Ave
+Shortys - ID,2:30,24:00,5755364,Cullman,ID,537405441,601 Shirley Ave
+Palmer Place - AZ,12:30,23:00,2348479,Scottsboro,AZ,836434557,8 Blackburn Ave
+Men at Wok - TN,1:30,21:30,3500731,Fort Payne,TN,476492925,1 Blackburn Ave
+Olde 99 - MN,3:00,23:30,6014375,Huntsville,MN,218113252,1 Blackburn Ave
+Dutch Kills - NV,2:00,23:30,7103220,Cullman,NV,943824292,9862 Wentworth St.
+Unphogettable - OH,12:30,22:00,4697661,Sheffield,OH,439019567,97 East Vine Drive
+Death & Co. - CO,1:30,22:00,1170999,Athens,CO,433578313,17 East Vine Drive
+Hooverville Bar - LA,12:30,22:00,4658132,Cullman,LA,510117696,733 Myrtle St. 
+Streamline Tavern - WV,2:00,22:30,5976400,Selma,WV,751620845,8 Blackburn Ave
+Vitos - NE,3:30,22:00,8813767,Talladega,NE,365621646,60 East Vine Drive
+Bandits Bar - KS,1:00,24:00,6023741,Marion,KS,451292099,88 Blackburn Ave
+Corner Pocket - VA,12:30,21:30,3510555,Marion,VA,415582649,60 East Vine Drive
+Mongoose Versus Cobra - DE,1:00,22:00,8488339,Jasper,DE,300305691,88 Blackburn Ave
+The Tasting Room - SC,2:00,23:30,2995160,Auburn,SC,359812397,11 Blackburn Ave
+Last Call Bar - TN,2:00,21:30,9506703,Decatur,TN,240766861,40 East Vine Drive
+Happy Birthday Bar - SC,4:30,23:30,5640172,Atmore,SC,383417632,8 Blackburn Ave
+The Bourbon Bar - MN,3:30,22:00,2627409,Atmore,MN,427715776,601 Shirley Ave
+Death & Co. - ID,4:00,21:30,3986384,Demopolis,ID,593499833,17 East Vine Drive
+Olde 99 - MD,3:00,23:30,4672318,Clanton,MD,204124396,97 East Vine Drive
+Shortys - VA,2:00,22:00,8270279,Prichard,VA,575449773,12 Blackburn Ave
+The Pastry War - PA,1:30,23:00,8012482,Opelika,PA,432976087,733 Myrtle St. 
+The Fainting Goat - RI,3:00,23:30,5917645,Anniston,RI,941909751,1 Blackburn Ave
+The Sitting Room - KY,3:00,24:00,9936975,Sylacauga,KY,619862277,97 East Vine Drive
+Olive or Twist - CO,2:00,22:30,2874634,Guntersville,CO,348845347,11 Blackburn Ave
+Mustards Last Stand - RI,4:00,22:00,4551510,Fort Payne,RI,608190809,97 East Vine Drive
+Open Sesame - OH,4:00,23:00,9653350,Marion,OH,806782617,1 Blackburn Ave
+The Peoples Republik - CT,12:30,23:30,4910590,Dothan,CT,244553512,601 Shirley Ave
+Brotherhood of Thieves - SC,1:00,21:30,5417964,Decatur,SC,801778237,11 Blackburn Ave
+Thai & Mighty - CA,3:30,22:30,2995358,Huntsville,CA,394964665,8 Blackburn Ave
+The Sitting Room - OH,12:30,24:00,4481014,Huntsville,OH,313945001,8 Blackburn Ave
+95 Slide - NC,1:00,22:30,2806241,Selma,NC,101769216,60 East Vine Drive
+Mongoose Versus Cobra - OK,4:30,21:30,4756474,Greenville,OK,851938917,88 Blackburn Ave
+Hard Times & Misery Saloon - OH,1:30,22:30,7074079,Huntsville,OH,595954199,17 East Vine Drive
+Hard Times & Misery Saloon - NM,4:00,22:30,4390321,Anniston,NM,560611654,601 Shirley Ave
+The Boardroom - CA,2:00,23:00,3586555,Gadsden,CA,172902891,10 East Vine Drive
+Death & Co. - KY,4:00,23:30,9778391,Eufaula,KY,513223085,10 East Vine Drive
+Liberty - NY,3:00,22:00,2077722,Talladega,NY,875168126,733 Myrtle St. 
+Quarter Lounge - MA,3:30,23:00,2868022,Montgomery,MA,236922201,60 East Vine Drive
+Atomic Liquors - IA,1:30,23:30,9579794,Mobile,IA,960895216,733 Myrtle St. 
+Crimson Lounge - TX,4:30,22:00,6085329,Dothan,TX,660489141,97 East Vine Drive
+Shortys - NH,3:00,22:30,7278596,Opelika,NH,346377081,11 Blackburn Ave
+The Brewseum - GA,3:00,23:30,4552863,Demopolis,GA,299823096,97 East Vine Drive
+Hot Bird - ND,4:00,22:00,7797192,Atmore,ND,127196945,97 East Vine Drive
+Noc Noc - OR,4:00,22:30,9850359,Eufaula,OR,632126960,50 East Vine Drive
+Thai & Mighty - FL,1:00,21:30,7819736,Athens,FL,668769680,11 Blackburn Ave
+Happy Daze - KY,2:30,22:00,7602907,Athens,KY,126128711,9862 Wentworth St.
+Moe Bar - MN,2:00,23:30,6216367,Andalusia,MN,431694028,17 East Vine Drive
+Beer and Loathing in Dundee - KY,3:30,22:30,8347358,Opelika,KY,760300921,97 East Vine Drive
+Noc Noc - AR,12:30,24:00,1331345,Clanton,AR,534668479,60 East Vine Drive
+Basic Kneads Pizza - OR,3:30,24:00,1442299,Marion,OR,241457384,12 Blackburn Ave
+Quarter Lounge - IA,12:30,23:00,1698702,Guntersville,IA,721148461,60 East Vine Drive
+Moon Work - AK,3:30,22:00,7140442,Athens,AK,945941562,50 East Vine Drive
+21 & Cup - HI,12:30,23:30,2342123,Chickasaw,HI,515501215,9862 Wentworth St.
+Dutch Kills - MO,1:00,22:00,9703024,Montgomery,MO,168612490,38 Kirkland Street
+Angels and Kings - MT,2:30,22:30,9795952,Opelika,MT,157873500,50 East Vine Drive
+Tavern Law - OH,3:00,23:00,6280920,Selma,OH,193333564,38 Kirkland Street
+The Twilight Exit - MO,2:00,24:00,1872945,Selma,MO,905389730,50 East Vine Drive
+Unphogettable - AZ,3:00,23:00,9328261,Decatur,AZ,574449503,1 Blackburn Ave
+Hard Times & Misery Saloon - WA,1:00,22:30,5581869,Cullman,WA,300971286,97 East Vine Drive
+The Boardroom - WV,1:00,24:00,4799116,Andalusia,WV,374300672,12 Blackburn Ave
+The Crescent Lounge - MO,4:30,24:00,6011174,Ozark,MO,802923795,17 East Vine Drive
+The Cask - WV,1:30,21:30,7706971,Enterprise,WV,868512376,88 Blackburn Ave
+Grumpys Goat Shack - VT,3:00,23:30,9217741,Prichard,VT,395170500,17 East Vine Drive
+Smog Cutter - ND,12:30,24:00,6663776,Marion,ND,647667976,7 Blackburn Ave
+Lone Palm - MO,4:00,21:30,9133375,Greenville,MO,105089008,733 Myrtle St. 
+Atomic Liquors - NM,4:30,24:00,5857688,Sylacauga,NM,187511392,17 East Vine Drive
+The Hideout - KS,1:00,22:30,9589428,Andalusia,KS,397309617,11 Blackburn Ave
+Double A - GA,4:00,24:00,6262624,Gadsden,GA,278178950,17 East Vine Drive
+The Cask - AZ,1:30,22:30,2526798,Athens,AZ,600605591,17 East Vine Drive
+Grumpys Goat Shack - OR,3:00,23:00,4484142,Andalusia,OR,948516254,601 Shirley Ave
+Hard Times & Misery Saloon - MS,4:30,23:00,1257323,Decatur,MS,992309417,97 East Vine Drive
+Hooverville Bar - AR,3:30,23:30,6627066,Montgomery,AR,893548592,733 Myrtle St. 
+Brew Ha Ha - TN,1:00,22:00,7562360,Clanton,TN,683880248,11 Blackburn Ave
+Death & Co. - KS,2:00,23:00,7013770,Talladega,KS,915012978,88 Blackburn Ave
+Tavern Law - WV,2:30,24:00,8255536,Demopolis,WV,195970157,12 Blackburn Ave
+The Billy Goat Tavern - ND,1:30,23:00,9794927,Greenville,ND,765930558,40 East Vine Drive
+Amelie - MA,4:30,23:30,9477573,Chickasaw,MA,416938447,1 Blackburn Ave
+Hard Times & Misery Saloon - TX,2:00,23:30,1383843,Auburn,TX,271199765,97 East Vine Drive
+The Boardroom - DE,1:00,22:00,3303687,Atmore,DE,558038517,17 East Vine Drive
+Over the Tapas - MI,4:30,22:00,8245674,Birmingham,MI,515391796,38 Kirkland Street
+Lone Palm - OR,2:30,23:30,4025926,Atmore,OR,944298402,97 East Vine Drive
+Brews Brothers - CT,1:00,23:00,5178808,Guntersville,CT,337228411,50 East Vine Drive
+Madison Pub - PA,1:00,24:00,2812448,Cullman,PA,354953828,38 Kirkland Street
+Basic Kneads Pizza - DE,3:30,23:00,2926180,Decatur,DE,917504301,50 East Vine Drive
+Hop Sing Laundromat - LA,1:30,23:00,8756724,Montgomery,LA,384288044,7 Blackburn Ave
+Happy Birthday Bar - MO,12:30,23:00,7865883,Selma,MO,172378117,601 Shirley Ave
+Grumpys Goat Shack - RI,1:30,24:00,9168169,Gadsden,RI,259883950,50 East Vine Drive
+Hot Bird - RI,4:00,21:30,7450513,Bessemer,RI,729759466,601 Shirley Ave
+Thai & Mighty - IA,2:00,23:30,7753968,Dothan,IA,395146535,12 Blackburn Ave
+Olde 99 - UT,1:00,22:00,5789709,Phenix City,UT,851907160,50 East Vine Drive

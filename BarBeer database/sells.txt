@@ -1,0 +1,1000 @@
+Bandits Bar - NY,Abita Amber - Tsingtao Brewery Group,15.50
+Men at Wok - NY,Abita Amber - Tsingtao Brewery Group,15.50
+Boxcar Ale House - PA,Afanasy Dark Beer - Carlsberg,8.00
+Bubbas Sulky Lounge - WV,Abita Abbey Ale - Yanjing,15.00
+Ozzies - TN,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Boxcar Ale House - PA,Alhambra Especial Premium Lager - Heineken,9.09
+The Grizzled Wizard - MI,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+The Surly Wench Pub - NH,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Beer and Loathing in Dundee - SD,Abita Turbodog - Carlsberg,6.79
+Ballard Loft - ID,Acme California Pale Ale - Boston Beer Co,8.00
+Fat Angel - NV,Allagash White - Asahi,5.16
+Rossis - PA,AleSmith Old Numbskull - Pabst,13.04
+Ozzies - VA,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Unphogettable - ND,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Jumbos Clown Room - IA,AleSmith IPA - Molson Coors Brewing,12.00
+Atomic Liquors - MI,Acme California IPA - China Resources Snow Breweries,6.66
+The Pitch & Roll - NJ,Anchor Liberty Ale - Pabst,10.43
+Cantina - NH,Affligem Blonde - Yanjing,9.99
+The Surly Wench Pub - IA,Abita Abbey Ale - Yanjing,15.00
+Boxcar Ale House - AZ,Afanasy Dark Beer - Carlsberg,8.00
+Happy Birthday Bar - IA,Anchor Steam - Yanjing,15.00
+Grumpys Goat Shack - TN,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Hard Times & Misery Saloon - MO,Abita Abbey Ale - Yanjing,15.00
+Rossis - PA,Abita Turbodog - Carlsberg,6.79
+The Bourbon Bar - AR,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Ozzies - VA,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Mecca Cafe - WV,Alhambra Especial Premium Lager - Heineken,9.09
+Rossis - PA,Altenmunster Premium - North American Breweries,11.19
+Rob Roy - PA,Acme California IPA - China Resources Snow Breweries,6.66
+Double A - AK,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Corner Pocket - MS,Amstel Light - North American Breweries,8.81
+The Cask - PA,Alamo Golden Ale - Carlsberg,7.00
+Tempest Bar - ME,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Happy Daze - MT,Amsterdam Framboise - Diageo North America,7.92
+The Bourbon Bar - LA,Amsterdam Natural Blonde - Heineken,7.77
+Smog Cutter - NC,Anchor Porter - Yanjing,11.17
+Grumpys Goat Shack - TN,Abita Amber - Tsingtao Brewery Group,15.50
+The Pitch & Roll - TX,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Tin n Lint - OR,Anchor Liberty Ale - Pabst,10.43
+Rye - MT,Amstel Light - North American Breweries,8.81
+Comet Tavern - AZ,Amsterdam Framboise - Diageo North America,7.92
+Rossis - PA,Abita Turbodog - Carlsberg,6.79
+Men at Wok - NY,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Bar Cotto - SC,Alamo Golden Ale - Carlsberg,7.00
+The Surly Wench Pub - IA,Altenmunster Premium - North American Breweries,11.19
+Triangle Pub - NM,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Elixir - NY,Abita Wheat - Carlsberg,4:99
+Wish You Were Beer - NM,Amsterdam Framboise - Diageo North America,7.92
+Rossis - VA,A Marca Bavaria - Yanjing,5.00
+Wish You Were Beer - NY,Abita Amber - Tsingtao Brewery Group,15.50
+Mustards Last Stand - OR,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Ozzies - VA,Afanasy Dark Beer - Carlsberg,8.00
+Cantina - NH,Affligem Blonde - Yanjing,9.99
+Tin n Lint - OR,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+The Boardroom - NV,Afanasy Dark Beer - Carlsberg,8.00
+Wish You Were Beer - NM,Altenmunster Premium - North American Breweries,11.19
+Jumbos Clown Room - ND,Abita Jockamo IPA - Constellation Brands,11.23
+Lenys Place - KS,Anchor Porter - Yanjing,11.17
+The Cask - PA,Abita Light - Carlsberg,12.21
+Duchess Tavern - MT,Alhambra Especial Premium Lager - Heineken,9.09
+Hot Bird - MN,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Atomic Liquors - TN,Amstel 1870 - Constellation Brands,7.60
+Unphogettable - ND,Aass Juleol Premium - Carlsberg,12.00
+Mongoose Versus Cobra - CA,Acme California IPA - China Resources Snow Breweries,6.66
+Double A - NE,Anchor Bock Beer - Pabst,9.29
+Wish You Were Beer - NY,Aass Genuine Pilsner - Yanjing,7.89
+Bar Cotto - GA,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Rossis - VA,Affligem Blonde - Yanjing,9.99
+Amelie - ND,Afanasy Dark Beer - Carlsberg,8.00
+Tempest Bar - CA,A Marca Bavaria - Yanjing,5.00
+Hot Bird - MN,Aass Juleol Premium - Carlsberg,12.00
+The Pitch & Roll - NJ,Acme California Pale Ale - Boston Beer Co,8.00
+Elixir - MN,Abita Turbodog - Carlsberg,6.79
+Ozzies - VA,Anchor Porter - Yanjing,11.17
+Liberty - NM,Abita Turbodog - Carlsberg,6.79
+Grumpys Goat Shack - IN,Anchor Bock Beer - Pabst,9.29
+Rye - MT,Affligem Blonde - Yanjing,9.99
+Lenys Place - HI,Anchor Liberty Ale - Pabst,10.43
+Fireside Bar - MS,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Mustards Last Stand - TX,Abita Amber - Tsingtao Brewery Group,15.50
+Fat Angel - HI,AleSmith IPA - Molson Coors Brewing,12.00
+Hazlewood - MD,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Jumbos Clown Room - IA,Anchor Bock Beer - Pabst,9.29
+Rye - MT,Abita Amber - Tsingtao Brewery Group,15.50
+Heartbeat - DE,Amsterdam Natural Blonde - Heineken,7.77
+The Pitch & Roll - NJ,A Marca Bavaria - Yanjing,5.00
+Bandits Bar - NY,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Ballard Loft - ID,Acme California IPA - China Resources Snow Breweries,6.66
+Duchess Tavern - MT,Abita Turbodog - Carlsberg,6.79
+Crimson Lounge - FL,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Rye - MT,A Marca Bavaria - Yanjing,5.00
+Bar Cotto - SC,Anchor Porter - Yanjing,11.17
+Beer and Loathing in Dundee - SD,Altenmunster Premium - North American Breweries,11.19
+Brotherhood of Thieves - OR,Amsterdam Natural Blonde - Heineken,7.77
+Ballard Loft - FL,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Bar Cotto - SC,Allagash White - Asahi,5.16
+Ballard Loft - ID,Abita Jockamo IPA - Constellation Brands,11.23
+Corner Pocket - MS,Anchor Liberty Ale - Pabst,10.43
+The Tasting Room - ME,A Marca Bavaria - Yanjing,5.00
+The Pitch & Roll - TX,Amsterdam Natural Blonde - Heineken,7.77
+Tin n Lint - OR,Altenmunster Premium - North American Breweries,11.19
+Bar Cotto - MD,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Mustards Last Stand - OR,Amstel Light - North American Breweries,8.81
+Aesops Tables - MS,Alamo Golden Ale - Carlsberg,7.00
+Boxcar Ale House - MI,AleSmith IPA - Molson Coors Brewing,12.00
+Bar Cotto - GA,Abita Wheat - Carlsberg,4:99
+Amelie - ND,Anchor Porter - Yanjing,11.17
+Rossis - VA,Aass Bock Beer - Anheuser-Busch InBev,10.00
+The Tipsy Cow - AR,Aass Genuine Pilsner - Yanjing,7.89
+Aesops Tables - MS,Allagash Tripel Reserve - Heineken,8.21
+Rob Roy - PA,Anchor Porter - Yanjing,11.17
+The Pitch & Roll - TX,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Double A - NE,Abita Jockamo IPA - Constellation Brands,11.23
+Lone Palm - NJ,Amsterdam Natural Blonde - Heineken,7.77
+Hooverville Bar - UT,Anchor Steam - Yanjing,15.00
+Over the Tapas - VA,Amsterdam Framboise - Diageo North America,7.92
+Atomic Liquors - TN,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Comet Tavern - WV,Anchor Bock Beer - Pabst,9.29
+Comet Tavern - AZ,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Quarter Lounge - NC,Altenmunster Premium - North American Breweries,11.19
+Hot Bird - MN,Abita Amber - Tsingtao Brewery Group,15.50
+Noc Noc - AZ,Abita Jockamo IPA - Constellation Brands,11.23
+Rossis - MA,Anchor Liberty Ale - Pabst,10.43
+Happy Birthday Bar - ND,Allagash Tripel Reserve - Heineken,8.21
+Wish You Were Beer - NY,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Quarter Lounge - NC,Abita Turbodog - Carlsberg,6.79
+Ozzies - VA,Abita Jockamo IPA - Constellation Brands,11.23
+Heartbeat - DE,Anchor Bock Beer - Pabst,9.29
+The Grizzled Wizard - MN,Abita Turbodog - Carlsberg,6.79
+Double A - NE,Abita Amber - Tsingtao Brewery Group,15.50
+Fireside Bar - MS,Alhambra Especial Premium Lager - Heineken,9.09
+Tin n Lint - VA,Affligem Blonde - Yanjing,9.99
+Grumpys Goat Shack - TN,Amsterdam Natural Blonde - Heineken,7.77
+Boxcar Ale House - AZ,Allagash Tripel Reserve - Heineken,8.21
+Triangle Pub - NM,Abita Abbey Ale - Yanjing,15.00
+Ozzies - TN,Abita Jockamo IPA - Constellation Brands,11.23
+Corner Pocket - MS,Abita Amber - Tsingtao Brewery Group,15.50
+Bandits Bar - NY,Abita Abbey Ale - Yanjing,15.00
+Bar Cotto - SC,Abita Wheat - Carlsberg,4:99
+Tempest Bar - ME,Abita Turbodog - Carlsberg,6.79
+Heartbeat - DE,Aass Genuine Pilsner - Yanjing,7.89
+Bar Cotto - GA,AleSmith Old Numbskull - Pabst,13.04
+Cantina - NH,Aass Bock Beer - Anheuser-Busch InBev,10.00
+The Grizzled Wizard - MN,Aass Genuine Pilsner - Yanjing,7.89
+Happy Birthday Bar - IA,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Boxcar Ale House - PA,Acme California Pale Ale - Boston Beer Co,8.00
+Bloodhound - TN,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Hard Times & Misery Saloon - MO,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Ballard Loft - ID,Aass Juleol Premium - Carlsberg,12.00
+Ozzies - VA,Amstel 1870 - Constellation Brands,7.60
+Bloodhound - TN,Abita Turbodog - Carlsberg,6.79
+Bar Cotto - GA,Abita Light - Carlsberg,12.21
+Wish You Were Beer - NY,Altenmunster Premium - North American Breweries,11.19
+Duchess Tavern - MT,AleSmith IPA - Molson Coors Brewing,12.00
+Boxcar Ale House - AZ,AleSmith Old Numbskull - Pabst,13.04
+Lenys Place - HI,Afanasy Dark Beer - Carlsberg,8.00
+Mecca Cafe - WV,Aass Genuine Pilsner - Yanjing,7.89
+Fireside Bar - MS,Allagash Dubbel Reserve - Yanjing,9.00
+Triangle Pub - NM,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+The Surly Wench Pub - NH,Aass Genuine Pilsner - Yanjing,7.89
+Tempest Bar - CA,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Mustards Last Stand - TX,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Happy Birthday Bar - IL,Abita Light - Carlsberg,12.21
+Fireside Bar - MS,Acme California IPA - China Resources Snow Breweries,6.66
+Mustards Last Stand - TX,Altenmunster Premium - North American Breweries,11.19
+Wish You Were Beer - NY,A Marca Bavaria - Yanjing,5.00
+Jumbos Clown Room - ND,Anchor Steam - Yanjing,15.00
+Happy Birthday Bar - IL,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Double A - NE,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Hooverville Bar - IL,Amsterdam Framboise - Diageo North America,7.92
+The Grizzled Wizard - MN,Abita Jockamo IPA - Constellation Brands,11.23
+The Boardroom - NV,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Wish You Were Beer - NY,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Grumpys Goat Shack - TN,Alamo Golden Ale - Carlsberg,7.00
+The Surly Wench Pub - NH,Amstel Light - North American Breweries,8.81
+Liberty - NM,Abita Jockamo IPA - Constellation Brands,11.23
+Boxcar Ale House - MI,Acme California Pale Ale - Boston Beer Co,8.00
+Comet Tavern - WV,Afanasy Dark Beer - Carlsberg,8.00
+Fireside Bar - MS,Aass Juleol Premium - Carlsberg,12.00
+Bar Cotto - SC,Abita Wheat - Carlsberg,4:99
+Mustards Last Stand - TX,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Beer and Loathing in Dundee - SD,A Marca Bavaria - Yanjing,5.00
+Duchess Tavern - MT,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Rob Roy - PA,Amsterdam Natural Blonde - Heineken,7.77
+Duchess Tavern - MT,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Bubbas Sulky Lounge - WV,Anchor Porter - Yanjing,11.17
+Grumpys Goat Shack - MN,AleSmith Old Numbskull - Pabst,13.04
+The Pitch & Roll - NJ,Anchor Bock Beer - Pabst,9.29
+Liberty - NM,Amsterdam Natural Blonde - Heineken,7.77
+The Jack Saloon - GA,Amstel Light - North American Breweries,8.81
+Unphogettable - ND,AleSmith Old Numbskull - Pabst,13.04
+Brotherhood of Thieves - OR,Allagash White - Asahi,5.16
+The Cask - PA,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+The Tasting Room - ME,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Thai & Mighty - SD,Altenmunster Premium - North American Breweries,11.19
+Aesops Tables - TN,Amstel Light - North American Breweries,8.81
+Boxcar Ale House - AZ,Acme California IPA - China Resources Snow Breweries,6.66
+Fireside Bar - MS,Abita Abbey Ale - Yanjing,15.00
+The Surly Wench Pub - NH,Abita Abbey Ale - Yanjing,15.00
+Comet Tavern - WV,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Hooverville Bar - IL,Amsterdam Framboise - Diageo North America,7.92
+Ozzies - TN,Abita Amber - Tsingtao Brewery Group,15.50
+Aesops Tables - TN,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Grumpys Goat Shack - TN,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Double A - ME,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Mongoose Versus Cobra - CA,Anchor Bock Beer - Pabst,9.29
+Bubbas Sulky Lounge - WV,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Bar Cotto - SC,Amsterdam Natural Blonde - Heineken,7.77
+Rye - MT,Allagash Tripel Reserve - Heineken,8.21
+The Pitch & Roll - NJ,Amstel 1870 - Constellation Brands,7.60
+Fat Angel - NV,AleSmith Old Numbskull - Pabst,13.04
+Elixir - NY,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Boxcar Ale House - MI,Abita Wheat - Carlsberg,4:99
+Jumbos Clown Room - IA,Anchor Porter - Yanjing,11.17
+Jumbos Clown Room - ND,Aass Juleol Premium - Carlsberg,12.00
+Double A - ME,Anchor Liberty Ale - Pabst,10.43
+Brotherhood of Thieves - OR,Acme California Pale Ale - Boston Beer Co,8.00
+Double A - AK,Aass Juleol Premium - Carlsberg,12.00
+Tin n Lint - OR,AleSmith IPA - Molson Coors Brewing,12.00
+Jumbos Clown Room - MO,Allagash White - Asahi,5.16
+The Surly Wench Pub - IA,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Over the Tapas - VA,Abita Light - Carlsberg,12.21
+The Bourbon Bar - LA,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Double A - PA,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Ballard Loft - ID,Affligem Blonde - Yanjing,9.99
+Hard Times & Misery Saloon - MO,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Noc Noc - AZ,Amsterdam Natural Blonde - Heineken,7.77
+Tempest Bar - CA,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Noc Noc - AZ,Abita Wheat - Carlsberg,4:99
+Happy Birthday Bar - IA,Afanasy Dark Beer - Carlsberg,8.00
+Happy Daze - MT,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Ballard Loft - FL,Anchor Porter - Yanjing,11.17
+Duchess Tavern - MT,Allagash Dubbel Reserve - Yanjing,9.00
+Hot Bird - MN,A Marca Bavaria - Yanjing,5.00
+Rossis - NJ,Amsterdam Natural Blonde - Heineken,7.77
+The Surly Wench Pub - NH,Aass Juleol Premium - Carlsberg,12.00
+Lone Palm - NJ,Allagash Tripel Reserve - Heineken,8.21
+Jumbos Clown Room - MO,Aass Juleol Premium - Carlsberg,12.00
+Amelie - ND,AleSmith IPA - Molson Coors Brewing,12.00
+Boxcar Ale House - AZ,Aass Juleol Premium - Carlsberg,12.00
+The Bourbon Bar - LA,Abita Wheat - Carlsberg,4:99
+Atomic Liquors - MI,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Rossis - NJ,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+The Tipsy Cow - AR,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Cantina - NH,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Quarter Lounge - NC,Aass Genuine Pilsner - Yanjing,7.89
+Grumpys Goat Shack - TN,Acme California Pale Ale - Boston Beer Co,8.00
+Boxcar Ale House - WV,Anchor Liberty Ale - Pabst,10.43
+Triangle Pub - NM,Anchor Liberty Ale - Pabst,10.43
+Elixir - MN,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+The Jack Saloon - KY,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Beer and Loathing in Dundee - SD,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Tin n Lint - VA,Abita Light - Carlsberg,12.21
+Brew Ha Ha - IL,Amstel Light - North American Breweries,8.81
+Aesops Tables - TN,Allagash Dubbel Reserve - Yanjing,9.00
+Liberty - NM,Abita Amber - Tsingtao Brewery Group,15.50
+The Boardroom - NV,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Double A - NE,Allagash Dubbel Reserve - Yanjing,9.00
+Happy Birthday Bar - IL,Alhambra Especial Premium Lager - Heineken,9.09
+Hot Bird - MN,Altenmunster Premium - North American Breweries,11.19
+The Bourbon Bar - AR,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Over the Tapas - VA,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Men at Wok - NY,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Quarter Lounge - NC,Abita Wheat - Carlsberg,4:99
+Rossis - PA,Aass Genuine Pilsner - Yanjing,7.89
+The Cask - PA,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+The Cask - PA,Affligem Blonde - Yanjing,9.99
+Elixir - MN,Anchor Steam - Yanjing,15.00
+Duchess Tavern - MT,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Fat Angel - NV,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Rossis - MA,Abita Abbey Ale - Yanjing,15.00
+The Grizzled Wizard - MN,Anchor Bock Beer - Pabst,9.29
+Smog Cutter - NC,Anchor Porter - Yanjing,11.17
+Brew Ha Ha - IL,Acme California Pale Ale - Boston Beer Co,8.00
+Ozzies - TN,Amstel 1870 - Constellation Brands,7.60
+Double A - PA,Allagash Tripel Reserve - Heineken,8.21
+Boxcar Ale House - MI,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Rossis - PA,Amstel 1870 - Constellation Brands,7.60
+Happy Birthday Bar - IL,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Lenys Place - NM,Anchor Porter - Yanjing,11.17
+Grumpys Goat Shack - IN,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Fireside Bar - MS,Acme California IPA - China Resources Snow Breweries,6.66
+Duchess Tavern - MT,Acme California IPA - China Resources Snow Breweries,6.66
+The Surly Wench Pub - IA,Allagash Tripel Reserve - Heineken,8.21
+The Bourbon Bar - LA,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Boxcar Ale House - MI,Aass Genuine Pilsner - Yanjing,7.89
+Comet Tavern - AZ,Allagash White - Asahi,5.16
+Noc Noc - AZ,Abita Amber - Tsingtao Brewery Group,15.50
+Double A - ME,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Olde 99 - NY,Anchor Bock Beer - Pabst,9.29
+Double A - ME,Abita Jockamo IPA - Constellation Brands,11.23
+Mustards Last Stand - OR,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Rossis - VA,Altenmunster Premium - North American Breweries,11.19
+Fireside Bar - MS,Amsterdam Framboise - Diageo North America,7.92
+Atomic Liquors - TN,Aass Juleol Premium - Carlsberg,12.00
+Happy Birthday Bar - IA,Aass Genuine Pilsner - Yanjing,7.89
+Quarter Lounge - NC,Abita Amber - Tsingtao Brewery Group,15.50
+Corner Pocket - MS,Abita Abbey Ale - Yanjing,15.00
+Fat Angel - NV,Anchor Steam - Yanjing,15.00
+The Surly Wench Pub - IA,AleSmith IPA - Molson Coors Brewing,12.00
+Mustards Last Stand - TX,Amsterdam Framboise - Diageo North America,7.92
+Double A - NE,Anchor Porter - Yanjing,11.17
+The Grizzled Wizard - MI,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Grumpys Goat Shack - TN,Amsterdam Framboise - Diageo North America,7.92
+Unphogettable - ND,Alhambra Especial Premium Lager - Heineken,9.09
+Mecca Cafe - WV,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Jumbos Clown Room - ND,Allagash White - Asahi,5.16
+Rye - MT,Aass Juleol Premium - Carlsberg,12.00
+The Tipsy Cow - AR,Alamo Golden Ale - Carlsberg,7.00
+Lenys Place - KS,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Tempest Bar - ME,Alamo Golden Ale - Carlsberg,7.00
+Hooverville Bar - IL,Alamo Golden Ale - Carlsberg,7.00
+Over the Tapas - VA,Amsterdam Natural Blonde - Heineken,7.77
+Bar Cotto - SC,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Over the Tapas - VA,Aass Juleol Premium - Carlsberg,12.00
+Thai & Mighty - SD,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Lenys Place - HI,Aass Juleol Premium - Carlsberg,12.00
+Bandits Bar - NY,Abita Turbodog - Carlsberg,6.79
+Happy Daze - MT,Allagash Tripel Reserve - Heineken,8.21
+Amelie - ND,Amsterdam Natural Blonde - Heineken,7.77
+Atomic Liquors - MI,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Lenys Place - NM,Anchor Steam - Yanjing,15.00
+Rossis - VA,Abita Amber - Tsingtao Brewery Group,15.50
+Brew Ha Ha - IL,Alexander Keith's India Pale Ale - Carlsberg,13.35
+The Tasting Room - ME,Allagash White - Asahi,5.16
+Mustards Last Stand - OR,Acme California Pale Ale - Boston Beer Co,8.00
+Mustards Last Stand - OR,Abita Turbodog - Carlsberg,6.79
+Corner Pocket - MS,Alhambra Especial Premium Lager - Heineken,9.09
+Rossis - PA,Anchor Bock Beer - Pabst,9.29
+Crimson Lounge - FL,Anchor Bock Beer - Pabst,9.29
+Mustards Last Stand - OR,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+The Grizzled Wizard - MN,Anchor Porter - Yanjing,11.17
+Wish You Were Beer - NY,Allagash Dubbel Reserve - Yanjing,9.00
+Quarter Lounge - NC,Amsterdam Framboise - Diageo North America,7.92
+Mustards Last Stand - TX,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Duchess Tavern - MT,Allagash Tripel Reserve - Heineken,8.21
+Rossis - PA,Allagash Dubbel Reserve - Yanjing,9.00
+Rob Roy - PA,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Ballard Loft - ID,Anchor Liberty Ale - Pabst,10.43
+Rob Roy - ME,Amsterdam Framboise - Diageo North America,7.92
+The Pitch & Roll - TX,AleSmith Old Numbskull - Pabst,13.04
+Bar Cotto - GA,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Happy Birthday Bar - IL,Alamo Golden Ale - Carlsberg,7.00
+The Tasting Room - ME,Acme California Pale Ale - Boston Beer Co,8.00
+Grumpys Goat Shack - IN,Allagash Dubbel Reserve - Yanjing,9.00
+Beer and Loathing in Dundee - SD,Altenmunster Premium - North American Breweries,11.19
+The Bourbon Bar - AR,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Triangle Pub - NM,Altenmunster Premium - North American Breweries,11.19
+Amelie - ND,Aass Juleol Premium - Carlsberg,12.00
+Atomic Liquors - TN,AleSmith Old Numbskull - Pabst,13.04
+Bar Cotto - SC,Abita Abbey Ale - Yanjing,15.00
+Mongoose Versus Cobra - CA,Afanasy Dark Beer - Carlsberg,8.00
+Bubbas Sulky Lounge - WV,Abita Amber - Tsingtao Brewery Group,15.50
+Grumpys Goat Shack - MN,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Elixir - NY,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Tin n Lint - OR,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Tin n Lint - VA,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Over the Tapas - VA,Abita Abbey Ale - Yanjing,15.00
+Atomic Liquors - TN,Amsterdam Framboise - Diageo North America,7.92
+Hazlewood - MD,Altenmunster Premium - North American Breweries,11.19
+Double A - AK,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Grumpys Goat Shack - TN,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Olde 99 - NY,Affligem Blonde - Yanjing,9.99
+Tempest Bar - CA,Acme California IPA - China Resources Snow Breweries,6.66
+Rossis - MA,Acme California IPA - China Resources Snow Breweries,6.66
+Fat Angel - HI,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Boxcar Ale House - WV,Amsterdam Natural Blonde - Heineken,7.77
+Triangle Pub - NM,Allagash White - Asahi,5.16
+Brew Ha Ha - IL,Aass Juleol Premium - Carlsberg,12.00
+The Bourbon Bar - LA,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Mecca Cafe - WV,Amsterdam Framboise - Diageo North America,7.92
+Rossis - NJ,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Comet Tavern - WV,Allagash Tripel Reserve - Heineken,8.21
+Happy Birthday Bar - IL,Amsterdam Natural Blonde - Heineken,7.77
+Grumpys Goat Shack - IN,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Tempest Bar - CA,Abita Light - Carlsberg,12.21
+The Bourbon Bar - LA,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Happy Birthday Bar - IA,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Lava Lounge - MO,Afanasy Dark Beer - Carlsberg,8.00
+Atomic Liquors - TN,Abita Abbey Ale - Yanjing,15.00
+Boxcar Ale House - AZ,Abita Wheat - Carlsberg,4:99
+The Pitch & Roll - TX,Acme California Pale Ale - Boston Beer Co,8.00
+The Tipsy Cow - AR,Afanasy Dark Beer - Carlsberg,8.00
+The Jack Saloon - GA,AleSmith IPA - Molson Coors Brewing,12.00
+Thai & Mighty - SD,Afanasy Dark Beer - Carlsberg,8.00
+The Pitch & Roll - NJ,Afanasy Dark Beer - Carlsberg,8.00
+The Bourbon Bar - LA,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Smog Cutter - NC,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Corner Pocket - MS,Abita Abbey Ale - Yanjing,15.00
+Tin n Lint - OR,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Elixir - MN,Amstel 1870 - Constellation Brands,7.60
+Tin n Lint - OR,Acme California Pale Ale - Boston Beer Co,8.00
+Lone Palm - NJ,A Marca Bavaria - Yanjing,5.00
+Over the Tapas - VA,Abita Amber - Tsingtao Brewery Group,15.50
+Hard Times & Misery Saloon - MO,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Rossis - PA,Amsterdam Framboise - Diageo North America,7.92
+Tempest Bar - ME,AleSmith Old Numbskull - Pabst,13.04
+Ballard Loft - FL,Anchor Liberty Ale - Pabst,10.43
+Hazlewood - MD,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Double A - NE,Alamo Golden Ale - Carlsberg,7.00
+Wish You Were Beer - NY,Altenmunster Premium - North American Breweries,11.19
+Crimson Lounge - FL,Allagash Tripel Reserve - Heineken,8.21
+The Pitch & Roll - TX,Amsterdam Framboise - Diageo North America,7.92
+Bar Cotto - SC,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Double A - NE,Amsterdam Framboise - Diageo North America,7.92
+Double A - AK,Abita Wheat - Carlsberg,4:99
+Rossis - PA,AleSmith IPA - Molson Coors Brewing,12.00
+Double A - AK,Acme California IPA - China Resources Snow Breweries,6.66
+Bar Cotto - GA,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Rossis - NJ,Abita Amber - Tsingtao Brewery Group,15.50
+Rossis - VA,Amsterdam Natural Blonde - Heineken,7.77
+Rossis - MA,Allagash White - Asahi,5.16
+Boxcar Ale House - PA,Allagash White - Asahi,5.16
+The Peoples Republik - OR,Anchor Liberty Ale - Pabst,10.43
+Mecca Cafe - WV,Anchor Steam - Yanjing,15.00
+Jumbos Clown Room - MO,Alhambra Especial Premium Lager - Heineken,9.09
+Corner Pocket - MS,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Hot Bird - MN,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Happy Birthday Bar - IL,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Fat Angel - NV,Abita Wheat - Carlsberg,4:99
+Happy Birthday Bar - IL,A Marca Bavaria - Yanjing,5.00
+Tin n Lint - OR,Amstel Light - North American Breweries,8.81
+Double A - ME,Abita Abbey Ale - Yanjing,15.00
+Cantina - NH,Amstel Light - North American Breweries,8.81
+The Surly Wench Pub - IA,Allagash Dubbel Reserve - Yanjing,9.00
+Grumpys Goat Shack - MN,Aass Genuine Pilsner - Yanjing,7.89
+The Bourbon Bar - LA,Anchor Liberty Ale - Pabst,10.43
+Bandits Bar - NY,Abita Wheat - Carlsberg,4:99
+Thai & Mighty - SD,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Bar Cotto - SC,A Marca Bavaria - Yanjing,5.00
+Fireside Bar - MS,Aass Genuine Pilsner - Yanjing,7.89
+The Peoples Republik - OR,Amstel 1870 - Constellation Brands,7.60
+Boxcar Ale House - PA,Amstel Light - North American Breweries,8.81
+The Bourbon Bar - LA,Anchor Bock Beer - Pabst,9.29
+Grumpys Goat Shack - MN,Allagash White - Asahi,5.16
+Lenys Place - HI,Abita Jockamo IPA - Constellation Brands,11.23
+Boxcar Ale House - AZ,Allagash White - Asahi,5.16
+The Jack Saloon - KY,Amsterdam Natural Blonde - Heineken,7.77
+Jumbos Clown Room - IA,Amsterdam Framboise - Diageo North America,7.92
+The Jack Saloon - KY,Abita Jockamo IPA - Constellation Brands,11.23
+Double A - ME,Acme California Pale Ale - Boston Beer Co,8.00
+Fireside Bar - MS,Allagash Dubbel Reserve - Yanjing,9.00
+Boxcar Ale House - MI,Allagash Tripel Reserve - Heineken,8.21
+Happy Daze - MT,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Atomic Liquors - MI,Anchor Steam - Yanjing,15.00
+The Jack Saloon - GA,Amsterdam Framboise - Diageo North America,7.92
+Lenys Place - HI,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Bloodhound - TN,Amstel 1870 - Constellation Brands,7.60
+Comet Tavern - WV,Acme California IPA - China Resources Snow Breweries,6.66
+Wish You Were Beer - NY,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Beer and Loathing in Dundee - SD,Abita Amber - Tsingtao Brewery Group,15.50
+Wish You Were Beer - NM,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Bloodhound - TN,Abita Turbodog - Carlsberg,6.79
+Bar Cotto - SC,Anchor Porter - Yanjing,11.17
+Noc Noc - AZ,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Wish You Were Beer - NY,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Wish You Were Beer - NY,Acme California IPA - China Resources Snow Breweries,6.66
+Brotherhood of Thieves - OR,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Tempest Bar - CA,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Elixir - NY,Abita Jockamo IPA - Constellation Brands,11.23
+Duchess Tavern - MT,Anchor Liberty Ale - Pabst,10.43
+Jumbos Clown Room - ND,Abita Turbodog - Carlsberg,6.79
+Tin n Lint - OR,AleSmith IPA - Molson Coors Brewing,12.00
+The Tipsy Cow - AR,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Hooverville Bar - IL,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Atomic Liquors - TN,Amsterdam Natural Blonde - Heineken,7.77
+Boxcar Ale House - AZ,Abita Abbey Ale - Yanjing,15.00
+Elixir - NY,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Tin n Lint - VA,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Tempest Bar - CA,Abita Wheat - Carlsberg,4:99
+Quarter Lounge - NC,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Tempest Bar - CA,Abita Wheat - Carlsberg,4:99
+Comet Tavern - AZ,Affligem Blonde - Yanjing,9.99
+The Boardroom - NV,Amstel Light - North American Breweries,8.81
+Happy Birthday Bar - ND,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Liberty - NM,Abita Amber - Tsingtao Brewery Group,15.50
+The Cask - PA,Aass Juleol Premium - Carlsberg,12.00
+Bandits Bar - NY,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Men at Wok - NY,Allagash Dubbel Reserve - Yanjing,9.00
+Hard Times & Misery Saloon - MO,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Lava Lounge - MO,Amstel Light - North American Breweries,8.81
+Wish You Were Beer - NM,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Fat Angel - NV,Amstel Light - North American Breweries,8.81
+Ozzies - VA,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Duchess Tavern - MT,Abita Jockamo IPA - Constellation Brands,11.23
+Happy Birthday Bar - IA,Anchor Porter - Yanjing,11.17
+Ballard Loft - ID,Affligem Blonde - Yanjing,9.99
+Lenys Place - KS,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Double A - AK,Altenmunster Premium - North American Breweries,11.19
+Rob Roy - ME,Amsterdam Natural Blonde - Heineken,7.77
+Wish You Were Beer - NY,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Happy Birthday Bar - IA,Abita Abbey Ale - Yanjing,15.00
+Rossis - PA,Amstel Light - North American Breweries,8.81
+The Grizzled Wizard - MI,Aass Genuine Pilsner - Yanjing,7.89
+The Bourbon Bar - AR,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Smog Cutter - NC,Abita Wheat - Carlsberg,4:99
+Brew Ha Ha - IL,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Rossis - VA,Affligem Blonde - Yanjing,9.99
+Lone Palm - NJ,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Rossis - NJ,Amsterdam Framboise - Diageo North America,7.92
+Cantina - NH,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Tin n Lint - OR,Abita Light - Carlsberg,12.21
+Quarter Lounge - NC,Alamo Golden Ale - Carlsberg,7.00
+The Grizzled Wizard - MN,Affligem Blonde - Yanjing,9.99
+The Bourbon Bar - LA,Alamo Golden Ale - Carlsberg,7.00
+Mustards Last Stand - TX,Allagash Dubbel Reserve - Yanjing,9.00
+Rossis - VA,Anchor Steam - Yanjing,15.00
+Hooverville Bar - IL,Allagash Dubbel Reserve - Yanjing,9.00
+Mustards Last Stand - OR,Amsterdam Natural Blonde - Heineken,7.77
+Triangle Pub - NM,Alamo Golden Ale - Carlsberg,7.00
+Crimson Lounge - FL,Allagash Tripel Reserve - Heineken,8.21
+Wish You Were Beer - NY,Abita Wheat - Carlsberg,4:99
+Elixir - MN,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Lava Lounge - MO,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+The Boardroom - NV,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Smog Cutter - NC,Altenmunster Premium - North American Breweries,11.19
+Liberty - NM,A Marca Bavaria - Yanjing,5.00
+Boxcar Ale House - WV,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Lenys Place - HI,Alhambra Especial Premium Lager - Heineken,9.09
+Ozzies - TN,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Wish You Were Beer - NM,Afanasy Dark Beer - Carlsberg,8.00
+Mecca Cafe - WV,Abita Amber - Tsingtao Brewery Group,15.50
+Elixir - NY,Abita Turbodog - Carlsberg,6.79
+Lava Lounge - MO,Amstel 1870 - Constellation Brands,7.60
+Noc Noc - AZ,Aass Juleol Premium - Carlsberg,12.00
+Men at Wok - NY,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Mongoose Versus Cobra - CA,Aass Genuine Pilsner - Yanjing,7.89
+Men at Wok - NY,Affligem Blonde - Yanjing,9.99
+Elixir - MN,Altenmunster Premium - North American Breweries,11.19
+Rye - MT,Anchor Porter - Yanjing,11.17
+Ozzies - TN,A Marca Bavaria - Yanjing,5.00
+Heartbeat - DE,Aass Genuine Pilsner - Yanjing,7.89
+Beer and Loathing in Dundee - SD,Amstel 1870 - Constellation Brands,7.60
+The Surly Wench Pub - NH,Abita Turbodog - Carlsberg,6.79
+Tempest Bar - CA,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Duchess Tavern - MT,Abita Turbodog - Carlsberg,6.79
+The Cask - PA,Amsterdam Natural Blonde - Heineken,7.77
+Lone Palm - NJ,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Bubbas Sulky Lounge - WV,Anchor Steam - Yanjing,15.00
+Double A - ME,Allagash White - Asahi,5.16
+The Bourbon Bar - AR,Aass Genuine Pilsner - Yanjing,7.89
+The Surly Wench Pub - IA,Anchor Steam - Yanjing,15.00
+Wish You Were Beer - NY,Aass Genuine Pilsner - Yanjing,7.89
+The Pitch & Roll - NJ,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Grumpys Goat Shack - TN,Acme California IPA - China Resources Snow Breweries,6.66
+Rossis - PA,Afanasy Dark Beer - Carlsberg,8.00
+Bandits Bar - NY,Anchor Steam - Yanjing,15.00
+Lenys Place - NM,Abita Turbodog - Carlsberg,6.79
+Aesops Tables - TN,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Double A - PA,Amstel 1870 - Constellation Brands,7.60
+The Surly Wench Pub - IA,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Mongoose Versus Cobra - CA,A Marca Bavaria - Yanjing,5.00
+Ballard Loft - FL,Amsterdam Framboise - Diageo North America,7.92
+Lenys Place - NM,Anchor Bock Beer - Pabst,9.29
+Cantina - NH,Amstel 1870 - Constellation Brands,7.60
+Wish You Were Beer - NY,Abita Abbey Ale - Yanjing,15.00
+Mustards Last Stand - OR,Anchor Bock Beer - Pabst,9.29
+Over the Tapas - VA,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Bar Cotto - GA,Anchor Bock Beer - Pabst,9.29
+The Pitch & Roll - TX,AleSmith IPA - Molson Coors Brewing,12.00
+Happy Birthday Bar - IL,Abita Light - Carlsberg,12.21
+Noc Noc - AZ,Abita Turbodog - Carlsberg,6.79
+The Surly Wench Pub - NH,Allagash Tripel Reserve - Heineken,8.21
+Fat Angel - NV,Alamo Golden Ale - Carlsberg,7.00
+Heartbeat - DE,Anchor Steam - Yanjing,15.00
+Thai & Mighty - SD,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Boxcar Ale House - PA,Amstel 1870 - Constellation Brands,7.60
+Bar Cotto - GA,Amsterdam Natural Blonde - Heineken,7.77
+Grumpys Goat Shack - MN,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Thai & Mighty - SD,Acme California Pale Ale - Boston Beer Co,8.00
+Brotherhood of Thieves - OR,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Over the Tapas - VA,Abita Light - Carlsberg,12.21
+Double A - NE,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Happy Daze - MT,Anchor Bock Beer - Pabst,9.29
+Happy Birthday Bar - IL,Anchor Porter - Yanjing,11.17
+Noc Noc - AZ,Abita Light - Carlsberg,12.21
+Jumbos Clown Room - MO,A Marca Bavaria - Yanjing,5.00
+Happy Birthday Bar - ND,Amsterdam Natural Blonde - Heineken,7.77
+The Jack Saloon - KY,Aass Genuine Pilsner - Yanjing,7.89
+Boxcar Ale House - MI,Affligem Blonde - Yanjing,9.99
+Double A - AK,Acme California Pale Ale - Boston Beer Co,8.00
+The Pitch & Roll - NJ,Amstel 1870 - Constellation Brands,7.60
+Double A - ME,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Cantina - NH,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Lenys Place - NM,Abita Jockamo IPA - Constellation Brands,11.23
+Bar Cotto - MD,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Tin n Lint - OR,Abita Amber - Tsingtao Brewery Group,15.50
+Mecca Cafe - WV,A Marca Bavaria - Yanjing,5.00
+Jumbos Clown Room - MO,Anchor Porter - Yanjing,11.17
+Jumbos Clown Room - MO,Alamo Golden Ale - Carlsberg,7.00
+Rob Roy - PA,Abita Jockamo IPA - Constellation Brands,11.23
+Bar Cotto - SC,Alamo Golden Ale - Carlsberg,7.00
+Elixir - MN,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Bubbas Sulky Lounge - WV,Amstel 1870 - Constellation Brands,7.60
+Mecca Cafe - WV,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Boxcar Ale House - MI,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Double A - PA,Amstel 1870 - Constellation Brands,7.60
+Boxcar Ale House - WV,Alhambra Especial Premium Lager - Heineken,9.09
+Fat Angel - HI,Aass Genuine Pilsner - Yanjing,7.89
+Over the Tapas - VA,Abita Jockamo IPA - Constellation Brands,11.23
+Aesops Tables - MS,Amstel 1870 - Constellation Brands,7.60
+Fat Angel - NV,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Jumbos Clown Room - ND,Anchor Bock Beer - Pabst,9.29
+Ballard Loft - FL,Abita Jockamo IPA - Constellation Brands,11.23
+Crimson Lounge - FL,Anchor Bock Beer - Pabst,9.29
+Crimson Lounge - FL,Acme California IPA - China Resources Snow Breweries,6.66
+Brotherhood of Thieves - OR,Alhambra Especial Premium Lager - Heineken,9.09
+Hazlewood - MD,AleSmith IPA - Molson Coors Brewing,12.00
+Ozzies - TN,Aass Genuine Pilsner - Yanjing,7.89
+Boxcar Ale House - AZ,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Bar Cotto - GA,Abita Light - Carlsberg,12.21
+Rossis - VA,Abita Light - Carlsberg,12.21
+Over the Tapas - VA,Alhambra Especial Premium Lager - Heineken,9.09
+Hazlewood - MD,Anchor Bock Beer - Pabst,9.29
+Hooverville Bar - IL,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Boxcar Ale House - MI,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Hot Bird - MN,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Fat Angel - NV,Abita Turbodog - Carlsberg,6.79
+Atomic Liquors - MI,Alexander Keith's India Pale Ale - Carlsberg,13.35
+The Pitch & Roll - TX,Acme California IPA - China Resources Snow Breweries,6.66
+Elixir - MN,Altenmunster Premium - North American Breweries,11.19
+Bar Cotto - GA,Abita Abbey Ale - Yanjing,15.00
+Grumpys Goat Shack - MN,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+The Tasting Room - ME,Acme California IPA - China Resources Snow Breweries,6.66
+Boxcar Ale House - AZ,Affligem Blonde - Yanjing,9.99
+The Bourbon Bar - AR,AleSmith Old Numbskull - Pabst,13.04
+Double A - PA,Amstel Light - North American Breweries,8.81
+Happy Daze - MT,A Marca Bavaria - Yanjing,5.00
+Jumbos Clown Room - IA,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Brotherhood of Thieves - OR,Acme California IPA - China Resources Snow Breweries,6.66
+Mongoose Versus Cobra - CA,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+The Pitch & Roll - NJ,Amstel 1870 - Constellation Brands,7.60
+Men at Wok - NY,AleSmith IPA - Molson Coors Brewing,12.00
+Rossis - PA,Anchor Bock Beer - Pabst,9.29
+Liberty - NM,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Quarter Lounge - NC,Abita Light - Carlsberg,12.21
+Hooverville Bar - UT,Anchor Porter - Yanjing,11.17
+Happy Daze - MT,Affligem Blonde - Yanjing,9.99
+Boxcar Ale House - MI,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Happy Birthday Bar - ND,Altenmunster Premium - North American Breweries,11.19
+Aesops Tables - MS,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Tempest Bar - ME,Anchor Bock Beer - Pabst,9.29
+Duchess Tavern - MT,Anchor Bock Beer - Pabst,9.29
+Hooverville Bar - UT,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Ballard Loft - FL,Anchor Steam - Yanjing,15.00
+Mongoose Versus Cobra - CA,Anchor Porter - Yanjing,11.17
+The Grizzled Wizard - MN,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Fireside Bar - MS,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Bubbas Sulky Lounge - WV,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Hooverville Bar - IL,Affligem Blonde - Yanjing,9.99
+Jumbos Clown Room - IA,Abita Light - Carlsberg,12.21
+Atomic Liquors - MI,AleSmith Old Numbskull - Pabst,13.04
+Bar Cotto - MD,Afanasy Dark Beer - Carlsberg,8.00
+Mustards Last Stand - OR,Afanasy Dark Beer - Carlsberg,8.00
+Lenys Place - KS,Abita Jockamo IPA - Constellation Brands,11.23
+Elixir - NY,Anchor Porter - Yanjing,11.17
+Men at Wok - NY,Amsterdam Framboise - Diageo North America,7.92
+Beer and Loathing in Dundee - SD,Acme California IPA - China Resources Snow Breweries,6.66
+Grumpys Goat Shack - IN,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Hard Times & Misery Saloon - MO,Afanasy Dark Beer - Carlsberg,8.00
+Triangle Pub - NM,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Double A - NE,Anchor Liberty Ale - Pabst,10.43
+Fireside Bar - MS,Acme California Pale Ale - Boston Beer Co,8.00
+Fireside Bar - MS,Aass Bock Beer - Anheuser-Busch InBev,10.00
+The Jack Saloon - GA,Abita Amber - Tsingtao Brewery Group,15.50
+Lenys Place - HI,Amsterdam Framboise - Diageo North America,7.92
+The Surly Wench Pub - NH,Amstel Light - North American Breweries,8.81
+Hooverville Bar - IL,Allagash Dubbel Reserve - Yanjing,9.00
+Heartbeat - DE,Anchor Liberty Ale - Pabst,10.43
+The Peoples Republik - OR,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Happy Birthday Bar - IA,Affligem Blonde - Yanjing,9.99
+Men at Wok - NY,Anchor Steam - Yanjing,15.00
+Olde 99 - NY,Anchor Porter - Yanjing,11.17
+Hooverville Bar - IL,Amsterdam Natural Blonde - Heineken,7.77
+Rob Roy - ME,AleSmith Old Numbskull - Pabst,13.04
+The Bourbon Bar - LA,Acme California Pale Ale - Boston Beer Co,8.00
+Tin n Lint - VA,Abita Abbey Ale - Yanjing,15.00
+Grumpys Goat Shack - MN,AleSmith Old Numbskull - Pabst,13.04
+Mustards Last Stand - TX,Anchor Liberty Ale - Pabst,10.43
+Wish You Were Beer - NY,Allagash Tripel Reserve - Heineken,8.21
+Double A - ME,Abita Turbodog - Carlsberg,6.79
+Tin n Lint - VA,Anchor Steam - Yanjing,15.00
+The Peoples Republik - OR,Amstel 1870 - Constellation Brands,7.60
+The Pitch & Roll - TX,Abita Turbodog - Carlsberg,6.79
+Mongoose Versus Cobra - CA,Acme California Pale Ale - Boston Beer Co,8.00
+Men at Wok - NY,Allagash Tripel Reserve - Heineken,8.21
+Rob Roy - ME,A Marca Bavaria - Yanjing,5.00
+Cantina - NH,Amstel 1870 - Constellation Brands,7.60
+Boxcar Ale House - WV,Anchor Porter - Yanjing,11.17
+Atomic Liquors - TN,Amsterdam Natural Blonde - Heineken,7.77
+Boxcar Ale House - WV,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Atomic Liquors - TN,Aass Juleol Premium - Carlsberg,12.00
+Quarter Lounge - NC,Acme California IPA - China Resources Snow Breweries,6.66
+Bubbas Sulky Lounge - WV,Amstel Light - North American Breweries,8.81
+Fat Angel - HI,Anchor Bock Beer - Pabst,9.29
+Happy Birthday Bar - ND,Abita Jockamo IPA - Constellation Brands,11.23
+Rob Roy - PA,Anchor Bock Beer - Pabst,9.29
+Unphogettable - ND,Aass Juleol Premium - Carlsberg,12.00
+Boxcar Ale House - MI,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Fireside Bar - MS,Allagash Tripel Reserve - Heineken,8.21
+Bar Cotto - MD,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Double A - ME,Altenmunster Premium - North American Breweries,11.19
+Tempest Bar - CA,Aass Genuine Pilsner - Yanjing,7.89
+The Jack Saloon - KY,Amstel Light - North American Breweries,8.81
+Tin n Lint - OR,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Hot Bird - MN,A Marca Bavaria - Yanjing,5.00
+Ozzies - VA,Amsterdam Natural Blonde - Heineken,7.77
+Boxcar Ale House - AZ,Afanasy Dark Beer - Carlsberg,8.00
+Triangle Pub - NM,Abita Amber - Tsingtao Brewery Group,15.50
+Lone Palm - NJ,Abita Light - Carlsberg,12.21
+Lenys Place - KS,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Heartbeat - DE,Allagash White - Asahi,5.16
+Amelie - ND,Acme California Pale Ale - Boston Beer Co,8.00
+Aesops Tables - TN,Abita Light - Carlsberg,12.21
+Mustards Last Stand - OR,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Comet Tavern - AZ,Amsterdam Framboise - Diageo North America,7.92
+Fat Angel - HI,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Unphogettable - ND,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Rossis - VA,Acme California Pale Ale - Boston Beer Co,8.00
+The Jack Saloon - KY,Anchor Steam - Yanjing,15.00
+Jumbos Clown Room - IA,Anchor Bock Beer - Pabst,9.29
+Comet Tavern - AZ,Abita Turbodog - Carlsberg,6.79
+Lone Palm - NJ,Acme California IPA - China Resources Snow Breweries,6.66
+Olde 99 - NY,AleSmith IPA - Molson Coors Brewing,12.00
+Double A - ME,Anchor Bock Beer - Pabst,9.29
+Rob Roy - ME,Aass Juleol Premium - Carlsberg,12.00
+The Grizzled Wizard - MI,Abita Jockamo IPA - Constellation Brands,11.23
+Hazlewood - MD,Acme California Pale Ale - Boston Beer Co,8.00
+Triangle Pub - NM,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+The Peoples Republik - OR,Abita Wheat - Carlsberg,4:99
+Rossis - MA,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Unphogettable - ND,Abita Abbey Ale - Yanjing,15.00
+Jumbos Clown Room - IA,Anchor Liberty Ale - Pabst,10.43
+Lone Palm - NJ,Abita Light - Carlsberg,12.21
+The Jack Saloon - KY,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Comet Tavern - AZ,Abita Wheat - Carlsberg,4:99
+Crimson Lounge - FL,Acme California IPA - China Resources Snow Breweries,6.66
+Noc Noc - AZ,Affligem Blonde - Yanjing,9.99
+Grumpys Goat Shack - MN,Anchor Bock Beer - Pabst,9.29
+Fireside Bar - MS,Allagash White - Asahi,5.16
+The Jack Saloon - GA,Amstel Light - North American Breweries,8.81
+Aesops Tables - TN,Abita Jockamo IPA - Constellation Brands,11.23
+Lenys Place - KS,Amsterdam Natural Blonde - Heineken,7.77
+Jumbos Clown Room - IA,Acme California IPA - China Resources Snow Breweries,6.66
+Quarter Lounge - NC,AleSmith Old Numbskull - Pabst,13.04
+Hooverville Bar - IL,Aass Genuine Pilsner - Yanjing,7.89
+Comet Tavern - AZ,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Aesops Tables - TN,Anchor Liberty Ale - Pabst,10.43
+Mecca Cafe - WV,Abita Light - Carlsberg,12.21
+Double A - ME,Alamo Golden Ale - Carlsberg,7.00
+The Tasting Room - ME,Abita Abbey Ale - Yanjing,15.00
+Thai & Mighty - SD,Allagash White - Asahi,5.16
+Mustards Last Stand - OR,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Mongoose Versus Cobra - CA,Aass Juleol Premium - Carlsberg,12.00
+Beer and Loathing in Dundee - SD,AleSmith IPA - Molson Coors Brewing,12.00
+Ozzies - TN,Allagash Dubbel Reserve - Yanjing,9.00
+Tempest Bar - ME,Abita Wheat - Carlsberg,4:99
+Triangle Pub - NM,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Lenys Place - HI,AleSmith IPA - Molson Coors Brewing,12.00
+The Jack Saloon - GA,Altenmunster Premium - North American Breweries,11.19
+Double A - ME,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Ozzies - TN,Afanasy Dark Beer - Carlsberg,8.00
+Happy Daze - MT,Anchor Liberty Ale - Pabst,10.43
+Atomic Liquors - MI,Aass Bock Beer - Anheuser-Busch InBev,10.00
+The Bourbon Bar - AR,Amstel 1870 - Constellation Brands,7.60
+Hooverville Bar - IL,Aass Genuine Pilsner - Yanjing,7.89
+Aesops Tables - TN,Abita Abbey Ale - Yanjing,15.00
+Double A - NE,Alamo Golden Ale - Carlsberg,7.00
+Elixir - MN,Anchor Steam - Yanjing,15.00
+The Pitch & Roll - NJ,Afanasy Dark Beer - Carlsberg,8.00
+Ballard Loft - ID,Anchor Bock Beer - Pabst,9.29
+Amelie - ND,AleSmith Old Numbskull - Pabst,13.04
+Hazlewood - MD,Anchor Liberty Ale - Pabst,10.43
+Hot Bird - MN,Abita Light - Carlsberg,12.21
+Olde 99 - NY,Anchor Bock Beer - Pabst,9.29
+Hooverville Bar - UT,Anchor Porter - Yanjing,11.17
+The Bourbon Bar - LA,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Amelie - ND,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Ozzies - VA,Affligem Blonde - Yanjing,9.99
+Beer and Loathing in Dundee - SD,A Marca Bavaria - Yanjing,5.00
+Cantina - NH,Anchor Porter - Yanjing,11.17
+The Jack Saloon - KY,Alhambra Especial Premium Lager - Heineken,9.09
+The Pitch & Roll - NJ,Abita Amber - Tsingtao Brewery Group,15.50
+Rossis - NJ,Amsterdam Framboise - Diageo North America,7.92
+Quarter Lounge - NC,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Happy Daze - MT,Abita Jockamo IPA - Constellation Brands,11.23
+The Surly Wench Pub - NH,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Mustards Last Stand - OR,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+The Grizzled Wizard - MI,Anchor Liberty Ale - Pabst,10.43
+Unphogettable - ND,Afanasy Dark Beer - Carlsberg,8.00
+Fat Angel - HI,Aass Bock Beer - Anheuser-Busch InBev,10.00
+The Tipsy Cow - AR,Acme California Pale Ale - Boston Beer Co,8.00
+Mongoose Versus Cobra - CA,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Duchess Tavern - MT,Anchor Liberty Ale - Pabst,10.43
+Bandits Bar - NY,Acme California IPA - China Resources Snow Breweries,6.66
+Corner Pocket - MS,Acme California Pale Ale - Boston Beer Co,8.00
+Tin n Lint - VA,Abita Wheat - Carlsberg,4:99
+Wish You Were Beer - NY,Alhambra Especial Premium Lager - Heineken,9.09
+Thai & Mighty - SD,Amsterdam Framboise - Diageo North America,7.92
+Elixir - NY,Amsterdam Framboise - Diageo North America,7.92
+Ozzies - TN,Acme California Pale Ale - Boston Beer Co,8.00
+Double A - ME,Aass Genuine Pilsner - Yanjing,7.89
+Hard Times & Misery Saloon - MO,Anchor Steam - Yanjing,15.00
+Grumpys Goat Shack - IN,Abita Light - Carlsberg,12.21
+Brew Ha Ha - IL,AleSmith IPA - Molson Coors Brewing,12.00
+Jumbos Clown Room - ND,Amsterdam Framboise - Diageo North America,7.92
+Fireside Bar - MS,Acme California Pale Ale - Boston Beer Co,8.00
+Brotherhood of Thieves - OR,Abita Amber - Tsingtao Brewery Group,15.50
+The Jack Saloon - KY,Affligem Blonde - Yanjing,9.99
+The Pitch & Roll - TX,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+The Surly Wench Pub - IA,Abita Wheat - Carlsberg,4:99
+Bar Cotto - MD,AleSmith IPA - Molson Coors Brewing,12.00
+Ballard Loft - FL,Aass Juleol Premium - Carlsberg,12.00
+Lone Palm - NJ,Abita Wheat - Carlsberg,4:99
+Lenys Place - HI,Acme California Pale Ale - Boston Beer Co,8.00
+Comet Tavern - AZ,Acme California Pale Ale - Boston Beer Co,8.00
+Lenys Place - NM,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Comet Tavern - WV,Aass Juleol Premium - Carlsberg,12.00
+Boxcar Ale House - WV,Abita Abbey Ale - Yanjing,15.00
+Jumbos Clown Room - MO,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Jumbos Clown Room - ND,Alhambra Especial Premium Lager - Heineken,9.09
+Men at Wok - NY,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Over the Tapas - VA,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Tempest Bar - CA,Abita Light - Carlsberg,12.21
+Hooverville Bar - IL,Allagash Dubbel Reserve - Yanjing,9.00
+Duchess Tavern - MT,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Grumpys Goat Shack - IN,Allagash Tripel Reserve - Heineken,8.21
+Bar Cotto - MD,Abita Amber - Tsingtao Brewery Group,15.50
+Comet Tavern - WV,A Marca Bavaria - Yanjing,5.00
+Quarter Lounge - NC,Amstel Light - North American Breweries,8.81
+Over the Tapas - VA,A Marca Bavaria - Yanjing,5.00
+Brotherhood of Thieves - OR,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Men at Wok - NY,Allagash Dubbel Reserve - Yanjing,9.00
+Quarter Lounge - NC,Aass Juleol Premium - Carlsberg,12.00
+Happy Birthday Bar - IL,Abita Jockamo IPA - Constellation Brands,11.23
+Tempest Bar - CA,Aass Genuine Pilsner - Yanjing,7.89
+Rob Roy - ME,Aass Genuine Pilsner - Yanjing,7.89
+The Bourbon Bar - LA,Allagash Dubbel Reserve - Yanjing,9.00
+Amelie - ND,A Marca Bavaria - Yanjing,5.00
+Rob Roy - ME,Aass Juleol Premium - Carlsberg,12.00
+Tin n Lint - VA,Abita Wheat - Carlsberg,4:99
+Happy Birthday Bar - IL,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Elixir - MN,Affligem Blonde - Yanjing,9.99
+Olde 99 - NY,AleSmith IPA - Molson Coors Brewing,12.00
+Jumbos Clown Room - ND,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Bar Cotto - GA,Abita Turbodog - Carlsberg,6.79
+Tempest Bar - CA,Allagash Tripel Reserve - Heineken,8.21
+Grumpys Goat Shack - MN,Alhambra Especial Premium Lager - Heineken,9.09
+Jumbos Clown Room - ND,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+The Grizzled Wizard - MI,Amsterdam Framboise - Diageo North America,7.92
+Tempest Bar - CA,AleSmith IPA - Molson Coors Brewing,12.00
+The Tasting Room - ME,Anchor Porter - Yanjing,11.17
+Unphogettable - ND,Amsterdam Framboise - Diageo North America,7.92
+Tempest Bar - CA,Allagash White - Asahi,5.16
+Amelie - ND,Amstel 1870 - Constellation Brands,7.60
+Unphogettable - ND,Abita Wheat - Carlsberg,4:99
+Hooverville Bar - UT,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Bar Cotto - GA,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Heartbeat - DE,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Hooverville Bar - IL,Allagash Dubbel Reserve - Yanjing,9.00
+The Jack Saloon - KY,Allagash Tripel Reserve - Heineken,8.21
+Atomic Liquors - MI,Abita Wheat - Carlsberg,4:99
+Hot Bird - MN,Allagash Dubbel Reserve - Yanjing,9.00
+Olde 99 - NY,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Lenys Place - NM,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Cantina - NH,Affligem Blonde - Yanjing,9.99
+Beer and Loathing in Dundee - SD,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+The Jack Saloon - GA,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Elixir - NY,Anchor Bock Beer - Pabst,9.29
+Ozzies - TN,Alhambra Especial Premium Lager - Heineken,9.09
+Cantina - NH,Amsterdam Framboise - Diageo North America,7.92
+Happy Birthday Bar - ND,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Jumbos Clown Room - MO,AleSmith IPA - Molson Coors Brewing,12.00
+Aesops Tables - TN,Anchor Liberty Ale - Pabst,10.43
+Bar Cotto - MD,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Wish You Were Beer - NM,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Atomic Liquors - TN,Amstel Light - North American Breweries,8.81
+Bubbas Sulky Lounge - WV,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+The Grizzled Wizard - MI,AleSmith IPA - Molson Coors Brewing,12.00
+Jumbos Clown Room - IA,Aass Genuine Pilsner - Yanjing,7.89
+The Pitch & Roll - NJ,Afanasy Dark Beer - Carlsberg,8.00
+Bloodhound - TN,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Comet Tavern - AZ,Abita Light - Carlsberg,12.21
+Happy Birthday Bar - IL,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Atomic Liquors - TN,Allagash Dubbel Reserve - Yanjing,9.00
+Unphogettable - ND,Alhambra Especial Premium Lager - Heineken,9.09
+Fat Angel - NV,Aass Genuine Pilsner - Yanjing,7.89
+Mustards Last Stand - TX,Acme California IPA - China Resources Snow Breweries,6.66
+Hazlewood - MD,Aass Juleol Premium - Carlsberg,12.00
+Boxcar Ale House - PA,Amsterdam Framboise - Diageo North America,7.92
+Double A - PA,Aass Juleol Premium - Carlsberg,12.00
+Boxcar Ale House - AZ,Alhambra Especial Premium Lager - Heineken,9.09
+Happy Birthday Bar - ND,Altenmunster Premium - North American Breweries,11.19
+Bubbas Sulky Lounge - WV,Abita Wheat - Carlsberg,4:99
+Hooverville Bar - IL,Allagash White - Asahi,5.16
+Happy Birthday Bar - IA,Aass Lauritz Pilsner - Molson Coors Brewing,11.00
+Hot Bird - MN,Aass Genuine Pilsner - Yanjing,7.89
+Bloodhound - TN,Allagash Tripel Reserve - Heineken,8.21
+Tempest Bar - CA,Abita Wheat - Carlsberg,4:99
+The Cask - PA,Aass Juleol Premium - Carlsberg,12.00
+Comet Tavern - WV,Abita Abbey Ale - Yanjing,15.00
+Double A - PA,Acme California Pale Ale - Boston Beer Co,8.00
+Jumbos Clown Room - MO,Acme California Pale Ale - Boston Beer Co,8.00
+Comet Tavern - AZ,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Rob Roy - PA,Amstel Light - North American Breweries,8.81
+Noc Noc - AZ,Amsterdam Natural Blonde - Heineken,7.77
+Amelie - ND,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Comet Tavern - WV,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+The Surly Wench Pub - IA,Alamo Golden Ale - Carlsberg,7.00
+Mustards Last Stand - OR,Amsterdam Natural Blonde - Heineken,7.77
+Jumbos Clown Room - ND,Anchor Steam - Yanjing,15.00
+Crimson Lounge - FL,Acme California IPA - China Resources Snow Breweries,6.66
+Bubbas Sulky Lounge - WV,Abita Light - Carlsberg,12.21
+Jumbos Clown Room - ND,Acme California IPA - China Resources Snow Breweries,6.66
+Boxcar Ale House - MI,A Marca Bavaria - Yanjing,5.00
+Jumbos Clown Room - MO,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Hazlewood - MD,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Aesops Tables - MS,Altenmunster Premium - North American Breweries,11.19
+Bloodhound - TN,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Rob Roy - PA,Abita Amber - Tsingtao Brewery Group,15.50
+The Bourbon Bar - LA,Anchor Bock Beer - Pabst,9.29
+Rye - MT,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+The Pitch & Roll - NJ,Acme California IPA - China Resources Snow Breweries,6.66
+The Tipsy Cow - AR,Abita Light - Carlsberg,12.21
+The Grizzled Wizard - MI,Altenmunster Premium - North American Breweries,11.19
+Heartbeat - DE,Alhambra Especial Premium Lager - Heineken,9.09
+Beer and Loathing in Dundee - SD,Acme California IPA - China Resources Snow Breweries,6.66
+Wish You Were Beer - NY,Abita Amber - Tsingtao Brewery Group,15.50
+Beer and Loathing in Dundee - SD,Amsterdam Framboise - Diageo North America,7.92
+Beer and Loathing in Dundee - SD,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Bandits Bar - NY,AleSmith IPA - Molson Coors Brewing,12.00
+Lava Lounge - MO,Anchor Porter - Yanjing,11.17
+Fat Angel - NV,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+Tin n Lint - VA,Anchor Steam - Yanjing,15.00
+Smog Cutter - NC,AleSmith Old Numbskull - Pabst,13.04
+Beer and Loathing in Dundee - SD,Abita Abbey Ale - Yanjing,15.00
+Over the Tapas - VA,Abita Light - Carlsberg,12.21
+Jumbos Clown Room - MO,Anchor Bock Beer - Pabst,9.29
+Fat Angel - NV,Allagash Tripel Reserve - Heineken,8.21
+Hot Bird - MN,Amsterdam Framboise - Diageo North America,7.92
+Rye - MT,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Double A - PA,Asahi Brewmaster's Select - China Resources Snow Breweries,12.02
+Wish You Were Beer - NY,Abita Light - Carlsberg,12.21
+Rob Roy - ME,Amsterdam Natural Blonde - Heineken,7.77
+Rob Roy - PA,Abita Light - Carlsberg,12.21
+Hard Times & Misery Saloon - MO,Anchor Liberty Ale - Pabst,10.43
+The Pitch & Roll - TX,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Elixir - MN,AleSmith IPA - Molson Coors Brewing,12.00
+Bar Cotto - MD,Amsterdam Natural Blonde - Heineken,7.77
+The Jack Saloon - GA,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Aesops Tables - TN,Allagash White - Asahi,5.16
+Fat Angel - NV,Altenmunster Premium - North American Breweries,11.19
+Jumbos Clown Room - MO,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Bloodhound - TN,Acme California IPA - China Resources Snow Breweries,6.66
+Ozzies - TN,Aass Juleol Premium - Carlsberg,12.00
+Grumpys Goat Shack - MN,Afanasy Dark Beer - Carlsberg,8.00
+Grumpys Goat Shack - IN,Alamo Golden Ale - Carlsberg,7.00
+The Surly Wench Pub - NH,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+Atomic Liquors - MI,Alhambra Especial Premium Lager - Heineken,9.09
+Crimson Lounge - FL,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Jumbos Clown Room - MO,Afanasy Dark Beer - Carlsberg,8.00
+Liberty - NM,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+The Grizzled Wizard - MI,Acme California IPA - China Resources Snow Breweries,6.66
+Bar Cotto - MD,AleSmith IPA - Molson Coors Brewing,12.00
+The Peoples Republik - OR,Acme California IPA - China Resources Snow Breweries,6.66
+Atomic Liquors - TN,Amstel 1870 - Constellation Brands,7.60
+Noc Noc - AZ,Altenmunster Premium - North American Breweries,11.19
+The Tipsy Cow - AR,Aass Bock Beer - Anheuser-Busch InBev,10.00
+Over the Tapas - VA,Abita Fleur-de-Lis Restoration Ale - China Resources Snow Breweries,16.60
+The Surly Wench Pub - IA,Amstel Light - North American Breweries,8.81
+Tempest Bar - CA,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+The Bourbon Bar - LA,Amsterdam Framboise - Diageo North America,7.92
+Happy Birthday Bar - IA,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Rossis - VA,Amsterdam Framboise - Diageo North America,7.92
+Boxcar Ale House - MI,Alexander Keith's Red Amber Ale - Anheuser-Busch InBev,16.00
+The Jack Saloon - GA,Alhambra Especial Premium Lager - Heineken,9.09
+Atomic Liquors - MI,Amsterdam Natural Blonde - Heineken,7.77
+Grumpys Goat Shack - MN,AleSmith Old Numbskull - Pabst,13.04
+The Bourbon Bar - AR,Amstel 1870 - Constellation Brands,7.60
+Mustards Last Stand - TX,Alamo Golden Ale - Carlsberg,7.00
+Grumpys Goat Shack - TN,Aass Genuine Pilsner - Yanjing,7.89
+Grumpys Goat Shack - TN,Allagash White - Asahi,5.16
+Comet Tavern - WV,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Thai & Mighty - SD,Acme California IPA - China Resources Snow Breweries,6.66
+Double A - ME,Alexander Keith's India Pale Ale - Carlsberg,13.35
+Bar Cotto - GA,Amsterdam Natural Blonde - Heineken,7.77
+Amelie - ND,A Marca Bavaria - Yanjing,5.00
+Lenys Place - NM,Allagash Tripel Reserve - Heineken,8.21
+Happy Birthday Bar - IA,Aecht Schlenkerla Rauchbier Marzen - Tsingtao Brewery Group,7.77
+Boxcar Ale House - MI,Anchor Porter - Yanjing,11.17
+Tempest Bar - CA,Amsterdam Natural Blonde - Heineken,7.77
+Fireside Bar - MS,Amsterdam Dutch Amber - China Resources Snow Breweries,4.50
+Happy Birthday Bar - ND,Alaskan Summer Ale - China Resources Snow Breweries,11.71
+Bar Cotto - GA,Abita Jockamo IPA - Constellation Brands,11.23
+Rye - MT,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Tempest Bar - ME,Anchor Liberty Ale - Pabst,10.43
+Rye - MT,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Men at Wok - NY,Alaskan Oatmeal Stout - Boston Beer Co,5.55
+Mustards Last Stand - TX,Altenmunster Premium - North American Breweries,11.19
+Hard Times & Misery Saloon - MO,Acme California Pale Ale - Boston Beer Co,8.00
