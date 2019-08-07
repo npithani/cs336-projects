@@ -1,0 +1,331 @@
+<html>
+  <head>
+    <title>Google MDL Navigation Layout : Fixed header </title>
+    <!-- Material Design Lite -->
+    <script type="text/javascript" src="/extra.js"></script>
+    <script src="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.min.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script>
+window.onload = function () {
+  
+var chart = new CanvasJS.Chart("chartContainer1", {
+  animationEnabled: true,
+  
+  title:{
+    text:"Fortune 500 Companies by Country"
+  },
+  axisX:{
+    interval: 1
+  },
+  axisY2:{
+    interlacedColor: "rgba(1,77,101,.2)",
+    gridColor: "rgba(1,77,101,.1)",
+    title: "Number of Companies"
+  },
+  data: [{
+    type: "bar",
+    name: "companies",
+    axisYType: "secondary",
+    color: "#014D65",
+    dataPoints: [
+      { y: 3, label: "Sweden" },
+      { y: 7, label: "Taiwan" },
+      { y: 5, label: "Russia" },
+      { y: 9, label: "Spain" },
+      { y: 7, label: "Brazil" },
+      { y: 7, label: "India" },
+      { y: 9, label: "Italy" },
+      { y: 8, label: "Australia" },
+      { y: 11, label: "Canada" },
+      { y: 15, label: "South Korea" },
+      { y: 12, label: "Netherlands" },
+      { y: 15, label: "Switzerland" },
+      { y: 134, label: "US" }
+    ]
+  }]
+});
+chart.render();
+
+var chart = new CanvasJS.Chart("chartContainer2", {
+  animationEnabled: true,
+  
+  title:{
+    text:"Fortune 500 Companies by Country"
+  },
+  axisX:{
+    interval: 1
+  },
+  axisY2:{
+    interlacedColor: "rgba(1,77,101,.2)",
+    gridColor: "rgba(1,77,101,.1)",
+    title: "Number of Companies"
+  },
+  data: [{
+    type: "bar",
+    name: "companies",
+    axisYType: "secondary",
+    color: "#014D65",
+    dataPoints: [
+      { y: 3, label: "Sweden" },
+      { y: 7, label: "Taiwan" },
+      { y: 5, label: "Russia" },
+      { y: 9, label: "Spain" },
+      { y: 7, label: "Brazil" },
+      { y: 7, label: "India" },
+      { y: 9, label: "Italy" },
+      { y: 8, label: "Australia" },
+      { y: 11, label: "Canada" },
+      { y: 15, label: "South Korea" },
+      { y: 12, label: "Netherlands" },
+      { y: 15, label: "Switzerland" },
+      { y: 134, label: "US" }
+    ]
+  }]
+});
+chart.render();
+
+var chart = new CanvasJS.Chart("chartContainer3", {
+  animationEnabled: true,
+  
+  title:{
+    text:"Fortune 500 Companies by Country"
+  },
+  axisX:{
+    interval: 1
+  },
+  axisY2:{
+    interlacedColor: "rgba(1,77,101,.2)",
+    gridColor: "rgba(1,77,101,.1)",
+    title: "Number of Companies"
+  },
+  data: [{
+    type: "bar",
+    name: "companies",
+    axisYType: "secondary",
+    color: "#014D65",
+    dataPoints: [
+      { y: 3, label: "Sweden" },
+      { y: 7, label: "Taiwan" },
+      { y: 5, label: "Russia" },
+      { y: 9, label: "Spain" },
+      { y: 7, label: "Brazil" },
+      { y: 7, label: "India" },
+      { y: 9, label: "Italy" },
+      { y: 8, label: "Australia" },
+      { y: 11, label: "Canada" },
+      { y: 15, label: "South Korea" },
+      { y: 12, label: "Netherlands" },
+      { y: 15, label: "Switzerland" },
+      { y: 134, label: "US" }
+    ]
+  }]
+});
+chart.render();
+
+}
+</script>
+<script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Year', 'Sales', 'Expenses'],
+          ['2004',  1000,      400],
+          ['2005',  1170,      460],
+          ['2006',  660,       1120],
+          ['2007',  1030,      540]
+        ]);
+
+        var options = {
+          title: 'Company Performance',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+    </script>
+    <!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.min.js"></script>-->
+    <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script> -->
+   <link rel="stylesheet" 
+    href="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.red-purple.min.css" /> 
+    <!-- Material Design icon font -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" type="text/css" href="stylesheet1.css">
+  </head>
+  <style>
+    body{background:#eee;}
+    
+  </style>
+  <body>
+     <!-- MDL navigation container -->
+  <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+    
+    
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+      <!-- Title of the Header -->
+      <span class="mdl-layout-title">Bar Beer Drinker Database</span>
+      <!-- Spacer, to align items to right -->
+      <div class="mdl-layout-spacer"></div>
+      <!-- Navigation links, hidden on smaller displays -->
+      <nav class="mdl-navigation mdl-layout--large-screen-only">
+      <a class="mdl-navigation__link" href="bar.html">Bar</a>
+      <a class="mdl-navigation__link" href="beer.html">Beer</a>
+      <a class="mdl-navigation__link" href="drinker.html">Drinker</a>
+      <a class="mdl-navigation__link" href="query.html">Query Interface</a>
+      <a class="mdl-navigation__link" href="modification.html">Modification Page</a>
+
+      </nav>
+    </div>
+  </header>
+    
+    <!-- Drawer container -->
+  <div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">Quick Links</span>
+    <!-- navigation Container, with links -->
+    <nav class="mdl-navigation">
+      <a class="mdl-navigation__link" href="bar.html">Bar</a>
+      <a class="mdl-navigation__link" href="beer.html">Beer</a>
+      <a class="mdl-navigation__link" href="drinker.html">Drinker</a>
+      <a class="mdl-navigation__link" href="query.html">Query Interface</a>
+      <a class="mdl-navigation__link" href="modification.html">Modification Page</a>
+    </nav>
+  </div>
+
+  
+  <!--  styling for Square card -->
+<style>
+.demo-card-square.mdl-card {
+  width: 30%;
+  height: 60%;
+  margin-left: 5%;
+  margin-top: 5%;
+  display: inline-block;
+  margin-bottom: 5%;
+  /*position: relative;*/
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background:
+    url('../assets/demos/dog.png') bottom right 15% no-repeat #46B6AC;
+}
+</style>
+    
+  <main class="mdl-layout__content">
+    <div class="page-content">
+      <!-- styling for Square card -->
+<style>
+.demo-card-square.mdl-card {
+  width: 30%;
+  height: 45%;
+  margin-left: 5%;
+  top: 10%;
+  display: inline-block;
+  margin-bottom: 5%;
+  /*position: relative;*/
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background:
+    url('../assets/demos/dog.png') bottom right 15% no-repeat #46B6AC;
+}
+</style>
+<script>
+  var myChart = new Chart(ctx, {
+type: 'bar',
+data: {
+    labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+    datasets: [{
+        label: 'Those are colors',
+        data: [12, 19, 3, 5, 2, 3]
+    }]
+},
+});
+</script>
+
+
+
+<!-- Field for entering bar -->
+<td class = "field1">Enter Bar Name</td>
+<form action = "#">
+  <div class = "mdl-textfield mdl-js-textfield">
+    <input class = "mdl-textfield__input" type = "text" id = "text1">
+    <label class = "mdl-textfield__label" for = "text1">Text...</label>
+  </div>
+</form>
+
+<!-- card one -->
+<div class="demo-card-square mdl-card mdl-shadow--2dp">
+  <div class="mdl-card__title mdl-card--expand">
+    <h2 class="mdl-card__title-text">Bar Graph 1</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    <div id="chartContainer1" style="height: 65%; width: 100%;"></div>
+  </div>
+</div>
+
+<!-- card two -->
+<div class="demo-card-square mdl-card mdl-shadow--2dp">
+  <div class="mdl-card__title mdl-card--expand">
+    <h2 class="mdl-card__title-text">Bar Graph 2</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    <div id="chartContainer2" style="height: 65%; width: 100%;"></div>
+  </div>
+</div>
+
+<!-- card three -->
+<div class="demo-card-square mdl-card mdl-shadow--2dp">
+  <div class="mdl-card__title mdl-card--expand">
+    <h2 class="mdl-card__title-text">Bar Graph 3</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    <div id="chartContainer3" style="height: 65%; width: 100%;"></div>
+  </div>
+</div>
+
+<!-- card four -->
+<div class="demo-card-square mdl-card mdl-shadow--2dp">
+  <div class="mdl-card__title mdl-card--expand">
+    <h2 class="mdl-card__title-text">Time Distribution</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    <div id="curve_chart" style="width: 100%; height: 70%"></div>
+  </div>
+</div>
+
+<div class="demo-card-square mdl-card mdl-shadow--2dp">
+  <div class="mdl-card__title mdl-card--expand">
+    <h2 class="mdl-card__title-text">Type in a Query to Modify Transactions Table</h2>
+  </div>
+  <div class="mdl-card__supporting-text">
+    <form action = "#">
+      <div class = "mdl-textfield mdl-js-textfield">
+        <textarea class = "mdl-textfield__input" type = "text" rows =  "3" id = "text7" ></textarea>
+        <label class = "mdl-textfield__label" for = "text7">Lines...</label>
+      </div>
+    </form>
+  </div>
+  </br>
+  <div class = "mdl-card__actions mdl-card--border">
+    <a class = "mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+      SUBMIT
+    </a>
+  </div>
+</div>
+
+
+
+    </div>
+  </main>
+    
+</div>
+
+</body>
+</html>
